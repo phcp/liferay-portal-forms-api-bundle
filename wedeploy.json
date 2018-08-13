@@ -1,0 +1,17 @@
+{
+    "id": "lfr",
+    "port": 8080,
+    "memory": 6144,
+    "cpu": 4,
+    "volumes": {
+        "osgi": "/liferay/osgi",
+        "data": "/opt/liferay/data/"
+    },
+    "healthCheck": {
+        "url": "localhost:8080",
+        "startPeriod": 180,
+        "timeout": 999999,
+        "interval": 30,
+        "retries": 3
+    }
+}
