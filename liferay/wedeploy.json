@@ -3,6 +3,9 @@
     "port": 8080,
     "memory": 6144,
     "cpu": 4,
+    "dependencies": [
+        "db"
+    ],
     "volumes": {
         "osgi": "/liferay/osgi",
         "data": "/opt/liferay/data/"
