@@ -1,7 +1,0 @@
-2018-06-20 17:06:36.715 INFO  [liferay/scheduler_dispatch-1][PluginPackageUtil:1264] Reloading repositories
-2018-06-20 19:01:01.965 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=39m21s15ms).
-2018-06-20 19:01:01.965 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m21s15ms).
-2018-06-20 21:01:56.780 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h24s803ms).
-2018-06-20 21:01:56.801 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h24s809ms).
-2018-06-20 23:02:50.925 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h24s134ms).
-2018-06-20 23:02:50.940 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h24s136ms).
