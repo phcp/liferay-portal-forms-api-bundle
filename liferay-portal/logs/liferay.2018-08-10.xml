@@ -1,0 +1,365 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533863237227" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h26m10s174ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533863241045" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h26m10s174ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533870495879" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s637ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533870499700" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s639ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533877754896" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s10ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533877758725" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s9ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533885012918" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h28s9ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533885016742" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s9ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533892237131" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h24s213ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533892244791" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h28s49ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533899500015" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h29s45ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533899503846" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h29s51ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533900764520" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s493ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533900768340" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s487ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533904994045" level="INFO" thread="liferay/scheduler_dispatch-3">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1264"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533904996128" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h10m1s598ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533904999948" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h10m1s592ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533906225753" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m29s625ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533906234292" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s345ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533909836132" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59m35s648ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533909839941" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=59m35s641ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533921905946" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m3s387ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533921905974" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m3s388ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533925886683" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m14s617ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533925886691" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s615ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533926940463" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5m3s710ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533926940463" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m3s710ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927605102" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m34s638ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927605102" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m34s633ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927875485" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m367ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927875485" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m367ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927928067" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s582ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533927928068" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=52s583ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533935356330" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m39s642ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533935356330" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=15m39s642ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533938922098" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=59m25s768ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533938922098" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=59m25s768ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533939008448" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s349ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533939008464" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=56s348ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533941682183" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=44m33s735ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533941682198" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=44m33s734ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941715486" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941715491" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for admin-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941715516" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1533941716311" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering layout templates for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="137"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1533941716313" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[5 layout templates for frontend-columns-layouttpl were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="159"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941716314" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1533941716461" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941716463" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for social-bookmarks-hook]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941717648" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941717649" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for classic-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941717650" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941718047" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941718082" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for powwow-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1533941718125" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for powwow-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941718471" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941718886" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for westeros-bank-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941718887" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for westeros-bank-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941718889" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for westeros-bank-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941718992" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for fjord-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941718992" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for fjord-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941718994" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for fjord-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941719909" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941720230" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1533941720261" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for opensocial-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941720328" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941720366" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for porygon-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1533941720367" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for porygon-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941720368" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for porygon-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941720553" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1533941720574" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for tasks-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1533941720609" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for tasks-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533941720639" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1001"/>
+</log4j:event>
+

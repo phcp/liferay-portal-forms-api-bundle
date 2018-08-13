@@ -1,0 +1,105 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528815889872" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m7s753ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528815889872" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=22m7s753ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528821008055" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s130ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528821008055" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=45s130ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528822827364" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=48s270ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528822827364" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s270ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1528825773601" level="INFO" thread="liferay/scheduler_dispatch-5">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1264"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528825779818" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=34m39s365ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528825779818" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m39s365ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528826705964" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m26s146ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528826705965" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=15m26s147ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528833961967" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s996ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528833961967" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s996ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528835315619" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s639ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528835315619" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s639ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528842541710" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s92ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528842541710" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s92ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528849797827" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s108ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528849797827" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s108ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528857053941" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s106ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1528857053941" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s106ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

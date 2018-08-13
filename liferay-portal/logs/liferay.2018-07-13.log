@@ -1,0 +1,63 @@
+2018-07-13 13:48:36.917 ERROR [http-nio-8080-exec-8][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 13:50:04.261 ERROR [http-nio-8080-exec-3][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 13:52:41.063 ERROR [http-nio-8080-exec-5][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 13:53:24.052 ERROR [http-nio-8080-exec-8][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 13:54:04.924 ERROR [http-nio-8080-exec-9][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 13:56:20.307 ERROR [http-nio-8080-exec-2][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 14:44:30.377 ERROR [http-nio-8080-exec-9][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 14:48:32.663 ERROR [http-nio-8080-exec-8][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 14:49:02.399 ERROR [http-nio-8080-exec-4][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 14:49:34.602 ERROR [http-nio-8080-exec-10][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 17:40:42.023 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s917ms).
+2018-07-13 17:40:42.023 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s917ms).
+2018-07-13 17:59:11.414 INFO  [liferay/scheduler_dispatch-3][PluginPackageUtil:1264] Reloading repositories
+2018-07-13 18:01:28.787 ERROR [http-nio-8080-exec-8][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:08:38.172 ERROR [http-nio-8080-exec-10][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:10:49.259 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m39s281ms).
+2018-07-13 18:10:49.259 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m39s281ms).
+2018-07-13 18:11:05.748 ERROR [http-nio-8080-exec-4][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:16:38.922 ERROR [http-nio-8080-exec-10][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:19:56.762 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m21s421ms).
+2018-07-13 18:19:56.762 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m21s421ms).
+2018-07-13 18:22:59.717 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m2s955ms).
+2018-07-13 18:22:59.717 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m2s955ms).
+2018-07-13 18:30:06.731 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m7s14ms).
+2018-07-13 18:30:06.732 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m7s15ms).
+2018-07-13 18:30:06.733 ERROR [http-nio-8080-exec-3][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:39:45.522 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m52s455ms).
+2018-07-13 18:39:45.522 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m52s455ms).
+2018-07-13 18:39:45.526 ERROR [http-nio-8080-exec-5][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 18:40:27.009 ERROR [http-nio-8080-exec-9][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 20:10:44.648 ERROR [http-nio-8080-exec-2][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-13 21:12:08.386 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-07-13 21:12:08.415 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-07-13 21:12:08.456 INFO  [Thread-42][HookHotDeployListener:581] Hook for tasks-portlet was unregistered
+2018-07-13 21:12:08.517 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for tasks-portlet
+2018-07-13 21:12:09.245 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for porygon-theme
+2018-07-13 21:12:09.250 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-07-13 21:12:09.251 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for porygon-theme
+2018-07-13 21:12:09.398 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-07-13 21:12:09.399 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-07-13 21:12:09.400 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for admin-theme
+2018-07-13 21:12:09.930 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-07-13 21:12:09.967 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-07-13 21:12:10.012 INFO  [Thread-42][HookHotDeployListener:581] Hook for powwow-portlet was unregistered
+2018-07-13 21:12:10.062 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for powwow-portlet
+2018-07-13 21:12:11.203 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for westeros-bank-theme
+2018-07-13 21:12:11.204 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-07-13 21:12:11.206 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for westeros-bank-theme
+2018-07-13 21:12:11.266 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-07-13 21:12:11.267 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-07-13 21:12:11.524 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for classic-theme
+2018-07-13 21:12:11.821 INFO  [Thread-42][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-07-13 21:12:11.822 INFO  [Thread-42][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-07-13 21:12:11.823 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for frontend-columns-layouttpl
+2018-07-13 21:12:12.041 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-07-13 21:12:12.327 INFO  [Thread-42][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-07-13 21:12:12.361 INFO  [Thread-42][HookHotDeployListener:581] Hook for opensocial-portlet was unregistered
+2018-07-13 21:12:12.451 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for opensocial-portlet
+2018-07-13 21:12:12.951 INFO  [Thread-42][HookHotDeployListener:581] Hook for social-bookmarks-hook was unregistered
+2018-07-13 21:12:12.952 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for social-bookmarks-hook
+2018-07-13 21:12:13.257 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for fjord-theme
+2018-07-13 21:12:13.258 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-07-13 21:12:13.259 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for fjord-theme

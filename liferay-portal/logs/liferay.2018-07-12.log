@@ -1,0 +1,26 @@
+2018-07-12 04:32:28.308 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h6m21s394ms).
+2018-07-12 04:32:28.308 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h6m23s21ms).
+2018-07-12 06:32:39.866 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h11s797ms).
+2018-07-12 06:32:39.867 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h11s772ms).
+2018-07-12 08:32:57.046 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h17s213ms).
+2018-07-12 08:32:57.369 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h17s520ms).
+2018-07-12 11:28:02.858 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h55m5s410ms).
+2018-07-12 11:28:02.858 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h55m5s769ms).
+2018-07-12 11:28:32.006 WARN  [HikariPool-1 housekeeper][HikariPool:677] HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s192ms), soft-evicting connections from pool.
+2018-07-12 11:28:32.047 WARN  [HikariPool-2 housekeeper][HikariPool:677] HikariPool-2 - Retrograde clock change detected (housekeeper delta=29s268ms), soft-evicting connections from pool.
+2018-07-12 11:59:03.945 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m1s767ms).
+2018-07-12 11:59:03.964 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=17m1s769ms).
+2018-07-12 12:01:35.363 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m31s418ms).
+2018-07-12 12:01:35.384 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m31s420ms).
+2018-07-12 17:16:53.111 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h59m43s457ms).
+2018-07-12 17:16:53.111 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h59m43s457ms).
+2018-07-12 17:59:11.415 INFO  [liferay/scheduler_dispatch-5][PluginPackageUtil:1264] Reloading repositories
+2018-07-12 19:51:43.382 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:38] STOPPED com.liferay.forms.apio.impl_1.0.0 [993]
+2018-07-12 19:51:48.510 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:38] STOPPED com.liferay.forms.apio.api_1.0.0 [988]
+2018-07-12 19:51:48.589 INFO  [Refresh Thread: Equinox Container: a03fb1ee-3385-0018-16fe-bb22a7a64288][BundleStartStopLogger:35] STARTED com.liferay.forms.apio.api_1.0.0 [988]
+2018-07-12 19:51:53.860 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.forms.apio.impl_1.0.0 [1006]
+2018-07-12 20:17:51.689 ERROR [http-nio-8080-exec-4][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-12 20:19:01.416 ERROR [http-nio-8080-exec-7][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-12 20:43:27.144 ERROR [http-nio-8080-exec-4][ApioLoggerImpl:39] Field "binaryFile" is required
+2018-07-12 21:04:44.088 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m17s57ms).
+2018-07-12 21:04:44.093 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m17s54ms).

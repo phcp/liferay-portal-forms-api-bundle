@@ -1,0 +1,34 @@
+2018-07-20 16:03:40.861 INFO  [liferay/scheduler_dispatch-5][PluginPackageUtil:1264] Reloading repositories
+2018-07-20 17:52:32.480 ERROR [http-nio-8080-exec-10][ApioLoggerImpl:39] No DDMFormInstance exists with the primary key 44180
+2018-07-20 20:23:13.486 INFO  [Thread-42][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-07-20 20:23:13.489 INFO  [Thread-42][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-07-20 20:23:13.503 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for frontend-columns-layouttpl
+2018-07-20 20:23:13.990 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-07-20 20:23:13.992 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-07-20 20:23:13.993 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for admin-theme
+2018-07-20 20:23:14.314 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-07-20 20:23:14.407 INFO  [Thread-42][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-07-20 20:23:14.490 INFO  [Thread-42][HookHotDeployListener:581] Hook for opensocial-portlet was unregistered
+2018-07-20 20:23:15.011 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for opensocial-portlet
+2018-07-20 20:23:15.890 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-07-20 20:23:16.337 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-07-20 20:23:16.415 INFO  [Thread-42][HookHotDeployListener:581] Hook for powwow-portlet was unregistered
+2018-07-20 20:23:16.497 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for powwow-portlet
+2018-07-20 20:23:16.967 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-07-20 20:23:17.024 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-07-20 20:23:17.090 INFO  [Thread-42][HookHotDeployListener:581] Hook for tasks-portlet was unregistered
+2018-07-20 20:23:17.178 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for tasks-portlet
+2018-07-20 20:23:18.245 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for fjord-theme
+2018-07-20 20:23:18.246 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-07-20 20:23:18.626 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for fjord-theme
+2018-07-20 20:23:18.764 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for porygon-theme
+2018-07-20 20:23:18.765 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-07-20 20:23:18.767 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for porygon-theme
+2018-07-20 20:23:18.928 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-07-20 20:23:18.929 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-07-20 20:23:18.930 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for classic-theme
+2018-07-20 20:23:19.106 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for westeros-bank-theme
+2018-07-20 20:23:19.107 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-07-20 20:23:19.108 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for westeros-bank-theme
+2018-07-20 20:23:19.778 INFO  [Thread-42][HookHotDeployListener:581] Hook for social-bookmarks-hook was unregistered
+2018-07-20 20:23:19.779 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for social-bookmarks-hook

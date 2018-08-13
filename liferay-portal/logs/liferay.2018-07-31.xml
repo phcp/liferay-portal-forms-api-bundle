@@ -1,0 +1,1181 @@
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1533040117936" level="INFO" thread="liferay/scheduler_dispatch-12">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1264"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043185387" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5d0b65f3]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.service.permission.UserPermissionImpl" timestamp="1533043193131" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}]]></log4j:message>
+<log4j:throwable><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1472)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasPermissionImpl(AdvancedPermissionChecker.java:1430)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.hasPermission(AdvancedPermissionChecker.java:299)
+	at com.liferay.portal.security.permission.BasePermissionChecker.hasPermission(BasePermissionChecker.java:114)
+	at com.liferay.staging.security.internal.permission.StagingPermissionChecker.hasPermission(StagingPermissionChecker.java:133)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:121)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:196)
+	at com.liferay.portal.service.permission.UserPermissionImpl.check(UserPermissionImpl.java:67)
+	at com.liferay.portal.kernel.service.permission.UserPermissionUtil.check(UserPermissionUtil.java:39)
+	at com.liferay.portal.service.impl.UserServiceImpl.getUserById(UserServiceImpl.java:932)
+	at sun.reflect.GeneratedMethodAccessor555.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy160.getUserById(Unknown Source)
+	at com.liferay.person.apio.internal.resource.PersonCollectionResource._getUserWrapper(PersonCollectionResource.java:223)
+	at com.liferay.apio.architect.function.throwable.ThrowableBiFunction.lambda$andThen$0(ThrowableBiFunction.java:48)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$24(ItemRoutes.java:350)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$14(RoutesBuilderUtil.java:188)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$15(RoutesBuilderUtil.java:207)
+	at com.liferay.apio.architect.functional.Try.fromFallible(Try.java:78)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:206)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:184)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$26(ItemRoutes.java:344)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.lambda$_getSingleModelOptional$7(PageMessageBodyWriter.java:198)
+	at java.util.Optional.map(Optional.java:215)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter._getSingleModelOptional(PageMessageBodyWriter.java:197)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$getSingleModel$0(FieldsWriter.java:68)
+	at java.util.function.Function.lambda$andThen$1(Function.java:88)
+	at com.liferay.apio.architect.writer.FieldsWriter.getSingleModel(FieldsWriter.java:69)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:431)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:375)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$writeRelatedModels$12(FieldsWriter.java:472)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModels(FieldsWriter.java:471)
+	at com.liferay.apio.architect.writer.PageWriter._writeItem(PageWriter.java:405)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$write$0(PageWriter.java:117)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1080)
+	at com.liferay.apio.architect.writer.PageWriter.write(PageWriter.java:116)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:180)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:79)
+	at org.apache.cxf.jaxrs.utils.JAXRSUtils.writeMessageBody(JAXRSUtils.java:1412)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.serializeMessage(JAXRSOutInterceptor.java:244)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.processResponse(JAXRSOutInterceptor.java:120)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.handleMessage(JAXRSOutInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.interceptor.OutgoingChainInterceptor.handleMessage(OutgoingChainInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:252)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:223)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:361)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:169)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:407)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.portal.kernel.exception.NoSuchResourcePermissionException: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.service.impl.ResourcePermissionLocalServiceImpl.hasResourcePermission(ResourcePermissionLocalServiceImpl.java:710)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy117.hasResourcePermission(Unknown Source)
+	at com.liferay.portal.service.impl.ResourceLocalServiceImpl.hasUserPermissions(ResourceLocalServiceImpl.java:450)
+	at sun.reflect.GeneratedMethodAccessor543.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy101.hasUserPermissions(Unknown Source)
+	at com.liferay.portal.kernel.service.ResourceLocalServiceUtil.hasUserPermissions(ResourceLocalServiceUtil.java:321)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.doCheckPermission(AdvancedPermissionChecker.java:470)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1461)
+	... 137 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.service.permission.UserPermissionImpl" method="contains" file="UserPermissionImpl.java" line="186"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.service.permission.UserPermissionImpl" timestamp="1533043193138" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}]]></log4j:message>
+<log4j:throwable><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1472)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasPermissionImpl(AdvancedPermissionChecker.java:1430)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.hasPermission(AdvancedPermissionChecker.java:299)
+	at com.liferay.portal.security.permission.BasePermissionChecker.hasPermission(BasePermissionChecker.java:114)
+	at com.liferay.staging.security.internal.permission.StagingPermissionChecker.hasPermission(StagingPermissionChecker.java:133)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:121)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:196)
+	at com.liferay.portal.service.permission.UserPermissionImpl.check(UserPermissionImpl.java:67)
+	at com.liferay.portal.kernel.service.permission.UserPermissionUtil.check(UserPermissionUtil.java:39)
+	at com.liferay.portal.service.impl.UserServiceImpl.getUserById(UserServiceImpl.java:932)
+	at sun.reflect.GeneratedMethodAccessor555.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy160.getUserById(Unknown Source)
+	at com.liferay.person.apio.internal.resource.PersonCollectionResource._getUserWrapper(PersonCollectionResource.java:223)
+	at com.liferay.apio.architect.function.throwable.ThrowableBiFunction.lambda$andThen$0(ThrowableBiFunction.java:48)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$24(ItemRoutes.java:350)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$14(RoutesBuilderUtil.java:188)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$15(RoutesBuilderUtil.java:207)
+	at com.liferay.apio.architect.functional.Try.fromFallible(Try.java:78)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:206)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:184)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$26(ItemRoutes.java:344)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.lambda$_getSingleModelOptional$7(PageMessageBodyWriter.java:198)
+	at java.util.Optional.map(Optional.java:215)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter._getSingleModelOptional(PageMessageBodyWriter.java:197)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$getSingleModel$0(FieldsWriter.java:68)
+	at java.util.function.Function.lambda$andThen$1(Function.java:88)
+	at com.liferay.apio.architect.writer.FieldsWriter.getSingleModel(FieldsWriter.java:69)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:431)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:375)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$writeRelatedModels$12(FieldsWriter.java:472)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModels(FieldsWriter.java:471)
+	at com.liferay.apio.architect.writer.PageWriter._writeItemEmbeddedModelFields(PageWriter.java:528)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$_writeNestedResources$38(PageWriter.java:583)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1374)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at com.liferay.apio.architect.writer.PageWriter._writeNestedResources(PageWriter.java:573)
+	at com.liferay.apio.architect.writer.PageWriter._writeItem(PageWriter.java:429)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$write$0(PageWriter.java:117)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1080)
+	at com.liferay.apio.architect.writer.PageWriter.write(PageWriter.java:116)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:180)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:79)
+	at org.apache.cxf.jaxrs.utils.JAXRSUtils.writeMessageBody(JAXRSUtils.java:1412)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.serializeMessage(JAXRSOutInterceptor.java:244)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.processResponse(JAXRSOutInterceptor.java:120)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.handleMessage(JAXRSOutInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.interceptor.OutgoingChainInterceptor.handleMessage(OutgoingChainInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:252)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:223)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:361)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:169)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:407)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.portal.kernel.exception.NoSuchResourcePermissionException: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.service.impl.ResourcePermissionLocalServiceImpl.hasResourcePermission(ResourcePermissionLocalServiceImpl.java:710)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy117.hasResourcePermission(Unknown Source)
+	at com.liferay.portal.service.impl.ResourceLocalServiceImpl.hasUserPermissions(ResourceLocalServiceImpl.java:450)
+	at sun.reflect.GeneratedMethodAccessor543.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy101.hasUserPermissions(Unknown Source)
+	at com.liferay.portal.kernel.service.ResourceLocalServiceUtil.hasUserPermissions(ResourceLocalServiceUtil.java:321)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.doCheckPermission(AdvancedPermissionChecker.java:470)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1461)
+	... 142 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.service.permission.UserPermissionImpl" method="contains" file="UserPermissionImpl.java" line="186"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043261881" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@17927c58]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043263055" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4664f249]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.service.permission.UserPermissionImpl" timestamp="1533043264761" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}]]></log4j:message>
+<log4j:throwable><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1472)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasPermissionImpl(AdvancedPermissionChecker.java:1430)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.hasPermission(AdvancedPermissionChecker.java:299)
+	at com.liferay.portal.security.permission.BasePermissionChecker.hasPermission(BasePermissionChecker.java:114)
+	at com.liferay.staging.security.internal.permission.StagingPermissionChecker.hasPermission(StagingPermissionChecker.java:133)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:121)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:196)
+	at com.liferay.portal.service.permission.UserPermissionImpl.check(UserPermissionImpl.java:67)
+	at com.liferay.portal.kernel.service.permission.UserPermissionUtil.check(UserPermissionUtil.java:39)
+	at com.liferay.portal.service.impl.UserServiceImpl.getUserById(UserServiceImpl.java:932)
+	at sun.reflect.GeneratedMethodAccessor555.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy160.getUserById(Unknown Source)
+	at com.liferay.person.apio.internal.resource.PersonCollectionResource._getUserWrapper(PersonCollectionResource.java:223)
+	at com.liferay.apio.architect.function.throwable.ThrowableBiFunction.lambda$andThen$0(ThrowableBiFunction.java:48)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$24(ItemRoutes.java:350)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$14(RoutesBuilderUtil.java:188)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$15(RoutesBuilderUtil.java:207)
+	at com.liferay.apio.architect.functional.Try.fromFallible(Try.java:78)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:206)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:184)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$26(ItemRoutes.java:344)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.lambda$_getSingleModelOptional$7(PageMessageBodyWriter.java:198)
+	at java.util.Optional.map(Optional.java:215)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter._getSingleModelOptional(PageMessageBodyWriter.java:197)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$getSingleModel$0(FieldsWriter.java:68)
+	at java.util.function.Function.lambda$andThen$1(Function.java:88)
+	at com.liferay.apio.architect.writer.FieldsWriter.getSingleModel(FieldsWriter.java:69)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:431)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:375)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$writeRelatedModels$12(FieldsWriter.java:472)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModels(FieldsWriter.java:471)
+	at com.liferay.apio.architect.writer.PageWriter._writeItem(PageWriter.java:405)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$write$0(PageWriter.java:117)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1080)
+	at com.liferay.apio.architect.writer.PageWriter.write(PageWriter.java:116)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:180)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:79)
+	at org.apache.cxf.jaxrs.utils.JAXRSUtils.writeMessageBody(JAXRSUtils.java:1412)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.serializeMessage(JAXRSOutInterceptor.java:244)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.processResponse(JAXRSOutInterceptor.java:120)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.handleMessage(JAXRSOutInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.interceptor.OutgoingChainInterceptor.handleMessage(OutgoingChainInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:252)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:223)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:361)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:169)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:407)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.portal.kernel.exception.NoSuchResourcePermissionException: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.service.impl.ResourcePermissionLocalServiceImpl.hasResourcePermission(ResourcePermissionLocalServiceImpl.java:710)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy117.hasResourcePermission(Unknown Source)
+	at com.liferay.portal.service.impl.ResourceLocalServiceImpl.hasUserPermissions(ResourceLocalServiceImpl.java:450)
+	at sun.reflect.GeneratedMethodAccessor543.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy101.hasUserPermissions(Unknown Source)
+	at com.liferay.portal.kernel.service.ResourceLocalServiceUtil.hasUserPermissions(ResourceLocalServiceUtil.java:321)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.doCheckPermission(AdvancedPermissionChecker.java:470)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1461)
+	... 137 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.service.permission.UserPermissionImpl" method="contains" file="UserPermissionImpl.java" line="186"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.service.permission.UserPermissionImpl" timestamp="1533043264766" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}]]></log4j:message>
+<log4j:throwable><![CDATA[java.lang.IllegalArgumentException: Someone may be trying to circumvent the permission checker: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1472)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasPermissionImpl(AdvancedPermissionChecker.java:1430)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.hasPermission(AdvancedPermissionChecker.java:299)
+	at com.liferay.portal.security.permission.BasePermissionChecker.hasPermission(BasePermissionChecker.java:114)
+	at com.liferay.staging.security.internal.permission.StagingPermissionChecker.hasPermission(StagingPermissionChecker.java:133)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:121)
+	at com.liferay.portal.service.permission.UserPermissionImpl.contains(UserPermissionImpl.java:196)
+	at com.liferay.portal.service.permission.UserPermissionImpl.check(UserPermissionImpl.java:67)
+	at com.liferay.portal.kernel.service.permission.UserPermissionUtil.check(UserPermissionUtil.java:39)
+	at com.liferay.portal.service.impl.UserServiceImpl.getUserById(UserServiceImpl.java:932)
+	at sun.reflect.GeneratedMethodAccessor555.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy160.getUserById(Unknown Source)
+	at com.liferay.person.apio.internal.resource.PersonCollectionResource._getUserWrapper(PersonCollectionResource.java:223)
+	at com.liferay.apio.architect.function.throwable.ThrowableBiFunction.lambda$andThen$0(ThrowableBiFunction.java:48)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$24(ItemRoutes.java:350)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$14(RoutesBuilderUtil.java:188)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.lambda$provide$15(RoutesBuilderUtil.java:207)
+	at com.liferay.apio.architect.functional.Try.fromFallible(Try.java:78)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:206)
+	at com.liferay.apio.architect.routes.RoutesBuilderUtil.provide(RoutesBuilderUtil.java:184)
+	at com.liferay.apio.architect.routes.ItemRoutes$Builder.lambda$null$26(ItemRoutes.java:344)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.lambda$_getSingleModelOptional$7(PageMessageBodyWriter.java:198)
+	at java.util.Optional.map(Optional.java:215)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter._getSingleModelOptional(PageMessageBodyWriter.java:197)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$getSingleModel$0(FieldsWriter.java:68)
+	at java.util.function.Function.lambda$andThen$1(Function.java:88)
+	at com.liferay.apio.architect.writer.FieldsWriter.getSingleModel(FieldsWriter.java:69)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:431)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModel(FieldsWriter.java:375)
+	at com.liferay.apio.architect.writer.FieldsWriter.lambda$writeRelatedModels$12(FieldsWriter.java:472)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.liferay.apio.architect.writer.FieldsWriter.writeRelatedModels(FieldsWriter.java:471)
+	at com.liferay.apio.architect.writer.PageWriter._writeItemEmbeddedModelFields(PageWriter.java:528)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$_writeNestedResources$38(PageWriter.java:583)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1374)
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:580)
+	at com.liferay.apio.architect.writer.PageWriter._writeNestedResources(PageWriter.java:573)
+	at com.liferay.apio.architect.writer.PageWriter._writeItem(PageWriter.java:429)
+	at com.liferay.apio.architect.writer.PageWriter.lambda$write$0(PageWriter.java:117)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at java.util.Collections$UnmodifiableCollection.forEach(Collections.java:1080)
+	at com.liferay.apio.architect.writer.PageWriter.write(PageWriter.java:116)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:180)
+	at com.liferay.apio.architect.jaxrs.json.internal.writer.PageMessageBodyWriter.writeTo(PageMessageBodyWriter.java:79)
+	at org.apache.cxf.jaxrs.utils.JAXRSUtils.writeMessageBody(JAXRSUtils.java:1412)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.serializeMessage(JAXRSOutInterceptor.java:244)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.processResponse(JAXRSOutInterceptor.java:120)
+	at org.apache.cxf.jaxrs.interceptor.JAXRSOutInterceptor.handleMessage(JAXRSOutInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.interceptor.OutgoingChainInterceptor.handleMessage(OutgoingChainInterceptor.java:83)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:252)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:223)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:361)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:169)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:389)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:407)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.liferay.portal.kernel.exception.NoSuchResourcePermissionException: {companyId=20099, name=com.liferay.portal.kernel.model.User, primKey=20103, scope=4}
+	at com.liferay.portal.service.impl.ResourcePermissionLocalServiceImpl.hasResourcePermission(ResourcePermissionLocalServiceImpl.java:710)
+	at sun.reflect.GeneratedMethodAccessor544.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy117.hasResourcePermission(Unknown Source)
+	at com.liferay.portal.service.impl.ResourceLocalServiceImpl.hasUserPermissions(ResourceLocalServiceImpl.java:450)
+	at sun.reflect.GeneratedMethodAccessor543.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:158)
+	at com.liferay.portal.spring.transaction.DefaultTransactionExecutor.execute(DefaultTransactionExecutor.java:54)
+	at com.liferay.portal.spring.transaction.TransactionInterceptor.invoke(TransactionInterceptor.java:58)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ChainableMethodAdvice.invoke(ChainableMethodAdvice.java:56)
+	at com.liferay.portal.spring.aop.ServiceBeanMethodInvocation.proceed(ServiceBeanMethodInvocation.java:135)
+	at com.liferay.portal.spring.aop.ServiceBeanAopProxy.invoke(ServiceBeanAopProxy.java:145)
+	at com.sun.proxy.$Proxy101.hasUserPermissions(Unknown Source)
+	at com.liferay.portal.kernel.service.ResourceLocalServiceUtil.hasUserPermissions(ResourceLocalServiceUtil.java:321)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker.doCheckPermission(AdvancedPermissionChecker.java:470)
+	at com.liferay.portal.security.permission.AdvancedPermissionChecker._hasUserPermissionImpl(AdvancedPermissionChecker.java:1461)
+	... 142 more
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.service.permission.UserPermissionImpl" method="contains" file="UserPermissionImpl.java" line="186"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043426915" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4b606eb7]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043613371" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@174eba62]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043650006" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7cc011a0]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043756481" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@620aff39]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533043820599" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3e4727e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533044005931" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4a0ad695]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533044179161" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5fb3c17]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533044198754" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@54821b67]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046099465" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3177d03b]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046279535" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@388567f]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046410620" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@58163cf5]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046510133" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@1f31b88e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046612081" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046612738" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046691753" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@34a4e1e1]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046741513" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046806041" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046817799" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046832447" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046832644" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046847510" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046848735" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046857599" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046858563" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046868851" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2f013e38]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046890783" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@64696562]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533046950775" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047007613" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3bc723dc]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047034882" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047434422" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047452690" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047565007" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047570530" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047573606" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047576821" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047597505" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.portal.kernel.json.JSONException: org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1533047808687" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1046]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1533047813807" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1045]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1533047813877" level="INFO" thread="Refresh Thread: Equinox Container: 40aa75d3-f393-0018-123c-920277962312">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1045]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1533047819123" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1061]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533047919308" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2e800313]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533048195779" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@12f440bb]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533048367808" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@48b4103e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533048764832" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@1a981c9]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533049631861" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@72f192b4]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533055851609" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7a79f13c]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533056394338" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@527cf305]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533056508004" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@1f58e129]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533057233016" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5aac1726]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533057946695" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@558ed70a]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533058395405" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7eb6fd0a]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533059499816" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@44723682]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533059592992" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7cb80fbd]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533059845195" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@10d96e9f]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060505367" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[No value defined for field name ChooseOneOrMoreMathematicForms]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060555941" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[No value defined for field name ChooseOneOrMoreMathematicForms]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060583442" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No value defined for field name ChooseOneOrMoreMathematicForms]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060594410" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[No value defined for field name ChooseOneOrMoreMathematicForms]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060661349" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6e0d0578]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533060709018" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[No value defined for field name ChooseOneOrMoreMathematicForms]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533061676672" level="ERROR" thread="http-nio-8080-exec-13">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5d62ffcd]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533062217073" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6c04a162]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533066966796" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3638e4b2]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533067055915" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@78477109]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533067104886" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2a7f59d6]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533067317753" level="ERROR" thread="http-nio-8080-exec-17">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@58c3c2f3]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533068987233" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6586d8b4]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069036539" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@66c3b3cb]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069396149" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6b346cc6]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069424012" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@507e95c6]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069479841" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@71529da]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069584551" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@73bde373]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069613782" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@a78c67c]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069843098" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@58220c4d]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533069843098" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7f364000]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533070836085" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@754f7b8]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071141739" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3433a4ce]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071311172" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@620585ab]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071339236" level="ERROR" thread="http-nio-8080-exec-11">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4a51fa0f]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071421523" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7dbf171]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071506740" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2079f00e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533071908925" level="ERROR" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4362d942]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1533072611904" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@612a45e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533075114500" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=38m11s338ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533075114526" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m11s347ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533077883782" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46m9s291ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533077883813" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m9s291ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533079019190" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=5m25s347ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533079019207" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m25s347ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533081497993" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m45s762ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1533081497993" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m45s762ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

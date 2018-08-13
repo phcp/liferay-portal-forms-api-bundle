@@ -1,0 +1,240 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525484974771" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h9s583ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525484974771" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h46m24s82ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525492192034" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h17s456ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525492192060" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h17s478ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525506605534" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=4h13s374ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525506605534" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4h13s354ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525510226493" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h21s83ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525510226505" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h21s91ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525539074401" level="INFO" thread="liferay/scheduler_dispatch-2">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1266"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525539077119" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=8h50s627ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525539077130" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8h50s625ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525543501493" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=51m44s162ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1525543501508" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m44s165ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546893938" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for fjord-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546893940" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for fjord-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546893946" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for fjord-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546894185" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for westeros-bank-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546894186" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for westeros-bank-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546894187" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for westeros-bank-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546894422" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546894481" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1525546894522" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for opensocial-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546894607" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546894670" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for porygon-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546894670" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for porygon-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546894672" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for porygon-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1525546894804" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546894805" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for social-bookmarks-hook]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546895183" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546895183" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for classic-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546895185" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546895693" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546895693" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for admin-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546895695" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546895780" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546895815" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for powwow-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1525546895859" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for powwow-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546895907" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546896161" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1525546896187" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for tasks-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1525546896227" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for tasks-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="581"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546896267" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1525546896453" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering layout templates for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="137"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1525546896455" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[5 layout templates for frontend-columns-layouttpl were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="159"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546896456" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546896634" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for 1975-london-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1525546896635" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for 1975-london-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1525546896636" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for 1975-london-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+

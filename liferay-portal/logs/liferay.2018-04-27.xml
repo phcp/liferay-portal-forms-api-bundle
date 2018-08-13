@@ -1,0 +1,320 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524789040110" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s101ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524789040110" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s101ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524796325208" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s83ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524796325208" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s83ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524803580337" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s128ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524803580337" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s128ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524810805464" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s127ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524810805464" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s127ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524818060585" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524818060585" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524825315687" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s94ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524825315687" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s94ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524832209077" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h54m23s379ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1524832209077" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h54m23s379ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" timestamp="1524837261697" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[No endpoint found at path form-instances/36511]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" timestamp="1524837293944" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[Access denied to com.liferay.dynamic.data.mapping.service.DDMFormInstanceService#getFormInstances]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" timestamp="1524837315614" level="ERROR" thread="http-nio-8080-exec-4">
+<log4j:message><![CDATA[Access denied to com.liferay.dynamic.data.mapping.service.DDMFormInstanceService#getFormInstances]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="portal_web.docroot.errors.code_jsp" timestamp="1524837380852" level="WARN" thread="http-nio-8080-exec-5">
+<log4j:message><![CDATA[{code="500", msg="", uri=/o/api/p/web-sites/form-instance}]]></log4j:message>
+<log4j:throwable><![CDATA[javax.servlet.ServletException: org.apache.cxf.interceptor.Fault: web-sites/form-instance path does not have a valid path mapper
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:364)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.authverifier.AuthVerifierFilter.processFilter(AuthVerifierFilter.java:169)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at org.eclipse.equinox.http.servlet.internal.registration.FilterRegistration.doFilter(FilterRegistration.java:121)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:45)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:70)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+	at org.eclipse.equinox.http.servlet.internal.HttpServiceRuntimeImpl.doDispatch(HttpServiceRuntimeImpl.java:373)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ProxyServlet.service(ProxyServlet.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.module.framework.ModuleFrameworkServletAdapter.service(ModuleFrameworkServletAdapter.java:51)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:119)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.sharepoint.SharepointFilter.processFilter(SharepointFilter.java:88)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.BaseFilter.processFilter(BaseFilter.java:144)
+	at com.liferay.portal.servlet.filters.virtualhost.VirtualHostFilter.processFilter(VirtualHostFilter.java:263)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:394)
+	at com.liferay.portal.servlet.filters.urlrewrite.UrlRewriteFilter.processFilter(UrlRewriteFilter.java:65)
+	at com.liferay.portal.kernel.servlet.BaseFilter.doFilter(BaseFilter.java:49)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDoFilter(InvokerFilterChain.java:207)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:112)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:168)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.processDirectCallFilter(InvokerFilterChain.java:188)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilterChain.doFilter(InvokerFilterChain.java:96)
+	at com.liferay.portal.kernel.servlet.filters.invoker.InvokerFilter.doFilter(InvokerFilter.java:100)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:494)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:137)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:651)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:407)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:754)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1376)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.cxf.interceptor.Fault: web-sites/form-instance path does not have a valid path mapper
+	at org.apache.cxf.service.invoker.AbstractInvoker.createFault(AbstractInvoker.java:162)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:128)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:189)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:261)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:99)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:252)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doGet(AbstractHTTPServlet.java:223)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.FilterChainImpl.doFilter(FilterChainImpl.java:50)
+	at com.liferay.portal.remote.cxf.common.internal.CXFEndpointPublisher$ServicesRegistrator$RemoteAccessFilter.doFilter(CXFEndpointPublisher.java:361)
+	... 68 more
+Caused by: com.liferay.apio.architect.error.ApioDeveloperError$MustHavePathIdentifierMapper: web-sites/form-instance path does not have a valid path mapper
+	at com.liferay.apio.architect.wiring.osgi.internal.manager.PathIdentifierMapperManagerImpl.lambda$mapToIdentifierOrFail$1(PathIdentifierMapperManagerImpl.java:59)
+	at com.liferay.apio.architect.functional.Try$Failure.orElseThrow(Try.java:582)
+	at com.liferay.apio.architect.wiring.osgi.internal.manager.PathIdentifierMapperManagerImpl.mapToIdentifierOrFail(PathIdentifierMapperManagerImpl.java:58)
+	at com.liferay.apio.architect.application.internal.endpoint.RootEndpointImpl.lambda$_getSingleModelTry$9(RootEndpointImpl.java:172)
+	at com.liferay.apio.architect.functional.Try$Success.flatMap(Try.java:656)
+	at com.liferay.apio.architect.application.internal.endpoint.RootEndpointImpl._getSingleModelTry(RootEndpointImpl.java:168)
+	at com.liferay.apio.architect.application.internal.endpoint.RootEndpointImpl.lambda$pageEndpoint$3(RootEndpointImpl.java:136)
+	at com.liferay.apio.architect.application.internal.endpoint.PageEndpointImpl.getCollectionItemSingleModelTry(PageEndpointImpl.java:146)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:180)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	... 87 more
+]]></log4j:throwable>
+<log4j:locationInfo class="org.apache.jsp.errors.code_jsp" method="_jspService" file="code_jsp.java" line="172"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" timestamp="1524837395469" level="ERROR" thread="http-nio-8080-exec-9">
+<log4j:message><![CDATA[Access denied to com.liferay.dynamic.data.mapping.service.DDMFormInstanceService#getFormInstances]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.architect.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841156580" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841156625" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for powwow-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1524841156691" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for powwow-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="583"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841156762" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for powwow-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1524841157531" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1524841157533" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for admin-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841157535" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for admin-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1524841157693" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for social-bookmarks-hook was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="583"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841157694" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for social-bookmarks-hook]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841158157" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841158228" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[4 portlets for opensocial-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1524841158279" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for opensocial-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="583"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841158351" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for opensocial-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1524841159514" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering layout templates for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="137"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" timestamp="1524841159515" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[5 layout templates for frontend-columns-layouttpl were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.LayoutTemplateHotDeployListener" method="doInvokeUndeploy" file="LayoutTemplateHotDeployListener.java" line="159"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841159516" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for frontend-columns-layouttpl]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841159767" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering portlets for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="331"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.PortletHotDeployListener" timestamp="1524841159798" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[2 portlets for tasks-portlet were unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.PortletHotDeployListener" method="doInvokeUndeploy" file="PortletHotDeployListener.java" line="365"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.HookHotDeployListener" timestamp="1524841159860" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Hook for tasks-portlet was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.HookHotDeployListener" method="doInvokeUndeploy" file="HookHotDeployListener.java" line="583"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841159902" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for tasks-portlet]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1524841159995" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Unregistering themes for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="136"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.deploy.hot.ThemeHotDeployListener" timestamp="1524841159995" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[1 theme for classic-theme was unregistered]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.deploy.hot.ThemeHotDeployListener" method="doInvokeUndeploy" file="ThemeHotDeployListener.java" line="170"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1524841159997" level="INFO" thread="Thread-42">
+<log4j:message><![CDATA[Reading plugin package for classic-theme]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_readPluginPackageServletContext" file="PluginPackageUtil.java" line="1003"/>
+</log4j:event>
+

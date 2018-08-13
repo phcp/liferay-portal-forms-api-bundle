@@ -1,0 +1,36 @@
+2018-04-05 12:11:24.505 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h11m20s879ms).
+2018-04-05 12:11:24.505 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h11m20s879ms).
+2018-04-05 12:12:51.363 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=56s848ms).
+2018-04-05 12:12:51.363 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=56s848ms).
+2018-04-05 16:07:41.080 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m47s48ms).
+2018-04-05 16:07:41.171 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=37m47s56ms).
+2018-04-05 16:58:10.215 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m29s135ms).
+2018-04-05 16:58:10.216 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=50m29s45ms).
+2018-04-05 17:27:18.133 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=28m37s914ms).
+2018-04-05 17:27:18.133 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=28m37s914ms).
+2018-04-05 17:27:26.889 INFO  [liferay/scheduler_dispatch-3][PluginPackageUtil:1266] Reloading repositories
+2018-04-05 18:29:15.510 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m27s301ms).
+2018-04-05 18:29:15.510 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=50m27s301ms).
+2018-04-05 18:48:05.890 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-04-05 18:48:05.929 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-04-05 18:48:06.016 INFO  [localhost-startStop-2][HookHotDeployListener:583] Hook for tasks-portlet was unregistered
+2018-04-05 18:48:06.079 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for tasks-portlet
+2018-04-05 18:48:06.211 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-04-05 18:48:06.212 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-04-05 18:48:06.214 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for classic-theme
+2018-04-05 18:48:06.613 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-04-05 18:48:06.878 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-04-05 18:48:06.924 INFO  [localhost-startStop-2][HookHotDeployListener:583] Hook for opensocial-portlet was unregistered
+2018-04-05 18:48:07.003 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for opensocial-portlet
+2018-04-05 18:48:07.335 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-04-05 18:48:07.336 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-04-05 18:48:07.338 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for frontend-columns-layouttpl
+2018-04-05 18:48:08.016 INFO  [localhost-startStop-2][HookHotDeployListener:583] Hook for social-bookmarks-hook was unregistered
+2018-04-05 18:48:08.017 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for social-bookmarks-hook
+2018-04-05 18:48:08.135 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-04-05 18:48:08.175 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-04-05 18:48:08.246 INFO  [localhost-startStop-2][HookHotDeployListener:583] Hook for powwow-portlet was unregistered
+2018-04-05 18:48:08.301 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for powwow-portlet
+2018-04-05 18:48:09.538 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-04-05 18:48:09.539 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-04-05 18:48:09.540 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for admin-theme

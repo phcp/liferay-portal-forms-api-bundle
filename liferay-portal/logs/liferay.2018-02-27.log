@@ -1,0 +1,1039 @@
+2018-02-27 00:00:29.727 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s118ms).
+2018-02-27 00:00:29.727 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s118ms).
+2018-02-27 00:38:24.844 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m25s112ms).
+2018-02-27 00:38:24.844 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=37m25s112ms).
+2018-02-27 00:59:28.961 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s114ms).
+2018-02-27 00:59:28.961 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s114ms).
+2018-02-27 01:31:09.088 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=31m40s127ms).
+2018-02-27 01:31:09.088 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m40s127ms).
+2018-02-27 01:52:13.210 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s118ms).
+2018-02-27 01:52:13.210 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s118ms).
+2018-02-27 02:36:15.352 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=43m32s132ms).
+2018-02-27 02:36:15.352 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m32s132ms).
+2018-02-27 02:57:18.496 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s144ms).
+2018-02-27 02:57:18.496 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s144ms).
+2018-02-27 03:37:42.614 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m24s118ms).
+2018-02-27 03:37:42.614 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=40m24s118ms).
+2018-02-27 03:58:45.748 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s127ms).
+2018-02-27 03:58:45.748 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s127ms).
+2018-02-27 04:34:39.884 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m24s126ms).
+2018-02-27 04:34:39.884 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=35m24s126ms).
+2018-02-27 04:55:42.901 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s7ms).
+2018-02-27 04:55:42.901 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s7ms).
+2018-02-27 05:38:27.033 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=42m14s123ms).
+2018-02-27 05:38:27.033 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=42m14s123ms).
+2018-02-27 05:59:30.175 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s132ms).
+2018-02-27 05:59:30.175 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s132ms).
+2018-02-27 06:31:59.282 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=32m29s107ms).
+2018-02-27 06:31:59.282 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m29s107ms).
+2018-02-27 06:53:02.407 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s119ms).
+2018-02-27 06:53:02.407 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s119ms).
+2018-02-27 07:40:37.533 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m5s116ms).
+2018-02-27 07:40:37.533 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=47m5s116ms).
+2018-02-27 08:01:40.687 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s144ms).
+2018-02-27 08:01:40.687 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s144ms).
+2018-02-27 08:36:46.802 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m6s115ms).
+2018-02-27 08:36:46.802 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=35m6s115ms).
+2018-02-27 08:57:49.943 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s136ms).
+2018-02-27 08:57:49.943 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s136ms).
+2018-02-27 09:32:43.077 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m23s124ms).
+2018-02-27 09:32:43.077 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=34m23s124ms).
+2018-02-27 09:53:47.132 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s46ms).
+2018-02-27 09:53:47.132 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s46ms).
+2018-02-27 10:37:26.435 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m39s303ms).
+2018-02-27 10:37:26.435 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=43m39s303ms).
+2018-02-27 10:59:00.147 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s710ms).
+2018-02-27 10:59:00.147 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s710ms).
+2018-02-27 11:34:27.292 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=34m57s136ms).
+2018-02-27 11:34:27.292 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m57s136ms).
+2018-02-27 11:55:00.435 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s143ms).
+2018-02-27 11:55:00.435 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s143ms).
+2018-02-27 12:32:49.543 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=37m19s108ms).
+2018-02-27 12:32:49.554 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=37m19s113ms).
+2018-02-27 12:53:53.680 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s128ms).
+2018-02-27 12:53:53.688 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s130ms).
+2018-02-27 13:00:45.169 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=6m21s480ms).
+2018-02-27 13:00:45.169 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m21s480ms).
+2018-02-27 13:14:56.167 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-02-27 13:14:56.169 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-02-27 13:14:56.175 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for frontend-columns-layouttpl
+2018-02-27 13:14:56.587 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for social-bookmarks-hook was unregistered
+2018-02-27 13:14:56.589 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for social-bookmarks-hook
+2018-02-27 13:14:56.689 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-02-27 13:14:56.713 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-02-27 13:14:56.754 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for powwow-portlet was unregistered
+2018-02-27 13:14:56.795 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for powwow-portlet
+2018-02-27 13:14:56.980 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-02-27 13:14:56.981 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-02-27 13:14:56.982 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for classic-theme
+2018-02-27 13:14:58.182 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-02-27 13:14:58.198 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-02-27 13:14:58.250 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for tasks-portlet was unregistered
+2018-02-27 13:14:58.277 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for tasks-portlet
+2018-02-27 13:14:58.616 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-02-27 13:14:58.617 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-02-27 13:14:58.618 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for admin-theme
+2018-02-27 13:14:58.721 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-02-27 13:14:58.917 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-02-27 13:14:58.944 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for opensocial-portlet was unregistered
+2018-02-27 13:14:59.015 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for opensocial-portlet
+2018-02-27 13:15:03.486 INFO  [Start Level: Equinox Container: c02ccb2a-1d1b-0018-16c8-b0a108a49fc8][node:310] [Indra] stopping ...
+2018-02-27 13:15:03.515 INFO  [Start Level: Equinox Container: c02ccb2a-1d1b-0018-16c8-b0a108a49fc8][node:340] [Indra] stopped
+2018-02-27 13:15:03.516 INFO  [Start Level: Equinox Container: c02ccb2a-1d1b-0018-16c8-b0a108a49fc8][node:358] [Indra] closing ...
+2018-02-27 13:15:03.523 INFO  [Start Level: Equinox Container: c02ccb2a-1d1b-0018-16c8-b0a108a49fc8][node:436] [Indra] closed
+2018-02-27 13:15:25.562 INFO  [localhost-startStop-1][HikariDataSource:95] HikariPool-1 - Starting...
+2018-02-27 13:15:25.851 INFO  [localhost-startStop-1][HikariDataSource:107] HikariPool-1 - Start completed.
+2018-02-27 13:15:25.855 INFO  [localhost-startStop-1][DialectDetector:77] Determine dialect for MySQL 5.7
+2018-02-27 13:15:25.999 INFO  [localhost-startStop-1][DialectDetector:155] Found dialect org.hibernate.dialect.MySQLDialect
+2018-02-27 13:15:27.571 INFO  [localhost-startStop-1][HikariDataSource:95] HikariPool-2 - Starting...
+2018-02-27 13:15:27.579 INFO  [localhost-startStop-1][HikariDataSource:107] HikariPool-2 - Start completed.
+2018-02-27 13:15:27.904 INFO  [localhost-startStop-1][BundleStartStopLogger:35] STARTED org.eclipse.osgi_3.10.200.v20150831-0856 [0]
+2018-02-27 13:15:28.015 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.osgi.felix.file.install.configuration.cleaner_1.0.4 [1]
+2018-02-27 13:15:28.019 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.osgi.util_3.3.0 [2]
+2018-02-27 13:15:28.020 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.bundle.blacklist.api_1.0.0 [3]
+2018-02-27 13:15:28.021 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.bundle.blacklist.impl_1.0.0 [4]
+2018-02-27 13:15:28.028 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.classloader.tracker_1.0.3 [5]
+2018-02-27 13:15:28.030 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.component.blacklist.api_1.0.2 [6]
+2018-02-27 13:15:28.031 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.component.blacklist.impl_1.0.3 [7]
+2018-02-27 13:15:28.033 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype_2.1.0 [8]
+2018-02-27 13:15:28.034 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.persistence.api_1.0.0 [9]
+2018-02-27 13:15:28.076 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.persistence.impl_1.0.0 [10]
+2018-02-27 13:15:28.095 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.log4j.extender_2.0.6 [11]
+2018-02-27 13:15:28.096 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.lpkg.deployer.api_1.0.0 [12]
+2018-02-27 13:15:28.097 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.lpkg.deployer.impl_1.0.0 [13]
+2018-02-27 13:15:28.102 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.portlet.tracker_2.0.14 [14]
+2018-02-27 13:15:28.104 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.context.helper_2.1.16 [15]
+2018-02-27 13:15:28.105 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.jsp.compiler_2.0.29 [16]
+2018-02-27 13:15:28.107 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.extender_3.0.0 [17]
+2018-02-27 13:15:28.109 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.generator.api_1.0.0 [18]
+2018-02-27 13:15:28.110 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.generator.impl_1.0.0 [19]
+2018-02-27 13:15:28.116 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.reference.support_1.0.8 [20]
+2018-02-27 13:15:28.117 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.spring.bridge.api_1.0.0 [21]
+2018-02-27 13:15:28.119 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.profile.api_1.0.2 [22]
+2018-02-27 13:15:28.120 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.profile.impl_1.0.3 [23]
+2018-02-27 13:15:28.124 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.social.activity.extender_1.0.0 [24]
+2018-02-27 13:15:28.125 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.target.platform.indexer.api_1.0.0 [25]
+2018-02-27 13:15:28.126 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.target.platform.indexer.impl_1.0.0 [26]
+2018-02-27 13:15:28.128 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.sun.el.javax.el_3.0.0 [27]
+2018-02-27 13:15:28.129 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED javax.servlet.jsp-api_2.3.2.b01 [28]
+2018-02-27 13:15:28.130 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED javax.servlet.jsp.jstl-api_1.2.1 [29]
+2018-02-27 13:15:28.132 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED javax.servlet.jsp.jstl_1.2.3.LIFERAY-PATCHED-2 [30]
+2018-02-27 13:15:28.138 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.commons.fileupload_1.3.2 [31]
+2018-02-27 13:15:28.140 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.commons.io_2.2.0 [32]
+2018-02-27 13:15:29.106 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.bundlerepository_2.0.2.LIFERAY-PATCHED-1 [33]
+2018-02-27 13:15:29.125 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.configadmin_1.8.8 [34]
+2018-02-27 13:15:29.126 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.dependencymanager_3.2.0 [35]
+2018-02-27 13:15:29.130 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.dependencymanager.shell_3.2.0 [36]
+2018-02-27 13:15:29.154 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.eventadmin_1.4.6 [37]
+2018-02-27 13:15:29.372 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.fileinstall_3.5.4.LIFERAY-PATCHED-2 [38]
+2018-02-27 13:15:29.384 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.command_0.12.0 [39]
+2018-02-27 13:15:29.397 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.runtime_0.10.0 [40]
+2018-02-27 13:15:29.411 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.shell_0.10.0 [41]
+2018-02-27 13:15:29.617 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][DefaultLPKGDeployer:303] Start refreshing uninstalled orphan bundles
+2018-02-27 13:15:29.621 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][DefaultLPKGDeployer:311] Finished refreshing uninstalled orphan bundles
+2018-02-27 13:15:39.514 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][LPKGIndexValidator:154] Running validation because of mismatched checksum for liferay-target-platform
+2018-02-27 13:15:40.195 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][LPKGIndexValidator:277] LPKG validation time 00:10s
+2018-02-27 13:15:49.333 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][LPKGIndexValidator:216] Updated /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/target-platform/integrity.properties
+2018-02-27 13:15:49.350 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.apache.felix.scr_2.0.6 [42]
+2018-02-27 13:15:49.368 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.eclipse.equinox.console_1.1.100.v20141023-1406 [43]
+2018-02-27 13:15:49.371 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.eclipse.equinox.http.servlet_1.2.2.v20180212-2026 [44]
+2018-02-27 13:15:49.378 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.eclipse.equinox.metatype_1.4.200.v20150715-1528 [45]
+2018-02-27 13:15:49.379 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.osgi.service.http_3.5.0.LIFERAY-PATCHED-2 [46]
+2018-02-27 13:15:49.380 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED org.osgi.service.metatype_1.3.0.201505202024 [47]
+2018-02-27 13:15:49.380 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.util.taglib_2.11.0 [49]
+2018-02-27 13:15:49.397 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:38] STOPPED com.liferay.portal.osgi.web.wab.extender_3.0.0 [17]
+2018-02-27 13:15:49.400 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:38] STOPPED com.liferay.portal.osgi.web.servlet.jsp.compiler_2.0.29 [16]
+2018-02-27 13:15:49.402 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:38] STOPPED com.liferay.portal.osgi.web.servlet.context.helper_2.1.16 [15]
+2018-02-27 13:15:49.406 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:38] STOPPED com.liferay.portal.osgi.web.portlet.tracker_2.0.14 [14]
+2018-02-27 13:15:57.270 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.portlet.tracker_2.0.14 [14]
+2018-02-27 13:15:57.272 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.context.helper_2.1.16 [15]
+2018-02-27 13:15:57.275 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.jsp.compiler_2.0.29 [16]
+2018-02-27 13:15:57.279 INFO  [Refresh Thread: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.extender_3.0.0 [17]
+2018-02-27 13:15:57.294 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED woodstox-core-asl_4.4.1 [50]
+2018-02-27 13:15:57.295 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.api_3.0.0 [51]
+2018-02-27 13:15:57.321 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.service_3.0.8 [52]
+2018-02-27 13:15:57.323 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.web_2.0.4 [53]
+2018-02-27 13:15:57.355 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.ehcache_2.1.17 [54]
+2018-02-27 13:15:57.365 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.ehcache.provider_2.0.7 [55]
+2018-02-27 13:15:57.371 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.cache_2.4.10 [56]
+2018-02-27 13:15:57.378 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.single_2.0.4 [57]
+2018-02-27 13:15:57.390 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.cluster.single_2.0.4 [58]
+2018-02-27 13:15:57.399 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.compound.session.id_2.0.2 [59]
+2018-02-27 13:15:57.403 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.cluster_3.0.1 [60]
+2018-02-27 13:15:57.421 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.extender_3.0.2 [61]
+2018-02-27 13:15:57.424 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype.definitions.annotations_2.0.4 [62]
+2018-02-27 13:15:57.425 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype.definitions.equinox_2.0.6 [63]
+2018-02-27 13:15:57.426 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.module.configuration_2.0.12 [64]
+2018-02-27 13:15:57.433 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.settings_2.0.16 [65]
+2018-02-27 13:15:57.434 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.upgrade.util_1.0.0 [66]
+2018-02-27 13:15:57.435 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.custom.jsp.bag.api_1.0.2 [67]
+2018-02-27 13:15:57.435 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.dao.orm.custom.sql_1.0.14 [68]
+2018-02-27 13:15:57.463 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.executor_2.0.4 [69]
+2018-02-27 13:15:57.472 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.inactive.request.handler_1.0.0 [70]
+2018-02-27 13:15:57.480 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.init.servlet.filter_2.0.5 [71]
+2018-02-27 13:15:57.481 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.instance.lifecycle.api_1.0.0 [72]
+2018-02-27 13:15:57.486 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.instance.lifecycle.impl_1.0.0 [73]
+2018-02-27 13:15:57.489 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.api_1.0.3 [74]
+2018-02-27 13:15:57.490 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.service_1.0.7 [75]
+2018-02-27 13:15:57.516 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.web_1.0.13 [76]
+2018-02-27 13:15:57.517 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.jmx.api_1.0.2 [77]
+2018-02-27 13:15:57.832 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.jmx_4.0.1 [78]
+2018-02-27 13:15:57.833 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.language.extender_2.0.9 [79]
+2018-02-27 13:15:57.836 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.language.servlet.filter_2.0.8 [80]
+2018-02-27 13:15:57.837 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.license.deployer_1.0.7 [81]
+2018-02-27 13:15:57.838 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.lock.api_2.2.0 [82]
+2018-02-27 13:15:57.849 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.lock.service_2.0.17 [83]
+2018-02-27 13:15:57.921 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.messaging_4.0.7 [84]
+2018-02-27 13:15:57.922 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.detection.fiftyonedegrees.api_1.0.2 [85]
+2018-02-27 13:15:57.929 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.detection.fiftyonedegrees_2.0.1 [86]
+2018-02-27 13:15:57.944 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.recognition.impl_1.0.0 [87]
+2018-02-27 13:15:57.972 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.monitoring_5.0.2 [88]
+2018-02-27 13:15:57.976 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.declarative.service_1.0.5 [89]
+2018-02-27 13:15:57.980 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.spring.extender_1.0.8 [90]
+2018-02-27 13:15:57.983 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.output.stream.container.api_1.0.2 [91]
+2018-02-27 13:15:57.988 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.output.stream.container_3.0.1 [92]
+2018-02-27 13:15:57.990 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.pop.notifications_2.0.6 [93]
+2018-02-27 13:15:57.990 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.portlet.bridge.soy_3.2.0 [94]
+2018-02-27 13:15:58.054 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.axis.extender_1.0.12 [95]
+2018-02-27 13:15:58.653 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.cxf.common_3.0.9 [96]
+2018-02-27 13:15:58.656 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.http.tunnel.extender_2.0.12 [98]
+2018-02-27 13:15:58.657 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.json.web.service.extender_2.0.6 [99]
+2018-02-27 13:15:58.690 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.rest.extender_2.0.14 [100]
+2018-02-27 13:15:58.691 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.soap.extender.api_1.0.2 [101]
+2018-02-27 13:15:58.695 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.soap.extender.impl_1.0.3 [102]
+2018-02-27 13:15:58.700 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.reports.engine.api_3.0.1 [103]
+2018-02-27 13:15:58.700 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.rules.engine.api_2.0.6 [104]
+2018-02-27 13:15:58.705 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.rules.engine.wiring_2.0.4 [105]
+2018-02-27 13:15:58.749 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler_4.0.7 [106]
+2018-02-27 13:15:58.758 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler.quartz_3.0.3 [107]
+2018-02-27 13:15:58.763 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler.single_2.0.8 [108]
+2018-02-27 13:15:58.764 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.api_1.1.2 [109]
+2018-02-27 13:15:58.771 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.beanshell_2.0.7 [110]
+2018-02-27 13:15:58.774 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.executor_3.0.3 [111]
+2018-02-27 13:15:58.778 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.groovy_2.0.5 [112]
+2018-02-27 13:15:58.791 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.impl_1.0.0 [113]
+2018-02-27 13:15:58.800 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.javascript_2.0.13 [114]
+2018-02-27 13:15:58.809 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.python_2.0.8 [115]
+2018-02-27 13:15:58.940 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.ruby_2.0.15 [116]
+2018-02-27 13:15:58.947 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.admin.web_1.0.0 [117]
+2018-02-27 13:15:58.947 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.api_1.1.0 [118]
+2018-02-27 13:15:59.373 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED classic-theme_2.0.0 [740]
+2018-02-27 13:15:59.375 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED admin-theme_1.0.40 [739]
+2018-02-27 13:15:59.377 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED tasks-portlet_7.1.0.16 [745]
+2018-02-27 13:15:59.379 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED powwow-portlet_7.1.0.19 [743]
+2018-02-27 13:15:59.380 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED social-bookmarks-hook_7.1.0.8 [744]
+2018-02-27 13:15:59.382 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED opensocial-portlet_7.1.0.42 [742]
+2018-02-27 13:15:59.411 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.definition.api_2.2.0 [186]
+2018-02-27 13:15:59.417 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.impl_1.0.0 [126]
+2018-02-27 13:15:59.434 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.ntlm.impl_1.0.0 [143]
+2018-02-27 13:15:59.436 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.token.api_1.0.2 [150]
+2018-02-27 13:15:59.440 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/war][BundleStartStopLogger:35] STARTED frontend-columns-layouttpl_1.0.0 [741]
+2018-02-27 13:15:59.455 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.upload_1.0.0 [181]
+2018-02-27 13:15:59.490 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.elasticsearch_2.1.25 [119]
+2018-02-27 13:15:59.499 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.elasticsearch6.api_1.0.0 [120]
+2018-02-27 13:15:59.567 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.navigation.web_3.0.7 [263]
+2018-02-27 13:15:59.584 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.recent.documents.web_2.0.16 [611]
+2018-02-27 13:15:59.586 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.portlet.data.handler_3.0.1 [675]
+2018-02-27 13:15:59.602 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.site.administration_2.0.13 [589]
+2018-02-27 13:15:59.604 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.url_1.0.0 [648]
+2018-02-27 13:15:59.620 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.shopping.service_3.0.0 [626]
+2018-02-27 13:15:59.630 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.asset.display.template.web_1.0.0 [247]
+2018-02-27 13:15:59.633 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.comment_2.0.19 [529]
+2018-02-27 13:15:59.646 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.site.map.web_2.0.17 [651]
+2018-02-27 13:15:59.646 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.rel.api_1.0.0 [250]
+2018-02-27 13:15:59.652 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.device_2.0.13 [586]
+2018-02-27 13:15:59.654 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.map.openstreetmap_2.0.13 [518]
+2018-02-27 13:15:59.660 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.checkbox.multiple_1.0.6 [347]
+2018-02-27 13:15:59.688 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.processes.web_1.0.25 [676]
+2018-02-27 13:15:59.692 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.media.object.rest.api_1.0.0 [808]
+2018-02-27 13:15:59.695 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.api_2.2.0 [629]
+2018-02-27 13:15:59.722 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.password.generator.web_1.0.10 [550]
+2018-02-27 13:15:59.737 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.asset.display.template.service_1.0.0 [246]
+2018-02-27 13:15:59.741 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search_4.0.5 [121]
+2018-02-27 13:15:59.746 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.analytics_1.0.0 [304]
+2018-02-27 13:15:59.748 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.web.api_1.0.0 [122]
+2018-02-27 13:15:59.755 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.sync.web_1.0.18 [685]
+2018-02-27 13:15:59.756 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.api_2.1.1 [671]
+2018-02-27 13:15:59.758 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.text_2.0.7 [724]
+2018-02-27 13:15:59.819 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.search.web_2.0.0 [123]
+2018-02-27 13:15:59.827 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.web_1.0.4 [224]
+2018-02-27 13:15:59.830 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.external.api_1.0.3 [317]
+2018-02-27 13:15:59.834 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.taglib_2.0.13 [590]
+2018-02-27 13:15:59.837 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.prototype.web_1.0.14 [495]
+2018-02-27 13:15:59.848 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.web_2.0.17 [580]
+2018-02-27 13:15:59.857 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.file.rank.service_1.0.0 [310]
+2018-02-27 13:15:59.859 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.contacts.service_2.0.18 [299]
+2018-02-27 13:15:59.860 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.captcha.taglib_1.0.5 [287]
+2018-02-27 13:15:59.862 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.resize_1.0.15 [404]
+2018-02-27 13:15:59.863 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.api_1.0.0 [582]
+2018-02-27 13:15:59.885 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.template.freemarker_3.0.9 [174]
+2018-02-27 13:15:59.891 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.google.web_1.0.7 [158]
+2018-02-27 13:15:59.893 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.antisamy_2.0.19 [124]
+2018-02-27 13:15:59.894 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.api_2.0.7 [125]
+2018-02-27 13:15:59.896 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.openid.web_1.0.8 [162]
+2018-02-27 13:15:59.896 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.google.api_1.0.1 [140]
+2018-02-27 13:15:59.907 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.wiring_2.0.7 [127]
+2018-02-27 13:15:59.913 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.fragment.web_1.0.0 [385]
+2018-02-27 13:15:59.916 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.organizations.service_1.0.0 [549]
+2018-02-27 13:15:59.917 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.lang_1.0.5 [722]
+2018-02-27 13:15:59.919 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.taglib_1.0.0 [654]
+2018-02-27 13:15:59.919 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.users.admin.item.selector.api_1.0.0 [708]
+2018-02-27 13:15:59.921 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.auth.verifier_3.0.0 [128]
+2018-02-27 13:15:59.932 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.cas.impl_1.0.0 [137]
+2018-02-27 13:15:59.934 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.auto.login_2.1.8 [129]
+2018-02-27 13:15:59.934 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.exportimport.api_2.0.2 [130]
+2018-02-27 13:15:59.950 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.privatemessaging.web_1.0.31 [667]
+2018-02-27 13:15:59.955 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.hello.velocity.web_2.0.8 [435]
+2018-02-27 13:15:59.966 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.web_2.0.0 [165]
+2018-02-27 13:15:59.988 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.service_2.0.35 [193]
+2018-02-27 13:15:59.991 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.spring.extender_2.1.6 [166]
+2018-02-27 13:15:59.994 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.api_1.0.3 [144]
+2018-02-27 13:16:00.099 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.ldap_2.2.20 [131]
+2018-02-27 13:16:00.103 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.api_2.1.0 [132]
+2018-02-27 13:16:00.119 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.impl_1.0.0 [177]
+2018-02-27 13:16:00.127 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED stax2-api_3.1.4 [198]
+2018-02-27 13:16:00.142 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.google.impl_1.0.0 [141]
+2018-02-27 13:16:00.142 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.service_3.0.0 [133]
+2018-02-27 13:16:00.143 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.service_3.0.0 [343]
+2018-02-27 13:16:00.144 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.twitter.api_1.0.4 [693]
+2018-02-27 13:16:00.147 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.api_1.0.3 [496]
+2018-02-27 13:16:00.151 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.template.xsl_2.0.10 [179]
+2018-02-27 13:16:00.152 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.my.sites.web_2.0.4 [635]
+2018-02-27 13:16:00.152 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.web_1.0.16 [134]
+2018-02-27 13:16:00.153 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED org.tukaani.xz_1.5.0 [738]
+2018-02-27 13:16:00.153 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.quota.api_1.0.0 [135]
+2018-02-27 13:16:00.154 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.cas.api_1.0.2 [136]
+2018-02-27 13:16:00.154 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.facebook.connect.api_1.0.2 [138]
+2018-02-27 13:16:00.155 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.openid.connect.web_1.0.0 [161]
+2018-02-27 13:16:00.161 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.facebook.connect.web_1.0.8 [157]
+2018-02-27 13:16:00.166 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.facebook.connect.impl_1.0.0 [139]
+2018-02-27 13:16:00.166 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.ntlm.api_1.0.3 [142]
+2018-02-27 13:16:00.167 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.connect.api_1.0.0 [145]
+2018-02-27 13:16:00.179 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.task.web_1.0.30 [195]
+2018-02-27 13:16:00.184 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.bar.web_1.0.21 [672]
+2018-02-27 13:16:00.186 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.connect.impl_1.0.0 [146]
+2018-02-27 13:16:00.187 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.opensso.web_1.0.10 [163]
+2018-02-27 13:16:00.192 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.store.safe.file.name.wrapper_1.0.4 [173]
+2018-02-27 13:16:00.193 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.api_3.0.0 [185]
+2018-02-27 13:16:00.194 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.api_2.3.0 [188]
+2018-02-27 13:16:00.197 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.editor.configuration_1.0.10 [716]
+2018-02-27 13:16:00.203 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.content.service_1.0.0 [307]
+2018-02-27 13:16:00.207 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.editor.configuration_1.0.3 [530]
+2018-02-27 13:16:00.218 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.token.impl_1.0.2 [151]
+2018-02-27 13:16:00.219 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.api_1.0.0 [184]
+2018-02-27 13:16:00.219 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.impl_1.0.0 [147]
+2018-02-27 13:16:00.221 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.form.impl_1.0.0 [189]
+2018-02-27 13:16:00.222 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.opensso.api_1.0.2 [148]
+2018-02-27 13:16:00.225 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.store.ignore.duplicates.wrapper_1.0.3 [170]
+2018-02-27 13:16:00.230 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.hello.soy.navigation.web_1.0.3 [433]
+2018-02-27 13:16:00.232 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.editor.configuration_1.0.2 [200]
+2018-02-27 13:16:00.234 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.scripting.impl_1.0.6 [192]
+2018-02-27 13:16:00.237 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.store.cmis_2.0.18 [167]
+2018-02-27 13:16:00.240 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.refresh_2.0.3 [572]
+2018-02-27 13:16:00.243 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.weblogic.support_2.0.4 [183]
+2018-02-27 13:16:00.244 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.translator.web_1.0.12 [688]
+2018-02-27 13:16:00.246 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.upgrade_2.8.10 [180]
+2018-02-27 13:16:00.246 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.media.object.rest.impl_1.0.0 [809]
+2018-02-27 13:16:00.248 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.store.db_2.0.4 [168]
+2018-02-27 13:16:00.252 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.web_1.0.25 [553]
+2018-02-27 13:16:00.253 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.opensso.impl_1.0.0 [149]
+2018-02-27 13:16:00.254 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.api_1.1.0 [152]
+2018-02-27 13:16:00.256 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.asset.tag.stats.service_1.0.0 [257]
+2018-02-27 13:16:00.259 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.mediawiki_2.0.17 [723]
+2018-02-27 13:16:00.275 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.service_2.0.0 [153]
+2018-02-27 13:16:00.276 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.api_2.1.0 [155]
+2018-02-27 13:16:00.278 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.chart_1.0.0 [419]
+2018-02-27 13:16:00.285 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.cas.web_1.0.9 [156]
+2018-02-27 13:16:00.290 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.web_1.0.6 [154]
+2018-02-27 13:16:00.291 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.lang_1.0.10 [164]
+2018-02-27 13:16:00.293 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.store.jcr_2.0.18 [171]
+2018-02-27 13:16:00.308 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.ldap.web_1.0.21 [159]
+2018-02-27 13:16:00.312 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.ntlm.web_1.0.8 [160]
+2018-02-27 13:16:00.337 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.wiring.osgi.impl_1.0.0 [826]
+2018-02-27 13:16:00.339 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.contacts.api_3.0.0 [298]
+2018-02-27 13:16:00.340 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.language.api_1.0.2 [643]
+2018-02-27 13:16:00.354 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.firebase_1.0.7 [596]
+2018-02-27 13:16:00.354 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.store.file.system_2.0.13 [169]
+2018-02-27 13:16:00.360 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.store.s3_2.0.19 [172]
+2018-02-27 13:16:00.362 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.template.velocity_2.0.28 [178]
+2018-02-27 13:16:00.365 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.api_1.0.0 [175]
+2018-02-27 13:16:00.369 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.xsl.content.web_2.0.11 [734]
+2018-02-27 13:16:00.373 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.context.contributor_1.0.2 [176]
+2018-02-27 13:16:00.375 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.verify.extender_3.0.1 [182]
+2018-02-27 13:16:00.382 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.amazon.rankings.web_1.0.15 [226]
+2018-02-27 13:16:00.389 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.item.selector.web_3.0.7 [457]
+2018-02-27 13:16:00.394 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.impl_1.0.7 [552]
+2018-02-27 13:16:00.395 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.soy_1.1.0 [425]
+2018-02-27 13:16:00.397 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.activities.taglib_1.0.0 [657]
+2018-02-27 13:16:00.399 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.web_1.0.0 [196]
+2018-02-27 13:16:00.402 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED javax.validation.api_1.1.0.Final [197]
+2018-02-27 13:16:00.416 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.twitter.service_2.0.2 [694]
+2018-02-27 13:16:00.423 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dictionary.web_1.0.9 [302]
+2018-02-27 13:16:00.425 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.privatemessaging.service_3.0.1 [666]
+2018-02-27 13:16:00.450 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.definition.impl_2.0.12 [187]
+2018-02-27 13:16:00.473 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.impl_2.0.21 [190]
+2018-02-27 13:16:00.474 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.lang_2.0.8 [194]
+2018-02-27 13:16:00.492 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.web_1.0.34 [281]
+2018-02-27 13:16:00.494 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.announcements.api_1.0.2 [227]
+2018-02-27 13:16:00.498 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.integration.impl_1.0.14 [191]
+2018-02-27 13:16:00.499 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.api_2.0.1 [199]
+2018-02-27 13:16:00.501 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.item.selector.web_1.0.2 [201]
+2018-02-27 13:16:00.505 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.comment.web_2.0.4 [295]
+2018-02-27 13:16:00.506 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.web_1.0.4 [203]
+2018-02-27 13:16:00.510 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.service_2.0.0 [599]
+2018-02-27 13:16:00.511 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.content.transformer.api_1.0.4 [204]
+2018-02-27 13:16:00.511 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.demo.data.creator.api_1.0.2 [205]
+2018-02-27 13:16:00.513 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.demo.data.creator.impl_1.0.4 [206]
+2018-02-27 13:16:00.515 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.item.selector.web_1.0.4 [207]
+2018-02-27 13:16:00.523 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library_1.0.5 [208]
+2018-02-27 13:16:00.527 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.thumbnails_1.0.5 [209]
+2018-02-27 13:16:00.530 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.web_1.0.4 [210]
+2018-02-27 13:16:00.534 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.api_1.1.3 [211]
+2018-02-27 13:16:00.537 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.content.transformer_1.0.4 [212]
+2018-02-27 13:16:00.541 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.web_2.0.6 [467]
+2018-02-27 13:16:00.609 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.impl_1.0.5 [213]
+2018-02-27 13:16:00.611 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.item.selector.api_1.0.2 [214]
+2018-02-27 13:16:00.617 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.item.selector.impl_1.0.2 [215]
+2018-02-27 13:16:00.624 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.service_1.0.4 [217]
+2018-02-27 13:16:00.626 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.taglib_1.0.2 [218]
+2018-02-27 13:16:00.628 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.web_1.0.4 [219]
+2018-02-27 13:16:00.629 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.item.selector.upload.web_1.0.2 [220]
+2018-02-27 13:16:00.631 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.journal.editor.configuration_1.0.2 [221]
+2018-02-27 13:16:00.640 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.journal.web_1.0.2 [222]
+2018-02-27 13:16:00.641 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.upload_1.0.0 [223]
+2018-02-27 13:16:00.642 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.alloy.mvc_2.3.2 [225]
+2018-02-27 13:16:00.647 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.announcements.editor.configuration_1.0.0 [228]
+2018-02-27 13:16:00.653 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.users.admin.web_3.0.0 [710]
+2018-02-27 13:16:00.653 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.announcements.uad_1.0.0 [229]
+2018-02-27 13:16:00.671 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.impl_1.0.0 [631]
+2018-02-27 13:16:00.679 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.shopping.api_3.1.0 [625]
+2018-02-27 13:16:00.680 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.announcements.web_2.0.8 [230]
+2018-02-27 13:16:00.681 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.fragment.taglib_1.0.0 [384]
+2018-02-27 13:16:00.682 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.print_2.0.5 [463]
+2018-02-27 13:16:00.685 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.print_2.0.3 [571]
+2018-02-27 13:16:00.697 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.application.list.api_2.2.5 [231]
+2018-02-27 13:16:00.700 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.application.list.my.account.permissions_1.0.0 [232]
+2018-02-27 13:16:00.703 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.application.list.taglib_2.0.12 [233]
+2018-02-27 13:16:00.706 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.application.list.user.personal.site.permissions_2.0.7 [234]
+2018-02-27 13:16:00.707 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.api_1.0.0 [235]
+2018-02-27 13:16:00.714 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.browser.web_1.0.24 [236]
+2018-02-27 13:16:00.737 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.admin.web_2.0.0 [237]
+2018-02-27 13:16:00.741 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.navigation.api_1.0.2 [238]
+2018-02-27 13:16:00.756 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.imageio.plugins_1.0.2 [442]
+2018-02-27 13:16:00.756 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.blogs.item.selector.api_1.1.1 [270]
+2018-02-27 13:16:00.757 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.ratings_2.0.5 [464]
+2018-02-27 13:16:00.759 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.navigation.web_2.0.6 [239]
+2018-02-27 13:16:00.764 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.selector.web_1.0.0 [240]
+2018-02-27 13:16:00.772 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.service_1.1.0 [241]
+2018-02-27 13:16:00.773 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.category.property.api_1.0.0 [242]
+2018-02-27 13:16:00.775 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.directory.web_1.0.22 [303]
+2018-02-27 13:16:00.776 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.category.property.service_1.0.0 [243]
+2018-02-27 13:16:00.777 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.favicon.servlet_1.0.2 [428]
+2018-02-27 13:16:00.779 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.display.api_1.0.0 [244]
+2018-02-27 13:16:00.779 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.full.page.application_1.0.0 [645]
+2018-02-27 13:16:00.780 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.display.template.api_1.0.0 [245]
+2018-02-27 13:16:00.785 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.impl_1.0.9 [702]
+2018-02-27 13:16:00.786 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.reading.time.api_1.0.0 [606]
+2018-02-27 13:16:00.790 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.openid.connect.web_1.0.0 [509]
+2018-02-27 13:16:00.795 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.display.web_1.0.9 [248]
+2018-02-27 13:16:00.797 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.query.processor.custom.user.attributes_2.0.9 [249]
+2018-02-27 13:16:00.799 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.rel.service_1.0.0 [251]
+2018-02-27 13:16:00.799 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.api_1.0.0 [252]
+2018-02-27 13:16:00.799 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.user.statistics.web_3.0.4 [670]
+2018-02-27 13:16:00.803 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.layout.prototype_1.0.14 [253]
+2018-02-27 13:16:00.807 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.calendar.api_3.0.0 [282]
+2018-02-27 13:16:00.817 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.breadcrumb.web_3.0.4 [639]
+2018-02-27 13:16:00.818 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.exportimport.api_2.3.0 [366]
+2018-02-27 13:16:00.824 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.response.control_1.0.0 [824]
+2018-02-27 13:16:00.826 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.roles.item.selector.web_1.0.0 [616]
+2018-02-27 13:16:00.830 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.layout.set.prototype_2.0.14 [313]
+2018-02-27 13:16:00.848 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.web_1.0.27 [575]
+2018-02-27 13:16:00.849 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.node.shims_1.0.3 [414]
+2018-02-27 13:16:00.855 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.associated.data.api_1.0.0 [699]
+2018-02-27 13:16:00.860 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.clay.sample.web_1.0.0 [422]
+2018-02-27 13:16:00.903 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.service_1.0.17 [533]
+2018-02-27 13:16:00.910 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.reading.time.web_1.0.0 [610]
+2018-02-27 13:16:00.916 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.hello.world.web_2.0.7 [436]
+2018-02-27 13:16:00.923 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.validator_3.0.0 [362]
+2018-02-27 13:16:00.933 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.quick.note.web_2.0.6 [601]
+2018-02-27 13:16:00.935 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.web_2.0.0 [254]
+2018-02-27 13:16:00.936 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.comment.editor.configuration_1.0.3 [290]
+2018-02-27 13:16:00.943 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.crop_1.0.15 [402]
+2018-02-27 13:16:00.950 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.impl_1.0.7 [327]
+2018-02-27 13:16:00.958 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.sync.security_2.0.9 [683]
+2018-02-27 13:16:00.964 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.item.selector.web_2.0.20 [633]
+2018-02-27 13:16:00.966 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.service_2.0.0 [255]
+2018-02-27 13:16:00.967 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tag.stats.api_1.0.0 [256]
+2018-02-27 13:16:00.969 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.taglib_2.1.0 [258]
+2018-02-27 13:16:00.969 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.users.admin.api_2.1.0 [706]
+2018-02-27 13:16:00.973 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.html_2.0.7 [719]
+2018-02-27 13:16:00.973 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.admin.web_1.0.13 [259]
+2018-02-27 13:16:00.974 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.api_1.0.3 [260]
+2018-02-27 13:16:00.979 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.grid_1.0.0 [352]
+2018-02-27 13:16:00.981 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.compiler.web_2.0.7 [261]
+2018-02-27 13:16:00.982 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.navigation.api_1.0.2 [262]
+2018-02-27 13:16:01.000 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.selector.web_1.0.0 [264]
+2018-02-27 13:16:01.010 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.service_2.0.4 [265]
+2018-02-27 13:16:01.014 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.asset.web_2.0.6 [266]
+2018-02-27 13:16:01.015 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.analytics_1.0.0 [267]
+2018-02-27 13:16:01.020 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.calendar.service_3.0.0 [283]
+2018-02-27 13:16:01.022 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.evaluator_2.1.0 [334]
+2018-02-27 13:16:01.023 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.android_1.0.10 [594]
+2018-02-27 13:16:01.024 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.api_3.2.0 [268]
+2018-02-27 13:16:01.027 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.maximize_2.0.3 [569]
+2018-02-27 13:16:01.028 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.person.rest.impl_1.0.0 [811]
+2018-02-27 13:16:01.030 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.taglib_2.1.11 [344]
+2018-02-27 13:16:01.033 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.editor.configuration_1.0.11 [269]
+2018-02-27 13:16:01.034 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.close_2.0.3 [563]
+2018-02-27 13:16:01.036 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.unit.converter.web_1.0.11 [696]
+2018-02-27 13:16:01.037 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.item.selector.web_2.0.1 [271]
+2018-02-27 13:16:01.039 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.fragment.service_1.0.0 [383]
+2018-02-27 13:16:01.041 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.folder.rest.impl_1.0.0 [807]
+2018-02-27 13:16:01.041 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.layout.prototype_2.0.13 [272]
+2018-02-27 13:16:01.042 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.comment.api_2.1.0 [289]
+2018-02-27 13:16:01.045 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.sync.api_4.0.0 [682]
+2018-02-27 13:16:01.048 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.reading.time_1.0.0 [273]
+2018-02-27 13:16:01.049 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.xstream.configurator.api_2.1.2 [735]
+2018-02-27 13:16:01.049 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.recent.bloggers.api_1.0.2 [274]
+2018-02-27 13:16:01.049 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.roles.item.selector.api_1.0.0 [615]
+2018-02-27 13:16:01.062 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.recent.bloggers.web_2.0.1 [275]
+2018-02-27 13:16:01.079 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.blogs.service_2.0.0 [276]
+2018-02-27 13:16:01.083 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.theme.contributor_2.0.5 [587]
+2018-02-27 13:16:01.092 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.effects_1.0.15 [403]
+2018-02-27 13:16:01.130 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.form.navigator_1.0.10 [423]
+2018-02-27 13:16:01.131 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.web_1.0.38 [391]
+2018-02-27 13:16:01.137 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.brightness_1.0.15 [400]
+2018-02-27 13:16:01.138 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.blog.rest.api_1.0.0 [804]
+2018-02-27 13:16:01.143 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.comments_1.0.10 [460]
+2018-02-27 13:16:01.153 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.date_2.0.11 [348]
+2018-02-27 13:16:01.155 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.portlet_1.0.0 [382]
+2018-02-27 13:16:01.156 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder.api_1.0.2 [447]
+2018-02-27 13:16:01.185 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.blogs.web_2.0.3 [277]
+2018-02-27 13:16:01.191 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.api_3.0.0 [278]
+2018-02-27 13:16:01.231 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.service_2.0.0 [279]
+2018-02-27 13:16:01.237 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.uad_1.0.0 [280]
+2018-02-27 13:16:01.256 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.calendar.web_1.0.51 [284]
+2018-02-27 13:16:01.286 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.service_2.0.7 [319]
+2018-02-27 13:16:01.293 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.license.manager.web_2.0.8 [505]
+2018-02-27 13:16:01.300 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.plugins.admin.web_1.0.17 [558]
+2018-02-27 13:16:01.300 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.lang_2.0.14 [471]
+2018-02-27 13:16:01.301 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.rss.api_1.1.0 [618]
+2018-02-27 13:16:01.301 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.authorization.api_1.0.3 [314]
+2018-02-27 13:16:01.307 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.google.docs_2.0.27 [311]
+2018-02-27 13:16:01.308 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.screens.api_3.3.3 [622]
+2018-02-27 13:16:01.314 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.link.to.page_1.0.0 [503]
+2018-02-27 13:16:01.322 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.panel_2.0.3 [581]
+2018-02-27 13:16:01.326 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.captcha.api_1.2.0 [285]
+2018-02-27 13:16:01.334 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.captcha.impl_1.0.0 [286]
+2018-02-27 13:16:01.336 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.comment.analytics_1.0.0 [288]
+2018-02-27 13:16:01.337 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.web_1.0.15 [498]
+2018-02-27 13:16:01.340 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.comment.page.comments.web_1.0.12 [291]
+2018-02-27 13:16:01.342 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.comment.ratings.definition_2.0.3 [292]
+2018-02-27 13:16:01.347 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.comment.sanitizer_2.0.6 [293]
+2018-02-27 13:16:01.356 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.comment.taglib_1.0.0 [294]
+2018-02-27 13:16:01.357 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.configuration.admin.api_1.0.0 [296]
+2018-02-27 13:16:01.392 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.shopping.web_1.0.19 [627]
+2018-02-27 13:16:01.396 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.markdown.converter.impl_1.0.0 [482]
+2018-02-27 13:16:01.400 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder_3.0.1 [448]
+2018-02-27 13:16:01.401 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.taglib_1.0.0 [369]
+2018-02-27 13:16:01.404 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.content.api_1.0.0 [306]
+2018-02-27 13:16:01.485 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.configuration.admin.web_1.0.42 [297]
+2018-02-27 13:16:01.509 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.contacts.web_1.0.33 [300]
+2018-02-27 13:16:01.516 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.currency.converter.web_1.0.16 [301]
+2018-02-27 13:16:01.556 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.api_3.5.0 [305]
+2018-02-27 13:16:01.588 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.document.conversion_1.0.0 [308]
+2018-02-27 13:16:01.590 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.exportimport.service_5.0.0 [372]
+2018-02-27 13:16:01.594 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.file.rank.api_1.0.0 [309]
+2018-02-27 13:16:01.597 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.item.selector.web_1.0.5 [470]
+2018-02-27 13:16:01.606 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.item.selector.web_1.0.10 [312]
+2018-02-27 13:16:01.607 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.cmis.api_1.1.12 [315]
+2018-02-27 13:16:01.615 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.search_3.0.3 [318]
+2018-02-27 13:16:01.621 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.privatemessaging.api_3.0.0 [665]
+2018-02-27 13:16:01.631 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.item.selector.web_1.0.0 [642]
+2018-02-27 13:16:01.631 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.cmis.impl_2.0.28 [316]
+2018-02-27 13:16:01.632 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.sync.api_1.0.0 [320]
+2018-02-27 13:16:01.635 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.sync.service_1.0.0 [321]
+2018-02-27 13:16:01.642 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.checkbox_2.0.13 [346]
+2018-02-27 13:16:01.650 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.subscription.service_1.0.0 [680]
+2018-02-27 13:16:01.654 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider_2.1.0 [329]
+2018-02-27 13:16:01.664 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.web_3.0.0 [584]
+2018-02-27 13:16:01.667 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.alloyeditor.accessibility.web_1.0.6 [392]
+2018-02-27 13:16:01.671 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wsrp.web_1.0.14 [732]
+2018-02-27 13:16:01.687 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.io_3.0.0 [341]
+2018-02-27 13:16:01.692 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.gogo.shell.web_1.0.7 [431]
+2018-02-27 13:16:01.705 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.expression_3.0.0 [331]
+2018-02-27 13:16:01.724 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.fragment.api_1.0.0 [379]
+2018-02-27 13:16:01.725 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.locales_1.0.7 [462]
+2018-02-27 13:16:01.726 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.prototype.api_1.0.2 [493]
+2018-02-27 13:16:01.731 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.marketplace.app.manager.web_1.0.28 [521]
+2018-02-27 13:16:01.779 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.login.web_2.0.5 [511]
+2018-02-27 13:16:01.781 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.trash.taglib_2.1.0 [691]
+2018-02-27 13:16:01.781 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.document.library.web_2.0.5 [322]
+2018-02-27 13:16:01.783 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.item.selector.url.web_2.0.9 [456]
+2018-02-27 13:16:01.786 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.api_2.2.0 [323]
+2018-02-27 13:16:01.842 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.service_2.0.0 [324]
+2018-02-27 13:16:01.876 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.service_1.7.0 [727]
+2018-02-27 13:16:01.883 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.web_2.0.8 [325]
+2018-02-27 13:16:01.885 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.organizations.item.selector.web_1.0.0 [548]
+2018-02-27 13:16:01.886 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.styled_3.0.0 [429]
+2018-02-27 13:16:01.887 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.marketplace.api_4.4.1 [520]
+2018-02-27 13:16:01.891 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.ratings.service_1.0.11 [605]
+2018-02-27 13:16:01.895 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.api_3.8.0 [326]
+2018-02-27 13:16:01.898 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.item.selector.web_2.0.0 [490]
+2018-02-27 13:16:01.899 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.api_1.0.0 [816]
+2018-02-27 13:16:01.905 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.instance_1.0.0 [328]
+2018-02-27 13:16:01.918 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.web_1.0.14 [330]
+2018-02-27 13:16:01.925 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.exportimport.resources.importer_2.0.2 [371]
+2018-02-27 13:16:01.927 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.item.selector.upload.web_2.0.9 [455]
+2018-02-27 13:16:01.938 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.activity.web_2.0.12 [660]
+2018-02-27 13:16:01.952 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.rss.web_3.0.1 [621]
+2018-02-27 13:16:01.953 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.builder_1.0.0 [332]
+2018-02-27 13:16:01.965 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.web_2.0.21 [649]
+2018-02-27 13:16:01.965 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.subscription.api_1.0.0 [679]
+2018-02-27 13:16:01.971 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.metal.web_1.0.20 [413]
+2018-02-27 13:16:01.974 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.node_1.0.0 [647]
+2018-02-27 13:16:01.979 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.display.template_2.2.3 [576]
+2018-02-27 13:16:01.985 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.evaluator.impl_1.0.0 [333]
+2018-02-27 13:16:01.999 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.field.type_3.0.0 [335]
+2018-02-27 13:16:02.031 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.css.web_2.0.19 [562]
+2018-02-27 13:16:02.032 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.renderer_2.2.0 [336]
+2018-02-27 13:16:02.037 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.taglib_1.0.0 [337]
+2018-02-27 13:16:02.038 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.editor_2.0.9 [350]
+2018-02-27 13:16:02.039 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.values.factory_3.0.0 [338]
+2018-02-27 13:16:02.039 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.web.site.rest.impl_1.0.0 [815]
+2018-02-27 13:16:02.040 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.item.selector.api_1.1.0 [489]
+2018-02-27 13:16:02.040 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.organizations.item.selector.api_1.0.0 [547]
+2018-02-27 13:16:02.042 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.ratings.analytics_1.0.0 [602]
+2018-02-27 13:16:02.042 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.apio.api_1.0.0 [802]
+2018-02-27 13:16:02.045 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.expando.web_1.0.13 [365]
+2018-02-27 13:16:02.046 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.values.query_3.0.0 [339]
+2018-02-27 13:16:02.054 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.api_1.0.0 [367]
+2018-02-27 13:16:02.055 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.aggregate.rating.rest.impl_1.0.0 [801]
+2018-02-27 13:16:02.068 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.activities.web_2.0.8 [658]
+2018-02-27 13:16:02.117 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.web_1.0.0 [340]
+2018-02-27 13:16:02.121 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.lang_2.0.8 [342]
+2018-02-27 13:16:02.129 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.captcha_2.0.8 [345]
+2018-02-27 13:16:02.141 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.document.library_1.0.0 [349]
+2018-02-27 13:16:02.150 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.fieldset_1.0.0 [351]
+2018-02-27 13:16:02.159 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.key.value_2.0.6 [353]
+2018-02-27 13:16:02.171 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.numeric_1.0.0 [354]
+2018-02-27 13:16:02.174 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.options_2.0.11 [355]
+2018-02-27 13:16:02.182 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.paragraph_2.0.11 [356]
+2018-02-27 13:16:02.187 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.password_1.0.4 [357]
+2018-02-27 13:16:02.205 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.radio_2.0.16 [358]
+2018-02-27 13:16:02.213 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.select_2.0.15 [359]
+2018-02-27 13:16:02.216 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.web_2.0.0 [534]
+2018-02-27 13:16:02.219 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.text_2.0.12 [360]
+2018-02-27 13:16:02.219 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.flags.taglib_2.1.0 [376]
+2018-02-27 13:16:02.224 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.validation_2.0.8 [361]
+2018-02-27 13:16:02.227 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.json.plain_1.0.0 [823]
+2018-02-27 13:16:02.237 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.sharing.web_2.0.11 [573]
+2018-02-27 13:16:02.241 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.theme.contributor_2.0.13 [579]
+2018-02-27 13:16:02.246 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.reading.time.service_1.0.0 [608]
+2018-02-27 13:16:02.250 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.api_1.1.0 [512]
+2018-02-27 13:16:02.253 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.web_1.0.56 [363]
+2018-02-27 13:16:02.254 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.user.personal.bar.web_2.0.10 [592]
+2018-02-27 13:16:02.255 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.expando.taglib_1.0.8 [364]
+2018-02-27 13:16:02.258 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.ratings.page.ratings.web_2.0.10 [604]
+2018-02-27 13:16:02.260 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.service_1.0.0 [368]
+2018-02-27 13:16:02.265 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.requests.web_1.0.8 [668]
+2018-02-27 13:16:02.270 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.web_1.0.0 [370]
+2018-02-27 13:16:02.281 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.monitoring.web_1.0.14 [542]
+2018-02-27 13:16:02.284 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.openid.web_2.0.8 [510]
+2018-02-27 13:16:02.286 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.api_3.2.0 [528]
+2018-02-27 13:16:02.287 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.item.selector.api_1.1.0 [632]
+2018-02-27 13:16:02.291 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.flags.web_2.0.14 [377]
+2018-02-27 13:16:02.292 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.item.selector.api_1.0.4 [479]
+2018-02-27 13:16:02.300 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.saturation_1.0.15 [406]
+2018-02-27 13:16:02.308 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.web_1.0.19 [514]
+2018-02-27 13:16:02.311 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.jspwiki_2.0.19 [721]
+2018-02-27 13:16:02.353 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.service_1.4.0 [483]
+2018-02-27 13:16:02.357 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.item.selector.web_1.0.10 [480]
+2018-02-27 13:16:02.361 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.exportimport.web_2.0.0 [373]
+2018-02-27 13:16:02.362 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.networking.service_3.0.1 [663]
+2018-02-27 13:16:02.366 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.web_1.0.70 [418]
+2018-02-27 13:16:02.368 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.flags.api_2.0.10 [374]
+2018-02-27 13:16:02.371 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.flags.service_2.0.13 [375]
+2018-02-27 13:16:02.375 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.flash.web_1.0.6 [378]
+2018-02-27 13:16:02.384 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.activity.api_1.0.7 [659]
+2018-02-27 13:16:02.386 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.editable_1.0.0 [380]
+2018-02-27 13:16:02.389 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.nullable_1.0.0 [381]
+2018-02-27 13:16:02.389 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.friendly.url.api_1.0.0 [386]
+2018-02-27 13:16:02.410 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.ckeditor.web_1.0.43 [395]
+2018-02-27 13:16:02.411 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.friendly.url.service_1.0.0 [387]
+2018-02-27 13:16:02.412 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.compatibility.ie_1.0.2 [388]
+2018-02-27 13:16:02.413 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.common_2.0.5 [389]
+2018-02-27 13:16:02.450 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit.defaults_2.0.3 [564]
+2018-02-27 13:16:02.450 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.rtl.servlet_1.0.9 [390]
+2018-02-27 13:16:02.454 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.alloyeditor.link.browse.web_1.0.7 [393]
+2018-02-27 13:16:02.457 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.message.boards.layout.set.prototype_1.0.15 [531]
+2018-02-27 13:16:02.470 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.marketplace.service_3.0.2 [523]
+2018-02-27 13:16:02.470 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.writer.api_1.0.0 [827]
+2018-02-27 13:16:02.471 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.alloyeditor.web_1.0.36 [394]
+2018-02-27 13:16:02.474 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.lang_2.0.1 [396]
+2018-02-27 13:16:02.476 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.prototype.impl_1.0.6 [494]
+2018-02-27 13:16:02.479 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.simple.web_1.0.10 [397]
+2018-02-27 13:16:02.484 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.navigation.web_2.0.13 [726]
+2018-02-27 13:16:02.487 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.tinymce.web_1.0.22 [398]
+2018-02-27 13:16:02.487 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.api_1.0.5 [399]
+2018-02-27 13:16:02.488 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.hal_1.0.0 [821]
+2018-02-27 13:16:02.491 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.theme.contributor_2.0.8 [583]
+2018-02-27 13:16:02.493 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.blog.rest.impl_1.0.0 [805]
+2018-02-27 13:16:02.495 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.petra.mail.template_1.0.0 [556]
+2018-02-27 13:16:02.495 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.contrast_1.0.15 [401]
+2018-02-27 13:16:02.496 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.api_3.0.0 [458]
+2018-02-27 13:16:02.500 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.rotate_1.0.15 [405]
+2018-02-27 13:16:02.505 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.integration.document.library_1.0.18 [407]
+2018-02-27 13:16:02.508 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.subscription.web_1.0.0 [681]
+2018-02-27 13:16:02.508 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.user.statistics.api_1.0.2 [669]
+2018-02-27 13:16:02.509 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.polyfill.babel.web_1.0.5 [415]
+2018-02-27 13:16:02.514 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.creole_2.0.17 [718]
+2018-02-27 13:16:02.515 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.loader.modules.extender.api_1.0.2 [411]
+2018-02-27 13:16:02.516 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.web.page.element.rest.api_1.0.0 [812]
+2018-02-27 13:16:02.517 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.map.taglib_1.1.8 [519]
+2018-02-27 13:16:02.518 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.admin.api_1.0.0 [636]
+2018-02-27 13:16:02.524 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.bundle.config.extender_1.0.12 [410]
+2018-02-27 13:16:02.525 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.util.freemarker.contributor_1.0.4 [426]
+2018-02-27 13:16:02.532 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.web_3.0.2 [588]
+2018-02-27 13:16:02.533 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.web_1.0.21 [408]
+2018-02-27 13:16:02.547 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.web.form.web_1.0.30 [712]
+2018-02-27 13:16:02.548 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.markdown.converter.api_1.0.0 [481]
+2018-02-27 13:16:02.552 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.security_2.0.29 [677]
+2018-02-27 13:16:02.553 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.activities.api_1.0.2 [656]
+2018-02-27 13:16:02.554 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.maxmind.geoip.api_1.2.14 [737]
+2018-02-27 13:16:02.556 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.google.web_2.0.11 [508]
+2018-02-27 13:16:02.558 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.loader.modules.extender_2.0.0 [412]
+2018-02-27 13:16:02.562 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wysiwyg.web_1.0.6 [733]
+2018-02-27 13:16:02.564 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.spa.web_1.0.48 [416]
+2018-02-27 13:16:02.566 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wsrp.api_1.1.0 [729]
+2018-02-27 13:16:02.572 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.top.head.extender_1.0.0 [417]
+2018-02-27 13:16:02.576 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.chart.sample.web_1.0.0 [420]
+2018-02-27 13:16:02.577 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib_2.3.0 [424]
+2018-02-27 13:16:02.583 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.clay_1.0.0 [421]
+2018-02-27 13:16:02.605 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.jaxrs.json_1.0.0 [820]
+2018-02-27 13:16:02.633 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.memberships.web_1.0.27 [634]
+2018-02-27 13:16:02.655 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.polls.service_3.0.25 [560]
+2018-02-27 13:16:02.671 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.contributor.extender_2.0.3 [427]
+2018-02-27 13:16:02.673 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.unstyled_3.0.0 [430]
+2018-02-27 13:16:02.682 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.google.maps.web_1.0.12 [432]
+2018-02-27 13:16:02.693 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.hello.soy.web_1.0.15 [434]
+2018-02-27 13:16:02.696 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.polls.web_2.0.23 [561]
+2018-02-27 13:16:02.698 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.html.preview.api_1.0.0 [437]
+2018-02-27 13:16:02.702 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.service_3.0.5 [444]
+2018-02-27 13:16:02.702 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.html.preview.processor.image_1.0.0 [438]
+2018-02-27 13:16:02.703 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.html.preview.service_1.0.0 [439]
+2018-02-27 13:16:02.713 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.iframe.web_1.0.16 [440]
+2018-02-27 13:16:02.723 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.application_1.0.0 [817]
+2018-02-27 13:16:02.725 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.image.uploader.web_1.0.18 [441]
+2018-02-27 13:16:02.726 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.api_2.1.4 [443]
+2018-02-27 13:16:02.738 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.web_1.0.28 [445]
+2018-02-27 13:16:02.746 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.invitation.web_1.0.13 [446]
+2018-02-27 13:16:02.747 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder.sample.web_2.0.11 [449]
+2018-02-27 13:16:02.753 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.web_1.0.19 [705]
+2018-02-27 13:16:02.753 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.petra.doulos_3.5.3 [554]
+2018-02-27 13:16:02.755 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.related.assets_2.0.5 [465]
+2018-02-27 13:16:02.757 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.map.google.maps_1.0.15 [517]
+2018-02-27 13:16:02.758 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.screens.service_1.0.30 [623]
+2018-02-27 13:16:02.766 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.item.selector.api_2.5.0 [450]
+2018-02-27 13:16:02.767 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.item.selector.criteria.api_2.2.0 [451]
+2018-02-27 13:16:02.775 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.item.selector.criteria.impl_1.0.0 [452]
+2018-02-27 13:16:02.778 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.item.selector.editor.configuration_2.0.5 [453]
+2018-02-27 13:16:02.780 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.users.admin.impl_1.0.16 [707]
+2018-02-27 13:16:02.781 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.item.selector.taglib_1.2.0 [454]
+2018-02-27 13:16:02.782 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.api_1.0.0 [459]
+2018-02-27 13:16:02.785 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.taglib_2.2.0 [652]
+2018-02-27 13:16:02.786 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.conversions_2.0.9 [461]
+2018-02-27 13:16:02.788 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.map.api_2.2.0 [515]
+2018-02-27 13:16:02.800 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.content.search.web_1.0.15 [466]
+2018-02-27 13:16:02.800 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.directory.web_2.0.10 [640]
+2018-02-27 13:16:02.801 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.item.selector.api_1.0.0 [641]
+2018-02-27 13:16:02.802 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.editor.configuration_1.0.3 [468]
+2018-02-27 13:16:02.803 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.item.selector.api_1.1.0 [469]
+2018-02-27 13:16:02.805 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.ratings.definition_2.0.3 [472]
+2018-02-27 13:16:02.805 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.page.template.service_1.0.0 [492]
+2018-02-27 13:16:02.806 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.api_2.2.0 [539]
+2018-02-27 13:16:02.829 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.microsoft_1.0.11 [597]
+2018-02-27 13:16:02.841 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.web_1.0.15 [600]
+2018-02-27 13:16:02.842 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.aggregate.rating.rest.api_1.0.0 [800]
+2018-02-27 13:16:02.844 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.marketplace.deployer_2.0.15 [522]
+2018-02-27 13:16:02.860 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mentions.web_2.0.3 [527]
+2018-02-27 13:16:02.903 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.service_1.3.0 [540]
+2018-02-27 13:16:02.915 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mentions.service_2.0.17 [526]
+2018-02-27 13:16:02.954 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.apple_1.0.13 [595]
+2018-02-27 13:16:02.980 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.admin.web_1.0.0 [637]
+2018-02-27 13:16:02.981 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.upload.api_1.1.0 [697]
+2018-02-27 13:16:02.981 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.reading.time.taglib_1.0.0 [609]
+2018-02-27 13:16:03.007 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.service_4.0.0 [473]
+2018-02-27 13:16:03.010 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.web_1.0.23 [541]
+2018-02-27 13:16:03.012 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.layout.taglib_2.1.6 [499]
+2018-02-27 13:16:03.012 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.taglib_1.0.6 [474]
+2018-02-27 13:16:03.013 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.api_1.1.1 [585]
+2018-02-27 13:16:03.014 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.terms.of.use_2.0.26 [475]
+2018-02-27 13:16:03.030 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.api_3.0.1 [578]
+2018-02-27 13:16:03.038 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.display.template.web_2.0.8 [577]
+2018-02-27 13:16:03.040 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.taglib_3.2.0 [678]
+2018-02-27 13:16:03.065 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.sync.service_2.0.0 [684]
+2018-02-27 13:16:03.101 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.journal.web_2.0.0 [476]
+2018-02-27 13:16:03.102 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.api_4.10.0 [477]
+2018-02-27 13:16:03.105 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.editor.configuration_1.0.4 [478]
+2018-02-27 13:16:03.207 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.web_1.0.56 [484]
+2018-02-27 13:16:03.208 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.admin.api_1.0.0 [485]
+2018-02-27 13:16:03.268 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.web_3.0.10 [728]
+2018-02-27 13:16:03.283 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.impl_1.0.10 [613]
+2018-02-27 13:16:03.314 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.admin.web_1.0.63 [486]
+2018-02-27 13:16:03.315 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.api_1.0.0 [487]
+2018-02-27 13:16:03.326 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.associated.data.web_1.0.0 [700]
+2018-02-27 13:16:03.327 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.api_2.0.2 [701]
+2018-02-27 13:16:03.332 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.service_1.0.0 [650]
+2018-02-27 13:16:03.336 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.minimize_2.0.3 [570]
+2018-02-27 13:16:03.363 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.editor.link.browse.web_1.0.0 [717]
+2018-02-27 13:16:03.382 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.notifications.web_1.0.30 [546]
+2018-02-27 13:16:03.385 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.impl_2.0.5 [488]
+2018-02-27 13:16:03.386 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.page.template.api_1.0.0 [491]
+2018-02-27 13:16:03.392 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.impl_2.0.2 [497]
+2018-02-27 13:16:03.399 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.content_1.0.0 [500]
+2018-02-27 13:16:03.404 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.control.panel_2.0.4 [501]
+2018-02-27 13:16:03.408 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.full.page.application_2.0.9 [502]
+2018-02-27 13:16:03.410 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.node_2.0.7 [504]
+2018-02-27 13:16:03.417 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.loan.calculator.web_1.0.9 [506]
+2018-02-27 13:16:03.421 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.facebook.connect.web_2.0.11 [507]
+2018-02-27 13:16:03.438 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wsrp.service_2.0.0 [731]
+2018-02-27 13:16:03.438 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.service_3.0.0 [513]
+2018-02-27 13:16:03.439 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.map.common_2.0.2 [516]
+2018-02-27 13:16:03.446 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.marketplace.store.web_3.0.2 [524]
+2018-02-27 13:16:03.448 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.petra.io.delta_1.1.3 [555]
+2018-02-27 13:16:03.451 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.mentions.api_2.2.2 [525]
+2018-02-27 13:16:03.452 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.message.boards.parser.bbcode_2.0.13 [532]
+2018-02-27 13:16:03.453 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.microblogs.api_2.2.0 [535]
+2018-02-27 13:16:03.459 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.microblogs.service_3.0.0 [536]
+2018-02-27 13:16:03.467 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.upload.web_1.0.7 [698]
+2018-02-27 13:16:03.468 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.folder.rest.api_1.0.0 [806]
+2018-02-27 13:16:03.469 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.websocket.whiteboard_1.0.3 [714]
+2018-02-27 13:16:03.480 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.microblogs.web_2.0.25 [537]
+2018-02-27 13:16:03.481 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.error.problem.json_1.0.0 [818]
+2018-02-27 13:16:03.481 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.service_1.0.0 [653]
+2018-02-27 13:16:03.482 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.api_1.4.0 [593]
+2018-02-27 13:16:03.487 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.microsoft.translator_1.0.7 [538]
+2018-02-27 13:16:03.498 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.trash.web_1.0.25 [692]
+2018-02-27 13:16:03.499 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.my.subscriptions.web_1.0.9 [543]
+2018-02-27 13:16:03.499 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.text.localizer.taglib_1.0.0 [687]
+2018-02-27 13:16:03.501 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.input.editor.common_3.0.2 [720]
+2018-02-27 13:16:03.508 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.nested.portlets.web_2.0.16 [544]
+2018-02-27 13:16:03.509 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.browser.web_2.0.17 [630]
+2018-02-27 13:16:03.512 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.network.utilities.web_1.0.11 [545]
+2018-02-27 13:16:03.513 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.api_2.0.2 [551]
+2018-02-27 13:16:03.513 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.petra.model.adapter_1.1.0 [557]
+2018-02-27 13:16:03.514 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.polls.api_5.0.0 [559]
+2018-02-27 13:16:03.515 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.sms_1.0.7 [598]
+2018-02-27 13:16:03.516 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit.guest_2.0.3 [565]
+2018-02-27 13:16:03.519 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit_2.0.3 [566]
+2018-02-27 13:16:03.522 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.help_2.0.3 [567]
+2018-02-27 13:16:03.523 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.wiki.api_2.6.0 [715]
+2018-02-27 13:16:03.524 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.locator.impl_1.0.0 [568]
+2018-02-27 13:16:03.525 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.web.page.element.rest.impl_1.0.0 [813]
+2018-02-27 13:16:03.526 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.toolbar.contributor.locator.impl_1.0.0 [574]
+2018-02-27 13:16:03.526 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.wiring.osgi.api_1.0.0 [825]
+2018-02-27 13:16:03.526 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.text.localizer.address.api_1.0.0 [686]
+2018-02-27 13:16:03.528 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.user_2.0.6 [591]
+2018-02-27 13:16:03.528 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.ratings.api_2.0.2 [603]
+2018-02-27 13:16:03.529 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.api_2.0.2 [612]
+2018-02-27 13:16:03.533 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.api_1.0.0 [638]
+2018-02-27 13:16:03.548 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.web_1.0.40 [614]
+2018-02-27 13:16:03.554 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.roles.selector.web_1.0.12 [617]
+2018-02-27 13:16:03.558 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.rss.impl_1.0.0 [619]
+2018-02-27 13:16:03.560 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.json.ld_1.0.0 [822]
+2018-02-27 13:16:03.561 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.rss.taglib_1.0.0 [620]
+2018-02-27 13:16:03.566 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.layout_1.0.0 [646]
+2018-02-27 13:16:03.582 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.language.web_3.0.5 [644]
+2018-02-27 13:16:03.587 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.users.admin.item.selector.web_1.0.0 [709]
+2018-02-27 13:16:03.592 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.server.admin.web_1.0.31 [624]
+2018-02-27 13:16:03.597 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.social.group.statistics.web_2.0.14 [661]
+2018-02-27 13:16:03.599 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.twitter.web_1.0.11 [695]
+2018-02-27 13:16:03.623 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.trash.service_1.1.0 [690]
+2018-02-27 13:16:03.659 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.site.admin.web_1.0.38 [628]
+2018-02-27 13:16:03.663 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.error_1.0.0 [819]
+2018-02-27 13:16:03.664 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.trash.api_1.0.0 [689]
+2018-02-27 13:16:03.668 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.item.selector.web_1.0.0 [704]
+2018-02-27 13:16:03.668 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.web.site.rest.api_1.0.0 [814]
+2018-02-27 13:16:03.670 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.site.teams.web_1.0.17 [655]
+2018-02-27 13:16:03.671 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.social.networking.api_2.1.1 [662]
+2018-02-27 13:16:03.674 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.web.proxy.web_1.0.15 [713]
+2018-02-27 13:16:03.679 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.youtube.web_1.0.15 [736]
+2018-02-27 13:16:03.689 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.weather.web_1.0.10 [711]
+2018-02-27 13:16:03.689 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.person.rest.api_1.0.0 [810]
+2018-02-27 13:16:03.690 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.lang_2.0.16 [674]
+2018-02-27 13:16:03.701 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.staging.configuration.web_1.0.20 [673]
+2018-02-27 13:16:03.714 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.social.networking.web_1.0.24 [664]
+2018-02-27 13:16:03.715 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.item.selector.api_1.0.0 [703]
+2018-02-27 13:16:03.720 INFO  [Start Level: Equinox Container: 201a6f45-c01b-0018-1cd8-b7038233f020][BundleStartStopLogger:35] STARTED com.liferay.wiki.layout.prototype_1.0.16 [725]
+2018-02-27 13:16:04.021 INFO  [fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules][BundleStartStopLogger:35] STARTED com.liferay.headless.apio.impl_1.0.0 [803]
+2018-02-27 13:16:18.920 WARN  [localhost-startStop-1][EmbeddedElasticsearchConnection:347] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-02-27 13:16:18.991 INFO  [localhost-startStop-1][node:149] [Gomi] version[2.4.0], pid[15317], build[ce9f0c7/2016-08-29T09:14:17Z]
+2018-02-27 13:16:18.992 INFO  [localhost-startStop-1][node:151] [Gomi] initializing ...
+2018-02-27 13:16:19.128 INFO  [localhost-startStop-1][plugins:180] [Gomi] modules [], plugins [analysis-kuromoji, analysis-icu, analysis-smartcn, analysis-stempel], sites []
+2018-02-27 13:16:19.153 INFO  [localhost-startStop-1][env:290] [Gomi] using [1] data paths, mounts [[/ (/dev/disk1s1)]], net usable_space [243.4gb], net total_space [465.7gb], spins? [unknown], types [apfs]
+2018-02-27 13:16:19.154 INFO  [localhost-startStop-1][env:305] [Gomi] heap size [910.5mb], compressed ordinary object pointers [unknown]
+2018-02-27 13:16:20.781 INFO  [localhost-startStop-1][node:225] [Gomi] initialized
+2018-02-27 13:16:20.782 INFO  [localhost-startStop-1][node:251] [Gomi] starting ...
+2018-02-27 13:16:20.785 INFO  [localhost-startStop-1][transport:184] [Gomi] publish_address {local[1]}, bound_addresses {local[1]}
+2018-02-27 13:16:20.789 INFO  [localhost-startStop-1][discovery:86] [Gomi] LiferayElasticsearchCluster/1QHZDdLKRdO8jRDHK1RW_w
+2018-02-27 13:16:20.795 INFO  [elasticsearch[Gomi][clusterService#updateTask][T#1]][service:580] [Gomi] new_master {Gomi}{1QHZDdLKRdO8jRDHK1RW_w}{local}{local[1]}{local=true}, reason: local-disco-initial_connect(master)
+2018-02-27 13:16:20.899 INFO  [localhost-startStop-1][http:109] [Gomi] publish_address {127.0.0.1:9200}, bound_addresses {127.0.0.1:9200}
+2018-02-27 13:16:20.906 INFO  [localhost-startStop-1][node:300] [Gomi] started
+2018-02-27 13:16:20.922 INFO  [elasticsearch[Gomi][clusterService#updateTask][T#1]][gateway:268] [Gomi] recovered [2] indices into cluster_state
+2018-02-27 13:16:21.330 INFO  [elasticsearch[Gomi][clusterService#updateTask][T#1]][allocation:238] [Gomi] Cluster health status changed from [RED] to [GREEN] (reason: [shards started [[liferay-0][0], [liferay-20097][0]] ...]).
+2018-02-27 13:16:24.107 INFO  [localhost-startStop-1][StartupAction:117] There are no patches installed
+2018-02-27 13:16:24.260 INFO  [localhost-startStop-1][BaseDB:504] Database does not support case sensitive queries
+2018-02-27 13:16:25.820 INFO  [localhost-startStop-1][PluginPackageUtil:1000] Reading plugin package for the root context
+2018-02-27 13:16:26.325 INFO  [localhost-startStop-1][AutoDeployDir:194] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-02-27 13:16:33.269 TRACE [elasticsearch[Gomi][bulk][T#3]][index:158] [Gomi][liferay-0][0] took[737.6ms], took_millis[737], type[LiferayDocumentType], id[com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration], routing[] , source[{"uid":"com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration","companyId":"0","configurationModelId":"com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration","entryClassName":"com.liferay.configuration.admin.web.internal.model.ConfigurationModel","configurationModelFactoryPid":"com.liferay.portal.osgi.web.wab.extender.internal.configuration.WabExtenderConfiguration","title_zh_CN":"WAB扩展器","title_es_ES":"Extensor WAB","title_ja_JP":"WAB Extender","title_iw_IL":"WAB Extender","title_nl_NL":"WAB-verlenger","title_fi_FI":"WAB Extender -laite","title_ca_ES":"Estensor WAB","title_hu_HU":"WAB bővítő","title_fr_FR":"Extendeur WAB","title":"WAB Extender","title_en_US":"WAB Extender","title_pt_BR":"Extensor WAB","title_de_DE":"WAB Extender","configurationModelAttributeName":"stop-timeout"}]
+2018-02-27 13:16:33.269 TRACE [elasticsearch[Gomi][bulk][T#2]][index:158] [Gomi][liferay-0][0] took[737.4ms], took_millis[737], type[LiferayDocumentType], id[com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration], routing[] , source[{"uid":"com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration","companyId":"0","configurationModelId":"com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration","entryClassName":"com.liferay.configuration.admin.web.internal.model.ConfigurationModel","configurationModelFactoryPid":"com.liferay.portal.component.blacklist.internal.ComponentBlacklistConfiguration","configurationModelAttributeDescription":"blacklist-component-names-help","title_zh_CN":"Component Blacklist Configuration","title_es_ES":"Component Blacklist Configuration","title_ja_JP":"Component Blacklist Configuration","title_iw_IL":"Component Blacklist Configuration","title_nl_NL":"Component Blacklist Configuration","title_fi_FI":"Component Blacklist Configuration","title_ca_ES":"Component Blacklist Configuration","title_hu_HU":"Component Blacklist Configuration","title_fr_FR":"Component Blacklist Confi]
+2018-02-27 13:16:33.271 TRACE [elasticsearch[Gomi][bulk][T#5]][index:158] [Gomi][liferay-0][0] took[737.8ms], took_millis[737], type[LiferayDocumentType], id[com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_org.apache.felix.fileinstall], routing[] , source[{"uid":"com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_org.apache.felix.fileinstall","companyId":"0","configurationModelId":"org.apache.felix.fileinstall","entryClassName":"com.liferay.configuration.admin.web.internal.model.ConfigurationModel","configurationModelFactoryPid":"org.apache.felix.fileinstall","title_zh_CN":"Apache Felix File Install","title_es_ES":"Apache Felix File Install","title_ja_JP":"Apache Felix File Install","title_iw_IL":"Apache Felix File Install","title_nl_NL":"Apache Felix File Install","title_fi_FI":"Apache Felix File Install","title_ca_ES":"Apache Felix File Install","title_hu_HU":"Apache Felix File Install","title_fr_FR":"Apache Felix File Install","title":"Apache Felix File Install","title_en_US":"Apache Felix File Install","title_pt_BR":"Apache Felix File Install","title_de_DE":"Apache Felix File Install","configurationModelAttributeName":["Poll directory","Poll interval","Log level","Start new bundles?","File name filter","Temp d]
+2018-02-27 13:16:33.271 TRACE [elasticsearch[Gomi][bulk][T#1]][index:158] [Gomi][liferay-0][0] took[740.1ms], took_millis[740], type[LiferayDocumentType], id[com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration], routing[] , source[{"uid":"com_liferay_configuration_admin_web_portlet_SystemSettingsPortlet_PORTLET_com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration","companyId":"0","configurationModelId":"com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration","entryClassName":"com.liferay.configuration.admin.web.internal.model.ConfigurationModel","configurationModelFactoryPid":"com.liferay.portal.bundle.blacklist.internal.BundleBlacklistConfiguration","title_zh_CN":"Bundle Blacklist (Automatic Copy)","title_es_ES":"Bundle Blacklist (Automatic Copy)","title_ja_JP":"Bundle Blacklist (Automatic Copy)","title_iw_IL":"Bundle Blacklist (Automatic Copy)","title_nl_NL":"Bundle Blacklist (Automatic Copy)","title_fi_FI":"Bundle Blacklist (Automatic Copy)","title_ca_ES":"Bundle Blacklist (Automatic Copy)","title_hu_HU":"Bundle Blacklist (Automatic Copy)","title_fr_FR":"Bundle Blacklist (Automatic Copy)","title":"Bundle Blacklist","title_en_US":"Bundle Blacklist","title_pt_BR":"Bundle ]
+2018-02-27 13:16:57.872 INFO  [liferay/scheduler_dispatch-3][PluginPackageUtil:1266] Reloading repositories
+2018-02-27 13:17:19.512 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying admin-theme from queue
+2018-02-27 13:17:19.515 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for admin-theme
+2018-02-27 13:17:19.545 INFO  [localhost-startStop-1][ThemeHotDeployListener:93] Registering themes for admin-theme
+2018-02-27 13:17:19.809 INFO  [localhost-startStop-1][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-02-27 13:17:20.323 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying classic-theme from queue
+2018-02-27 13:17:20.324 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for classic-theme
+2018-02-27 13:17:20.331 INFO  [localhost-startStop-1][ThemeHotDeployListener:93] Registering themes for classic-theme
+2018-02-27 13:17:20.573 INFO  [localhost-startStop-1][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-02-27 13:17:21.064 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying frontend-columns-layouttpl from queue
+2018-02-27 13:17:21.075 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for frontend-columns-layouttpl
+2018-02-27 13:17:21.085 INFO  [localhost-startStop-1][LayoutTemplateHotDeployListener:89] Registering layout templates for frontend-columns-layouttpl
+2018-02-27 13:17:21.103 INFO  [localhost-startStop-1][LayoutTemplateHotDeployListener:109] 5 layout templates for frontend-columns-layouttpl are available for use
+2018-02-27 13:17:25.402 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying opensocial-portlet from queue
+2018-02-27 13:17:25.403 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for opensocial-portlet
+2018-02-27 13:17:28.362 INFO  [localhost-startStop-1][HookHotDeployListener:458] Registering hook for opensocial-portlet
+2018-02-27 13:17:28.389 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ar.properties
+2018-02-27 13:17:28.390 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_bg.properties
+2018-02-27 13:17:28.393 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_cs.properties
+2018-02-27 13:17:28.393 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_da.properties
+2018-02-27 13:17:28.396 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_el.properties
+2018-02-27 13:17:28.400 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_et.properties
+2018-02-27 13:17:28.401 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_eu.properties
+2018-02-27 13:17:28.402 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_fa.properties
+2018-02-27 13:17:28.406 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_gl.properties
+2018-02-27 13:17:28.424 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_hr.properties
+2018-02-27 13:17:28.428 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_in.properties
+2018-02-27 13:17:28.430 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_it.properties
+2018-02-27 13:17:28.434 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ko.properties
+2018-02-27 13:17:28.435 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lo.properties
+2018-02-27 13:17:28.435 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lt.properties
+2018-02-27 13:17:28.436 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_nb.properties
+2018-02-27 13:17:28.450 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_pl.properties
+2018-02-27 13:17:28.463 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ro.properties
+2018-02-27 13:17:28.464 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ru.properties
+2018-02-27 13:17:28.464 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sk.properties
+2018-02-27 13:17:28.465 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sl.properties
+2018-02-27 13:17:28.490 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sv.properties
+2018-02-27 13:17:28.491 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_th.properties
+2018-02-27 13:17:28.491 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_tr.properties
+2018-02-27 13:17:28.492 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_uk.properties
+2018-02-27 13:17:28.493 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_vi.properties
+2018-02-27 13:17:28.510 INFO  [localhost-startStop-1][HookHotDeployListener:534] Hook for opensocial-portlet is available for use
+2018-02-27 13:17:28.513 INFO  [localhost-startStop-1][PortletHotDeployListener:186] Registering portlets for opensocial-portlet
+2018-02-27 13:17:29.455 INFO  [localhost-startStop-1][PortletHotDeployListener:303] 4 portlets for opensocial-portlet are available for use
+2018-02-27 13:17:30.483 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying powwow-portlet from queue
+2018-02-27 13:17:30.484 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for powwow-portlet
+2018-02-27 13:17:30.872 INFO  [localhost-startStop-1][HookHotDeployListener:458] Registering hook for powwow-portlet
+2018-02-27 13:17:30.880 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ar.properties
+2018-02-27 13:17:30.880 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_bg.properties
+2018-02-27 13:17:30.884 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_cs.properties
+2018-02-27 13:17:30.884 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_da.properties
+2018-02-27 13:17:30.887 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_el.properties
+2018-02-27 13:17:30.892 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_et.properties
+2018-02-27 13:17:30.893 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_eu.properties
+2018-02-27 13:17:30.893 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_fa.properties
+2018-02-27 13:17:30.899 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_gl.properties
+2018-02-27 13:17:30.903 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_hr.properties
+2018-02-27 13:17:30.906 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_in.properties
+2018-02-27 13:17:30.906 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_it.properties
+2018-02-27 13:17:30.913 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ko.properties
+2018-02-27 13:17:30.913 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lo.properties
+2018-02-27 13:17:30.914 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lt.properties
+2018-02-27 13:17:30.914 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_nb.properties
+2018-02-27 13:17:30.920 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_pl.properties
+2018-02-27 13:17:30.926 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ro.properties
+2018-02-27 13:17:30.926 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ru.properties
+2018-02-27 13:17:30.927 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sk.properties
+2018-02-27 13:17:30.927 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sl.properties
+2018-02-27 13:17:30.933 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sv.properties
+2018-02-27 13:17:30.933 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_th.properties
+2018-02-27 13:17:30.934 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_tr.properties
+2018-02-27 13:17:30.934 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_uk.properties
+2018-02-27 13:17:30.935 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_vi.properties
+2018-02-27 13:17:30.940 INFO  [localhost-startStop-1][HookHotDeployListener:534] Hook for powwow-portlet is available for use
+2018-02-27 13:17:30.943 INFO  [localhost-startStop-1][PortletHotDeployListener:186] Registering portlets for powwow-portlet
+2018-02-27 13:17:31.224 INFO  [localhost-startStop-1][PortletHotDeployListener:303] 2 portlets for powwow-portlet are available for use
+2018-02-27 13:17:31.643 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying social-bookmarks-hook from queue
+2018-02-27 13:17:31.644 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for social-bookmarks-hook
+2018-02-27 13:17:31.652 INFO  [localhost-startStop-1][HookHotDeployListener:458] Registering hook for social-bookmarks-hook
+2018-02-27 13:17:31.660 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ar.properties
+2018-02-27 13:17:31.660 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_bg.properties
+2018-02-27 13:17:31.664 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_cs.properties
+2018-02-27 13:17:31.665 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_da.properties
+2018-02-27 13:17:31.688 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_el.properties
+2018-02-27 13:17:31.694 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_et.properties
+2018-02-27 13:17:31.695 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_eu.properties
+2018-02-27 13:17:31.695 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_fa.properties
+2018-02-27 13:17:31.701 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_gl.properties
+2018-02-27 13:17:31.704 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_hr.properties
+2018-02-27 13:17:31.707 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_in.properties
+2018-02-27 13:17:31.708 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_it.properties
+2018-02-27 13:17:31.712 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ko.properties
+2018-02-27 13:17:31.713 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lo.properties
+2018-02-27 13:17:31.713 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lt.properties
+2018-02-27 13:17:31.714 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_nb.properties
+2018-02-27 13:17:31.718 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_pl.properties
+2018-02-27 13:17:31.723 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ro.properties
+2018-02-27 13:17:31.723 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ru.properties
+2018-02-27 13:17:31.724 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sk.properties
+2018-02-27 13:17:31.724 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sl.properties
+2018-02-27 13:17:31.728 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sv.properties
+2018-02-27 13:17:31.729 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_th.properties
+2018-02-27 13:17:31.729 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_tr.properties
+2018-02-27 13:17:31.729 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_uk.properties
+2018-02-27 13:17:31.730 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_vi.properties
+2018-02-27 13:17:31.917 INFO  [localhost-startStop-1][HookHotDeployListener:534] Hook for social-bookmarks-hook is available for use
+2018-02-27 13:17:32.370 INFO  [localhost-startStop-1][HotDeployImpl:226] Deploying tasks-portlet from queue
+2018-02-27 13:17:32.371 INFO  [localhost-startStop-1][PluginPackageUtil:1003] Reading plugin package for tasks-portlet
+2018-02-27 13:17:32.610 INFO  [localhost-startStop-1][HookHotDeployListener:458] Registering hook for tasks-portlet
+2018-02-27 13:17:32.615 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ar.properties
+2018-02-27 13:17:32.615 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_bg.properties
+2018-02-27 13:17:32.618 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_cs.properties
+2018-02-27 13:17:32.618 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_da.properties
+2018-02-27 13:17:32.621 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_el.properties
+2018-02-27 13:17:32.625 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_et.properties
+2018-02-27 13:17:32.625 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_eu.properties
+2018-02-27 13:17:32.626 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_fa.properties
+2018-02-27 13:17:32.644 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_gl.properties
+2018-02-27 13:17:32.647 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_hr.properties
+2018-02-27 13:17:32.651 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_in.properties
+2018-02-27 13:17:32.651 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_it.properties
+2018-02-27 13:17:32.656 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ko.properties
+2018-02-27 13:17:32.656 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lo.properties
+2018-02-27 13:17:32.656 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_lt.properties
+2018-02-27 13:17:32.657 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_nb.properties
+2018-02-27 13:17:32.663 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_pl.properties
+2018-02-27 13:17:32.667 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ro.properties
+2018-02-27 13:17:32.668 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_ru.properties
+2018-02-27 13:17:32.668 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sk.properties
+2018-02-27 13:17:32.669 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sl.properties
+2018-02-27 13:17:32.673 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_sv.properties
+2018-02-27 13:17:32.674 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_th.properties
+2018-02-27 13:17:32.674 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_tr.properties
+2018-02-27 13:17:32.675 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_uk.properties
+2018-02-27 13:17:32.675 INFO  [localhost-startStop-1][HookHotDeployListener:1173] Ignoring content/Language_vi.properties
+2018-02-27 13:17:32.698 INFO  [localhost-startStop-1][HookHotDeployListener:534] Hook for tasks-portlet is available for use
+2018-02-27 13:17:32.700 INFO  [localhost-startStop-1][PortletHotDeployListener:186] Registering portlets for tasks-portlet
+2018-02-27 13:17:33.117 INFO  [localhost-startStop-1][PortletHotDeployListener:303] 2 portlets for tasks-portlet are available for use
+2018-02-27 17:34:54.556 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m27s167ms).
+2018-02-27 17:34:56.238 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m27s171ms).
+2018-02-27 18:10:57.410 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m2s694ms).
+2018-02-27 18:10:59.063 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2m2s699ms).
+2018-02-27 18:30:31.634 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m31s545ms).
+2018-02-27 18:30:33.286 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m31s550ms).
+2018-02-27 21:53:49.182 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s837ms).
+2018-02-27 21:53:50.584 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m14s468ms).

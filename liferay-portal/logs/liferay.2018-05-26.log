@@ -1,0 +1,43 @@
+2018-05-26 00:57:49.145 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h57m48s682ms).
+2018-05-26 00:57:49.145 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h57m48s391ms).
+2018-05-26 02:57:58.170 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h9s183ms).
+2018-05-26 02:57:58.173 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h9s193ms).
+2018-05-26 06:57:58.017 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h59m59s789ms).
+2018-05-26 06:57:58.017 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h59m59s781ms).
+2018-05-26 07:32:53.634 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=34m55s685ms).
+2018-05-26 07:32:53.678 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m55s716ms).
+2018-05-26 07:34:32.848 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-05-26 07:34:32.850 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-05-26 07:34:32.860 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for admin-theme
+2018-05-26 07:34:33.028 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for porygon-theme
+2018-05-26 07:34:33.030 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-05-26 07:34:33.030 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for porygon-theme
+2018-05-26 07:34:33.469 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-05-26 07:34:33.497 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-05-26 07:34:33.587 INFO  [Thread-42][HookHotDeployListener:581] Hook for tasks-portlet was unregistered
+2018-05-26 07:34:33.629 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for tasks-portlet
+2018-05-26 07:34:33.900 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for 1975-london-theme
+2018-05-26 07:34:33.901 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for 1975-london-theme was unregistered
+2018-05-26 07:34:33.902 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for 1975-london-theme
+2018-05-26 07:34:34.050 INFO  [Thread-42][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-05-26 07:34:34.051 INFO  [Thread-42][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-05-26 07:34:34.261 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for frontend-columns-layouttpl
+2018-05-26 07:34:34.403 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-05-26 07:34:34.443 INFO  [Thread-42][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-05-26 07:34:34.482 INFO  [Thread-42][HookHotDeployListener:581] Hook for opensocial-portlet was unregistered
+2018-05-26 07:34:34.596 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for opensocial-portlet
+2018-05-26 07:34:35.491 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for fjord-theme
+2018-05-26 07:34:35.492 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-05-26 07:34:35.493 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for fjord-theme
+2018-05-26 07:34:35.709 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-05-26 07:34:35.947 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-05-26 07:34:35.987 INFO  [Thread-42][HookHotDeployListener:581] Hook for powwow-portlet was unregistered
+2018-05-26 07:34:36.033 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for powwow-portlet
+2018-05-26 07:34:36.087 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for westeros-bank-theme
+2018-05-26 07:34:36.088 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-05-26 07:34:36.089 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for westeros-bank-theme
+2018-05-26 07:34:36.332 INFO  [Thread-42][HookHotDeployListener:581] Hook for social-bookmarks-hook was unregistered
+2018-05-26 07:34:36.333 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for social-bookmarks-hook
+2018-05-26 07:34:36.573 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-05-26 07:34:36.574 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-05-26 07:34:36.575 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for classic-theme

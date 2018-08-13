@@ -1,0 +1,21 @@
+2018-06-12 12:04:49.872 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m7s753ms).
+2018-06-12 12:04:49.872 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=22m7s753ms).
+2018-06-12 13:30:08.055 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=45s130ms).
+2018-06-12 13:30:08.055 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=45s130ms).
+2018-06-12 14:00:27.364 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=48s270ms).
+2018-06-12 14:00:27.364 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48s270ms).
+2018-06-12 14:49:33.601 INFO  [liferay/scheduler_dispatch-5][PluginPackageUtil:1264] Reloading repositories
+2018-06-12 14:49:39.818 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=34m39s365ms).
+2018-06-12 14:49:39.818 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m39s365ms).
+2018-06-12 15:05:05.964 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m26s146ms).
+2018-06-12 15:05:05.965 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=15m26s147ms).
+2018-06-12 17:06:01.967 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h25s996ms).
+2018-06-12 17:06:01.967 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h25s996ms).
+2018-06-12 17:28:35.619 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s639ms).
+2018-06-12 17:28:35.619 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s639ms).
+2018-06-12 19:29:01.710 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s92ms).
+2018-06-12 19:29:01.710 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s92ms).
+2018-06-12 21:29:57.827 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s108ms).
+2018-06-12 21:29:57.827 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s108ms).
+2018-06-12 23:30:53.941 WARN  [HikariPool-1 housekeeper][HikariPool:686] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h26s106ms).
+2018-06-12 23:30:53.941 WARN  [HikariPool-2 housekeeper][HikariPool:686] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=2h26s106ms).

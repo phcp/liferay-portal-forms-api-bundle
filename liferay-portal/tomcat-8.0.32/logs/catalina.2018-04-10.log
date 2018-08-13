@@ -1,0 +1,39 @@
+10-Apr-2018 20:54:54.959 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.32
+10-Apr-2018 20:54:54.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 2 2016 19:34:53 UTC
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.32.0
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.13.3
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_131-b11
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32
+10-Apr-2018 20:54:54.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32
+10-Apr-2018 20:54:54.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32/conf/logging.properties
+10-Apr-2018 20:54:54.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF8
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.net.preferIPv4Stack=true
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.loader.WebappClassLoader.ENABLE_CLEAR_REFERENCES=false
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.timezone=GMT
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx1024m
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxPermSize=384m
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.zip.disableMemoryMapping=true
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xdebug
+10-Apr-2018 20:54:54.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xrunjdwp:transport=dt_socket,address=8000,server=y,suspend=n
+10-Apr-2018 20:54:54.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32/endorsed
+10-Apr-2018 20:54:54.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32
+10-Apr-2018 20:54:54.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32
+10-Apr-2018 20:54:54.964 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32/temp
+10-Apr-2018 20:54:54.964 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/paulo/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+10-Apr-2018 20:54:55.140 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+10-Apr-2018 20:54:55.173 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Apr-2018 20:54:55.176 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+10-Apr-2018 20:54:55.178 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+10-Apr-2018 20:54:55.178 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 587 ms
+10-Apr-2018 20:54:55.204 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+10-Apr-2018 20:54:55.204 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.32
+10-Apr-2018 20:54:55.215 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32/conf/Catalina/localhost/ROOT.xml
+10-Apr-2018 20:58:02.928 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/tomcat-8.0.32/conf/Catalina/localhost/ROOT.xml has finished in 187,713 ms
+10-Apr-2018 20:58:02.933 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+10-Apr-2018 20:58:02.942 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+10-Apr-2018 20:58:02.942 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 187771 ms

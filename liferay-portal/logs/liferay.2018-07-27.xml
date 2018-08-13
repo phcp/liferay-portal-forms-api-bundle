@@ -1,0 +1,170 @@
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1532697955660" level="INFO" thread="liferay/scheduler_dispatch-4">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1264"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532701443205" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@734306d9]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532709174189" level="ERROR" thread="http-nio-8080-exec-10">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2e39a075]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532709424690" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@3b02dc94]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532709547612" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7ac5e8f3]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532709807826" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@380bd39e]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532710945082" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m50s23ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532710945085" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m50s23ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532712893498" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m20s61ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532712893498" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m20s61ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532713669991" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4e1e8bd1]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532714179352" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@1936e6b2]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532714319245" level="ERROR" thread="http-nio-8080-exec-3">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6942b2f6]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532715762809" level="ERROR" thread="http-nio-8080-exec-18">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@77a02fd3]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532715804908" level="ERROR" thread="http-nio-8080-exec-20">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@17fcd6b9]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532715931734" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5ce3906a]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532716216529" level="ERROR" thread="http-nio-8080-exec-20">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@238e4fa1]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532716292561" level="ERROR" thread="http-nio-8080-exec-20">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@78e1e70a]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532716423248" level="ERROR" thread="http-nio-8080-exec-19">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@7d21554b]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532716995127" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m40s629ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532716995127" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m40s629ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532717832014" level="ERROR" thread="http-nio-8080-exec-19">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@4f257051]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718154087" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@21b405e4]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718218362" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@68bff94a]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718268402" level="ERROR" thread="http-nio-8080-exec-19">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5c40116b]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718602222" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@6b781879]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718706881" level="ERROR" thread="http-nio-8080-exec-2">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@76b05fd6]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532718873919" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@5543495c]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532719660671" level="ERROR" thread="http-nio-8080-exec-8">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@16dc2821]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" timestamp="1532719960089" level="ERROR" thread="http-nio-8080-exec-22">
+<log4j:message><![CDATA[com.liferay.apio.architect.error.APIError@2bac43a5]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.apio.internal.logger.ApioLoggerImpl" method="error" file="ApioLoggerImpl.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532720298933" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m22s518ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532720298945" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s514ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532725722002" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h9m22s998ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1532725722002" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h9m22s998ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="686"/>
+</log4j:event>
+

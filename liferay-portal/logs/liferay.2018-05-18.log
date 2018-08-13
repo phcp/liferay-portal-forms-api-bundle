@@ -1,0 +1,2 @@
+2018-05-18 06:17:46.094 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10h41s900ms).
+2018-05-18 06:17:46.094 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h43s558ms).

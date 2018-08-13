@@ -1,0 +1,25 @@
+2018-03-30 00:23:57.237 WARN  [HikariPool-1 housekeeper][HikariPool:676] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57m51s157ms).
+2018-03-30 00:23:57.237 WARN  [HikariPool-2 housekeeper][HikariPool:676] HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=57m51s157ms).
+2018-03-30 00:25:27.842 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-03-30 00:25:27.844 INFO  [localhost-startStop-2][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-03-30 00:25:27.853 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for frontend-columns-layouttpl
+2018-03-30 00:25:28.444 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-03-30 00:25:28.446 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-03-30 00:25:28.448 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for admin-theme
+2018-03-30 00:25:28.627 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-03-30 00:25:28.657 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-03-30 00:25:28.698 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for powwow-portlet was unregistered
+2018-03-30 00:25:28.756 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for powwow-portlet
+2018-03-30 00:25:29.775 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-03-30 00:25:30.011 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-03-30 00:25:30.044 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for opensocial-portlet was unregistered
+2018-03-30 00:25:30.106 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for opensocial-portlet
+2018-03-30 00:25:30.298 INFO  [localhost-startStop-2][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-03-30 00:25:30.299 INFO  [localhost-startStop-2][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-03-30 00:25:30.300 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for classic-theme
+2018-03-30 00:25:31.467 INFO  [localhost-startStop-2][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-03-30 00:25:31.488 INFO  [localhost-startStop-2][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-03-30 00:25:31.522 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for tasks-portlet was unregistered
+2018-03-30 00:25:31.557 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for tasks-portlet
+2018-03-30 00:25:32.299 INFO  [localhost-startStop-2][HookHotDeployListener:582] Hook for social-bookmarks-hook was unregistered
+2018-03-30 00:25:32.300 INFO  [localhost-startStop-2][PluginPackageUtil:1003] Reading plugin package for social-bookmarks-hook

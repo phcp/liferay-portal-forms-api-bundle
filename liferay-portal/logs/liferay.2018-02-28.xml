@@ -1,0 +1,5 @@
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1519823817873" level="INFO" thread="liferay/scheduler_dispatch-4">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1266"/>
+</log4j:event>
+

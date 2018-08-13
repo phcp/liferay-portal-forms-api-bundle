@@ -1,0 +1,96 @@
+<log4j:event logger="com.liferay.taglib.util.IncludeTag" timestamp="1527009512729" level="ERROR" thread="http-nio-8080-exec-7">
+<log4j:message><![CDATA[Current URL /group/guest/~/control_panel/manage?p_p_id=com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet&p_p_lifecycle=0&p_p_state=maximized generates exception: com.liferay.portal.kernel.template.TemplateException: Unable to process templates]]></log4j:message>
+<log4j:throwable><![CDATA[com.google.template.soy.tofu.SoyTofuException: Attempting to render undefined template 'com.liferay.frontend.taglib.clay.ManagementToolbar.render'.
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMainHelper(BaseTofu.java:198)
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMain(BaseTofu.java:156)
+	at com.google.template.soy.tofu.internal.BaseTofu.access$100(BaseTofu.java:53)
+	at com.google.template.soy.tofu.internal.BaseTofu$RendererImpl.renderStrict(BaseTofu.java:360)
+	at com.liferay.portal.template.soy.internal.SoyTemplate.processTemplates(SoyTemplate.java:333)
+	at com.liferay.portal.template.AbstractMultiResourceTemplate.processTemplate(AbstractMultiResourceTemplate.java:68)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.renderTemplate(TemplateRendererTag.java:228)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.doEndTag(TemplateRendererTag.java:57)
+	at org.apache.jsp.admin.management_005fbar_jsp._jspService(management_005fbar_jsp:292)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:411)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:473)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:377)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:345)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:356)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:62)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.kernel.log.LogUtil" method="log" file="LogUtil.java" line="128"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.taglib.util.IncludeTag" timestamp="1527009530344" level="ERROR" thread="http-nio-8080-exec-1">
+<log4j:message><![CDATA[Current URL /group/guest/~/control_panel/manage?p_p_id=com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet&p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view generates exception: com.liferay.portal.kernel.template.TemplateException: Unable to process templates]]></log4j:message>
+<log4j:throwable><![CDATA[com.google.template.soy.tofu.SoyTofuException: Attempting to render undefined template 'com.liferay.frontend.taglib.clay.ManagementToolbar.render'.
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMainHelper(BaseTofu.java:198)
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMain(BaseTofu.java:156)
+	at com.google.template.soy.tofu.internal.BaseTofu.access$100(BaseTofu.java:53)
+	at com.google.template.soy.tofu.internal.BaseTofu$RendererImpl.renderStrict(BaseTofu.java:360)
+	at com.liferay.portal.template.soy.internal.SoyTemplate.processTemplates(SoyTemplate.java:333)
+	at com.liferay.portal.template.AbstractMultiResourceTemplate.processTemplate(AbstractMultiResourceTemplate.java:68)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.renderTemplate(TemplateRendererTag.java:228)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.doEndTag(TemplateRendererTag.java:57)
+	at org.apache.jsp.admin.management_005fbar_jsp._jspService(management_005fbar_jsp:292)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:411)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:473)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:377)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:345)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:356)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:62)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.kernel.log.LogUtil" method="log" file="LogUtil.java" line="128"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.taglib.util.IncludeTag" timestamp="1527012959636" level="ERROR" thread="http-nio-8080-exec-6">
+<log4j:message><![CDATA[Current URL /group/guest/~/control_panel/manage?p_p_id=com_liferay_dynamic_data_mapping_form_web_portlet_DDMFormAdminPortlet&p_p_lifecycle=0&p_p_state=maximized generates exception: com.liferay.portal.kernel.template.TemplateException: Unable to process templates]]></log4j:message>
+<log4j:throwable><![CDATA[com.google.template.soy.tofu.SoyTofuException: Attempting to render undefined template 'com.liferay.frontend.taglib.clay.ManagementToolbar.render'.
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMainHelper(BaseTofu.java:198)
+	at com.google.template.soy.tofu.internal.BaseTofu.renderMain(BaseTofu.java:156)
+	at com.google.template.soy.tofu.internal.BaseTofu.access$100(BaseTofu.java:53)
+	at com.google.template.soy.tofu.internal.BaseTofu$RendererImpl.renderStrict(BaseTofu.java:360)
+	at com.liferay.portal.template.soy.internal.SoyTemplate.processTemplates(SoyTemplate.java:333)
+	at com.liferay.portal.template.AbstractMultiResourceTemplate.processTemplate(AbstractMultiResourceTemplate.java:68)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.renderTemplate(TemplateRendererTag.java:228)
+	at com.liferay.frontend.taglib.soy.servlet.taglib.TemplateRendererTag.doEndTag(TemplateRendererTag.java:57)
+	at org.apache.jsp.admin.management_005fbar_jsp._jspService(management_005fbar_jsp:292)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:111)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:411)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:473)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:377)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:345)
+	at com.liferay.portal.osgi.web.servlet.jsp.compiler.internal.JspServlet.service(JspServlet.java:356)
+	at org.eclipse.equinox.http.servlet.internal.registration.EndpointRegistration.service(EndpointRegistration.java:153)
+	at org.eclipse.equinox.http.servlet.internal.servlet.ResponseStateHandler.processRequest(ResponseStateHandler.java:62)
+	at org.eclipse.equinox.http.servlet.internal.context.DispatchTargets.doDispatch(DispatchTargets.java:118)
+]]></log4j:throwable>
+<log4j:locationInfo class="com.liferay.portal.kernel.log.LogUtil" method="log" file="LogUtil.java" line="128"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1527015215473" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m18s63ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1527015230143" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m18s64ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1527019654655" level="INFO" thread="liferay/scheduler_dispatch-3">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1264"/>
+</log4j:event>
+

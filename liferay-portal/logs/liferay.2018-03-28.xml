@@ -1,0 +1,1605 @@
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522197127410" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m45s110ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522197127410" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46m45s110ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522198361555" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s145ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522198361555" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s145ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522200699682" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=38m28s126ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522200699682" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m28s126ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522201963808" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s124ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522201963808" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s124ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522203748950" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=29m15s132ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522203748950" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=29m15s132ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522204983710" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s760ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522204983711" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s761ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522207820831" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m47s117ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522207820831" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46m47s117ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522209084929" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s98ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522209084941" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s104ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522211327057" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=36m52s120ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522211327065" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=36m52s118ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522212590082" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s19ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522212590082" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s16ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522215017234" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m57s141ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522215017234" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=39m57s141ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522216280374" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s135ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522216280374" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s135ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522218201513" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=32m1s139ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522218201513" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m1s139ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522219465657" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s141ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522219465657" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s141ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522222090690" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=43m15s27ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522222090690" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=43m15s27ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522223353842" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s143ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522223353842" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s143ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522225797953" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m44s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522225797953" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=40m44s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522227061058" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s101ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522227061058" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s101ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522229208193" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=35m17s132ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522229208193" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=35m17s132ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522230471307" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s113ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522230471307" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s113ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522232935425" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=41m4s118ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522232935425" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=41m4s118ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522234229422" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s995ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522234229422" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s995ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522236612533" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=39m43s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522236612533" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m43s111ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522237876670" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s131ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522237876670" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s131ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522239899813" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=33m13s133ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522239899813" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m13s133ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522241163937" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m34s121ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522241163937" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m34s121ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522241839083" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m45s146ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522241839083" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=10m45s146ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522242239877" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m40s793ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522242239877" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=6m40s794ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747469" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [985]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747493" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [986]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747509" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [987]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747518" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [988]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747534" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [989]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747540" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [990]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747613" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [991]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747623" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [992]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747812" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [993]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747832" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [994]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747858" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [995]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747872" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [996]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747891" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [997]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747901" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [998]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747912" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [999]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747916" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1000]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246747926" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1003]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246748911" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1001]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246749484" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1002]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246749512" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [984]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246758347" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1005]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246758352" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1007]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789100" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1013]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789105" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1011]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789111" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1015]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789114" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1009]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789897" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [984]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789958" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1004]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789976" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1014]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246789978" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1016]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246790314" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1017]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794748" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1006]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794763" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1008]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794819" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1010]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794838" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1012]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794849" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1020]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794850" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1021]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794863" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1018]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794865" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1019]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522246794876" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1022]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522251768094" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=40m47s863ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522251768094" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m47s863ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.plugin.PluginPackageUtil" timestamp="1522253745571" level="INFO" thread="liferay/scheduler_dispatch-10">
+<log4j:message><![CDATA[Reloading repositories]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.plugin.PluginPackageUtil" method="_reloadRepositories" file="PluginPackageUtil.java" line="1266"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307086" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [984]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307106" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [1004]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307113" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [1005]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307126" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [1006]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307134" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [1007]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307147" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [1008]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307153" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1009]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307200" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1010]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307210" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [1011]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307234" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [1012]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259307323" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [1014]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259309841" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1016]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259310061" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1017]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259310081" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1022]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259310090" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [1018]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259312360" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [1013]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259312368" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [1015]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259312376" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [1019]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259312394" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [1020]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259312403" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1021]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259317604" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259322787" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1027]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259353158" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1029]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359214" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1039]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359216" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1035]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359317" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1032]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359347" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1038]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359360" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1031]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359364" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1037]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259359368" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1033]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361133" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361178" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361209" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1026]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361322" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1028]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361453" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1030]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361487" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1034]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259361534" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1036]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259362135" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1041]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259362137" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1040]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522259369611" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1042]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522259798218" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=46s740ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522259798221" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s740ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522260800820" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m42s602ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522260800820" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=16m42s602ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522262812226" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m28s556ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522262812226" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m28s556ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522264692801" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=31m20s575ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522264692801" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m20s575ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513120" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1040]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513171" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [1026]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513178" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [1027]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513192" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [1028]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513199" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1029]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513251" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1030]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513260" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [1031]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513275" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [1032]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513284" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [1033]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513300" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [1034]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513310" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [1035]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513321" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [1036]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513327" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [1037]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513336" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [1038]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513341" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1039]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513351" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1042]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513632" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1041]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513647" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267513650" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267518529" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267518668" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267523834" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1044]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554007" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554030" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554033" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1045]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554184" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1046]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554879" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1043]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554881" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1052]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554882" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1058]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554884" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1050]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554916" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1051]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554931" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1053]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554932" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1056]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267554994" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1049]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267555010" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1047]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267555021" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1057]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267555023" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1054]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267555024" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1048]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267555036" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1055]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522267560209" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1059]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522270408519" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STOPPED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522270410915" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STARTED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522271317548" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m38s3ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522271317548" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1m38s3ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522272931909" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STOPPED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522272933431" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STARTED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522272958723" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STOPPED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522272959768" level="INFO" thread="Thread-43">
+<log4j:message><![CDATA[STARTED com.liferay.apio.architect.application_1.0.0 [914]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273211826" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1045]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273211982" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1046]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212024" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1059]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212040" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [1055]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212050" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [1053]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212076" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1049]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212088" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [1047]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212097" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [1043]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212106" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212108" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212436" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [1044]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212442" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1048]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212448" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [1050]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212459" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [1051]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212466" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [1052]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212470" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [1054]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212477" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [1056]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212485" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [1057]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273212490" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1058]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273217547" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273217676" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273222864" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1061]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273252660" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273252686" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273252689" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1062]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254007" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1060]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254073" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1065]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254089" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1063]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254091" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1068]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254093" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1066]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254108" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1069]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254110" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1070]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254130" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1067]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254147" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1071]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254148" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1064]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254149" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1072]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273254160" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1073]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273257947" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1074]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273259415" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1076]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273259417" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1075]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273267968" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1062]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268116" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1074]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268139" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1076]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268149" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [1071]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268160" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [1069]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268203" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1065]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268212" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [1063]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268220" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [1060]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268227" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [1024]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273268228" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269472" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [1025]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269478" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [1061]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269484" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1064]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269491" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [1066]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269503" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [1067]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269508" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [1068]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269513" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [1070]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269518" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [1072]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269525" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [1073]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273269530" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1075]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273279846" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1080]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273279849" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1078]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273305105" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1082]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273308630" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273308651" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1077]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273308653" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1083]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273308735" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1084]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310817" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1079]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310830" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1081]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310845" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1091]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310846" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1090]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310906" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1085]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310908" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1088]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310909" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1094]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310919" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1093]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310921" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1086]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273310922" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1092]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273311190" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1089]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273311213" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1087]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273316400" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1095]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544184" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.api_1.0.0 [1083]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544374" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STOPPED com.liferay.portal.apio.impl_1.0.0 [1084]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544399" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.impl_1.0.0 [1095]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544406" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.impl_1.0.0 [1091]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544414" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.impl_1.0.0 [1089]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544450" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.impl_1.0.0 [1085]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544456" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.impl_1.0.0 [1081]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544463" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.impl_1.0.0 [1079]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544467" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.impl_1.0.0 [1077]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273544469" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STOPPED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547530" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.blog.apio.api_1.0.0 [1078]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547536" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.folder.apio.api_1.0.0 [1080]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547543" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.forms.apio.api_1.0.0 [1082]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547549" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.api_1.0.0 [1086]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547559" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.layout.apio.impl_1.0.0 [1087]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547564" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.media.object.apio.api_1.0.0 [1088]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547573" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.person.apio.api_1.0.0 [1090]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547581" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.api_1.0.0 [1092]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547591" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.site.apio.impl_1.0.0 [1093]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273547601" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STOPPED com.liferay.web.page.element.apio.api_1.0.0 [1094]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273557908" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.api_1.0.0 [1097]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273557910" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.api_1.0.0 [1099]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588556" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.impl_1.0.0 [1104]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588558" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.api_1.0.0 [1109]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588559" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.layout.apio.api_1.0.0 [1103]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588560" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.api_1.0.0 [1101]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588569" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.site.apio.impl_1.0.0 [1110]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588571" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.api_1.0.0 [1111]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588573" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.api_1.0.0 [1105]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273588576" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.api_1.0.0 [1107]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590135" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [1023]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590342" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [1096]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590358" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.blog.apio.impl_1.0.0 [1098]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590371" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.folder.apio.impl_1.0.0 [1100]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590441" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.forms.apio.impl_1.0.0 [1102]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590456" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.media.object.apio.impl_1.0.0 [1106]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590468" level="INFO" thread="Refresh Thread: Equinox Container: 805a6ef3-d931-0018-1f09-d59a2b9552e2">
+<log4j:message><![CDATA[STARTED com.liferay.person.apio.impl_1.0.0 [1108]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590470" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.api_1.0.0 [1112]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273590552" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/portal">
+<log4j:message><![CDATA[STARTED com.liferay.portal.apio.impl_1.0.0 [1113]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" timestamp="1522273593771" level="INFO" thread="fileinstall-/Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/modules">
+<log4j:message><![CDATA[STARTED com.liferay.web.page.element.apio.impl_1.0.0 [1114]]]></log4j:message>
+<log4j:locationInfo class="com.liferay.portal.equinox.log.bridge.internal.BundleStartStopLogger" method="bundleChanged" file="BundleStartStopLogger.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522275167929" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m31s380ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522275167940" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m31s377ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522279907575" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=1h18m59s646ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522279907583" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h18m59s643ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522281170693" level="WARN" thread="HikariPool-2 housekeeper">
+<log4j:message><![CDATA[HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=20m33s110ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+
+<log4j:event logger="com.zaxxer.hikari.pool.HikariPool" timestamp="1522281170702" level="WARN" thread="HikariPool-1 housekeeper">
+<log4j:message><![CDATA[HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m33s109ms).]]></log4j:message>
+<log4j:locationInfo class="com.zaxxer.hikari.pool.HikariPool$HouseKeeper" method="run" file="HikariPool.java" line="676"/>
+</log4j:event>
+

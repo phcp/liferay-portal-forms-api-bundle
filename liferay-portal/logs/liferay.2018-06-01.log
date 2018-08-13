@@ -1,0 +1,1041 @@
+2018-06-01 10:42:43.409 INFO  [main][HikariDataSource:95] HikariPool-1 - Starting...
+2018-06-01 10:42:43.774 INFO  [main][HikariDataSource:107] HikariPool-1 - Start completed.
+2018-06-01 10:42:43.779 INFO  [main][DialectDetector:77] Determine dialect for MySQL 5.7
+2018-06-01 10:42:44.119 INFO  [main][DialectDetector:155] Found dialect org.hibernate.dialect.MySQLDialect
+2018-06-01 10:42:46.071 INFO  [main][HikariDataSource:95] HikariPool-2 - Starting...
+2018-06-01 10:42:46.084 INFO  [main][HikariDataSource:107] HikariPool-2 - Start completed.
+2018-06-01 10:42:46.590 INFO  [main][BundleStartStopLogger:35] STARTED org.eclipse.osgi_3.10.200.v20150831-0856 [0]
+2018-06-01 10:42:46.794 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.osgi.felix.file.install.configuration.cleaner_2.0.0 [1]
+2018-06-01 10:42:46.800 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.osgi.util_4.0.0 [2]
+2018-06-01 10:42:46.802 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.bundle.blacklist.api_1.0.0 [3]
+2018-06-01 10:42:46.803 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.bundle.blacklist.impl_1.0.0 [4]
+2018-06-01 10:42:46.821 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.classloader.tracker_2.0.0 [5]
+2018-06-01 10:42:46.825 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.component.blacklist.api_2.0.0 [6]
+2018-06-01 10:42:46.826 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.component.blacklist.impl_2.0.0 [7]
+2018-06-01 10:42:46.827 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype.api_1.0.0 [8]
+2018-06-01 10:42:46.828 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.persistence.api_1.0.0 [9]
+2018-06-01 10:42:46.931 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.persistence.impl_1.0.0 [10]
+2018-06-01 10:42:46.971 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.log4j.extender_3.0.0 [11]
+2018-06-01 10:42:46.974 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.lpkg.deployer.api_1.0.0 [12]
+2018-06-01 10:42:46.976 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.lpkg.deployer.impl_1.0.0 [13]
+2018-06-01 10:42:46.987 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.portlet.tracker_3.0.0 [14]
+2018-06-01 10:42:46.991 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.api_1.0.0 [15]
+2018-06-01 10:42:46.994 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.context.helper.api_1.0.0 [16]
+2018-06-01 10:42:46.996 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.context.helper.impl_1.0.0 [17]
+2018-06-01 10:42:47.005 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.jsp.compiler_3.0.0 [18]
+2018-06-01 10:42:47.015 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.extender_3.0.0 [19]
+2018-06-01 10:42:47.018 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.generator.api_1.0.0 [20]
+2018-06-01 10:42:47.023 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.generator.impl_1.0.0 [21]
+2018-06-01 10:42:47.034 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.reference.support_2.0.0 [22]
+2018-06-01 10:42:47.037 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.wab.spring.bridge.api_1.0.0 [23]
+2018-06-01 10:42:47.040 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.profile.api_2.0.0 [24]
+2018-06-01 10:42:47.043 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.profile.impl_2.0.0 [25]
+2018-06-01 10:42:47.055 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.social.activity.extender_1.0.0 [26]
+2018-06-01 10:42:47.058 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.target.platform.indexer.api_1.0.0 [27]
+2018-06-01 10:42:47.060 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.target.platform.indexer.impl_1.0.0 [28]
+2018-06-01 10:42:47.067 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.sun.el.javax.el_3.0.0 [29]
+2018-06-01 10:42:47.071 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED javax.servlet.jsp-api_2.3.2.b01 [30]
+2018-06-01 10:42:47.074 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED javax.servlet.jsp.jstl-api_1.2.1 [31]
+2018-06-01 10:42:47.078 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED javax.servlet.jsp.jstl_1.2.3.LIFERAY-PATCHED-2 [32]
+2018-06-01 10:42:47.083 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.commons.fileupload_1.3.2 [33]
+2018-06-01 10:42:47.086 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.commons.io_2.2.0 [34]
+2018-06-01 10:42:48.405 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.bundlerepository_2.0.2.LIFERAY-PATCHED-1 [35]
+2018-06-01 10:42:48.422 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.configadmin_1.8.8 [36]
+2018-06-01 10:42:48.424 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.dependencymanager_3.2.0 [37]
+2018-06-01 10:42:48.429 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.dependencymanager.shell_3.2.0 [38]
+2018-06-01 10:42:48.451 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.eventadmin_1.4.6 [39]
+2018-06-01 10:42:48.750 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.fileinstall_3.5.4.LIFERAY-PATCHED-2 [40]
+2018-06-01 10:42:48.765 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.command_0.12.0 [41]
+2018-06-01 10:42:48.782 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.runtime_0.10.0 [42]
+2018-06-01 10:42:48.799 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.gogo.shell_0.10.0 [43]
+2018-06-01 10:42:49.000 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][DefaultLPKGDeployer:303] Start refreshing uninstalled orphan bundles
+2018-06-01 10:42:49.003 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][DefaultLPKGDeployer:311] Finished refreshing uninstalled orphan bundles
+2018-06-01 10:43:00.138 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][LPKGIndexValidator:153] Running validation because of mismatched checksum for liferay-target-platform
+2018-06-01 10:43:00.842 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][LPKGIndexValidator:276] LPKG validation time 00:11s
+2018-06-01 10:43:11.424 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][LPKGIndexValidator:215] Updated /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/osgi/target-platform/integrity.properties
+2018-06-01 10:43:11.447 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.apache.felix.scr_2.0.6 [44]
+2018-06-01 10:43:11.468 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.eclipse.equinox.console_1.1.100.v20141023-1406 [45]
+2018-06-01 10:43:11.471 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.eclipse.equinox.http.servlet_1.2.2.v20180212-2026 [46]
+2018-06-01 10:43:11.478 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.eclipse.equinox.metatype_1.4.200.v20150715-1528 [47]
+2018-06-01 10:43:11.479 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.osgi.service.http_3.5.0.LIFERAY-PATCHED-2 [48]
+2018-06-01 10:43:11.480 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.osgi.service.metatype_1.3.0.201505202024 [49]
+2018-06-01 10:43:11.482 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.util.taglib_3.0.0 [51]
+2018-06-01 10:43:11.499 INFO  [Refresh Thread: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:38] STOPPED com.liferay.portal.osgi.web.servlet.jsp.compiler_3.0.0 [18]
+2018-06-01 10:43:17.378 INFO  [Refresh Thread: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.web.servlet.jsp.compiler_3.0.0 [18]
+2018-06-01 10:43:17.384 INFO  [main][BundleStartStopLogger:38] STOPPED org.apache.felix.fileinstall_3.5.4.LIFERAY-PATCHED-2 [40]
+2018-06-01 10:43:17.402 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED woodstox-core-asl_4.4.1 [52]
+2018-06-01 10:43:17.403 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.apio.api_1.0.0 [53]
+2018-06-01 10:43:17.438 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.apio.impl_1.0.0 [54]
+2018-06-01 10:43:17.439 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.api_3.0.0 [55]
+2018-06-01 10:43:17.456 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.service_4.0.0 [56]
+2018-06-01 10:43:17.460 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.background.task.web_3.0.0 [57]
+2018-06-01 10:43:17.465 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.api_1.0.0 [58]
+2018-06-01 10:43:17.506 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.ehcache.impl_1.0.0 [59]
+2018-06-01 10:43:17.507 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.ehcache.provider_3.0.0 [60]
+2018-06-01 10:43:17.510 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.ehcache.spi_1.0.0 [61]
+2018-06-01 10:43:17.516 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.impl_1.0.0 [62]
+2018-06-01 10:43:17.521 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cache.single_3.0.0 [63]
+2018-06-01 10:43:17.534 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.cluster.single_3.0.0 [64]
+2018-06-01 10:43:17.544 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.compound.session.id_3.0.0 [65]
+2018-06-01 10:43:17.550 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.cluster_4.0.0 [66]
+2018-06-01 10:43:17.564 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.extender_4.0.0 [67]
+2018-06-01 10:43:17.566 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype.definitions.annotations_3.0.0 [68]
+2018-06-01 10:43:17.567 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.metatype.definitions.equinox_3.0.0 [69]
+2018-06-01 10:43:17.568 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.module.configuration_3.0.0 [70]
+2018-06-01 10:43:17.575 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.settings_3.0.0 [71]
+2018-06-01 10:43:17.575 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.upgrade.api_1.0.0 [72]
+2018-06-01 10:43:17.581 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.configuration.upgrade.impl_1.0.0 [73]
+2018-06-01 10:43:17.581 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.custom.jsp.bag.api_2.0.0 [74]
+2018-06-01 10:43:17.582 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.dao.orm.custom.sql.api_1.0.0 [75]
+2018-06-01 10:43:17.583 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.dao.orm.custom.sql.impl_1.0.0 [76]
+2018-06-01 10:43:17.611 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.executor_3.0.0 [77]
+2018-06-01 10:43:17.621 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.inactive.request.handler_1.0.0 [78]
+2018-06-01 10:43:17.626 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.init.servlet.filter_3.0.0 [79]
+2018-06-01 10:43:17.626 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.instance.lifecycle.api_1.0.0 [80]
+2018-06-01 10:43:17.635 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.instance.lifecycle.impl_1.0.0 [81]
+2018-06-01 10:43:17.635 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.api_2.0.0 [82]
+2018-06-01 10:43:17.636 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.service_2.0.0 [83]
+2018-06-01 10:43:17.662 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.instances.web_2.0.0 [84]
+2018-06-01 10:43:17.663 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.jmx.api_2.0.0 [85]
+2018-06-01 10:43:18.453 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.jmx_5.0.0 [86]
+2018-06-01 10:43:18.455 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.language.extender_3.0.0 [87]
+2018-06-01 10:43:18.458 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.language.servlet.filter_3.0.0 [88]
+2018-06-01 10:43:18.459 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.license.deployer_2.0.0 [89]
+2018-06-01 10:43:18.460 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.lock.api_3.0.0 [90]
+2018-06-01 10:43:18.473 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.lock.service_3.0.0 [91]
+2018-06-01 10:43:18.548 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.messaging_5.0.0 [92]
+2018-06-01 10:43:18.549 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.detection.fiftyonedegrees.api_2.0.0 [93]
+2018-06-01 10:43:18.559 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.detection.fiftyonedegrees_3.0.0 [94]
+2018-06-01 10:43:18.571 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.mobile.device.recognition.impl_1.0.0 [95]
+2018-06-01 10:43:18.575 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.model.relationship.document.library.impl_1.0.0 [96]
+2018-06-01 10:43:18.578 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.model.relationship.dynamic.data.mapping.impl_1.0.0 [97]
+2018-06-01 10:43:18.609 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.monitoring_6.0.0 [98]
+2018-06-01 10:43:18.610 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.api_1.0.0 [99]
+2018-06-01 10:43:18.625 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.declarative.service_2.0.0 [100]
+2018-06-01 10:43:18.634 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.impl_1.0.0 [101]
+2018-06-01 10:43:18.645 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.osgi.debug.spring.extender_2.0.0 [102]
+2018-06-01 10:43:18.646 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.output.stream.container.api_2.0.0 [103]
+2018-06-01 10:43:18.653 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.output.stream.container_4.0.0 [104]
+2018-06-01 10:43:18.657 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.pop.notifications_3.0.0 [105]
+2018-06-01 10:43:18.658 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.portlet.bridge.soy.api_1.0.0 [106]
+2018-06-01 10:43:18.664 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.portlet.bridge.soy.impl_1.0.0 [107]
+2018-06-01 10:43:18.665 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.relationship.api_1.0.0 [108]
+2018-06-01 10:43:18.671 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.relationship.impl_1.0.0 [109]
+2018-06-01 10:43:18.755 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.axis.extender_2.0.0 [110]
+2018-06-01 10:43:18.913 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.cxf.common_4.0.0 [111]
+2018-06-01 10:43:18.915 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.http.tunnel.extender_3.0.0 [113]
+2018-06-01 10:43:18.918 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.json.web.service.extender_3.0.0 [114]
+2018-06-01 10:43:18.964 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.rest.extender_3.0.0 [115]
+2018-06-01 10:43:18.965 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.soap.extender.api_2.0.0 [116]
+2018-06-01 10:43:18.974 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.remote.soap.extender.impl_2.0.0 [117]
+2018-06-01 10:43:18.975 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.reports.engine.api_4.0.0 [118]
+2018-06-01 10:43:18.976 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.rules.engine.api_3.0.0 [119]
+2018-06-01 10:43:18.982 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.rules.engine.wiring_3.0.0 [120]
+2018-06-01 10:43:19.036 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler_5.0.0 [121]
+2018-06-01 10:43:19.053 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler.quartz_4.0.0 [122]
+2018-06-01 10:43:19.058 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scheduler.single_3.0.0 [123]
+2018-06-01 10:43:19.059 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.api_2.0.0 [124]
+2018-06-01 10:43:19.070 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.beanshell_3.0.0 [125]
+2018-06-01 10:43:19.074 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.executor_4.0.0 [126]
+2018-06-01 10:43:19.075 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.groovy.context.api_1.0.0 [127]
+2018-06-01 10:43:19.082 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.groovy_3.0.0 [128]
+2018-06-01 10:43:19.103 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.impl_1.0.0 [129]
+2018-06-01 10:43:19.112 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.javascript_3.0.0 [130]
+2018-06-01 10:43:19.124 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.python_3.0.0 [131]
+2018-06-01 10:43:19.274 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.scripting.ruby_3.0.0 [132]
+2018-06-01 10:43:19.292 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.admin.web_1.0.0 [133]
+2018-06-01 10:43:19.296 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.api_2.0.0 [134]
+2018-06-01 10:43:19.297 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.elasticsearch6.api_2.0.0 [135]
+2018-06-01 10:43:19.570 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.elasticsearch6.impl_2.0.0 [136]
+2018-06-01 10:43:19.806 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search_5.0.0 [137]
+2018-06-01 10:43:19.806 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.spi_1.0.0 [138]
+2018-06-01 10:43:19.810 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.web.api_2.0.0 [139]
+2018-06-01 10:43:19.902 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.search.web_3.0.0 [140]
+2018-06-01 10:43:19.946 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.antisamy_3.0.0 [141]
+2018-06-01 10:43:19.947 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.api_3.0.0 [142]
+2018-06-01 10:43:19.951 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.impl_1.0.0 [143]
+2018-06-01 10:43:19.959 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.audit.wiring_3.0.0 [144]
+2018-06-01 10:43:19.981 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.auth.verifier_3.0.0 [145]
+2018-06-01 10:43:20.003 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.auto.login_3.0.0 [146]
+2018-06-01 10:43:20.004 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.exportimport.api_3.0.0 [147]
+2018-06-01 10:43:20.005 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.ldap.api_1.0.0 [148]
+2018-06-01 10:43:20.064 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.ldap.impl_1.0.0 [149]
+2018-06-01 10:43:20.065 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.api_3.0.0 [150]
+2018-06-01 10:43:20.085 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.service_3.0.0 [151]
+2018-06-01 10:43:20.091 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.policy.web_2.0.0 [152]
+2018-06-01 10:43:20.092 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.service.access.quota.api_1.0.0 [153]
+2018-06-01 10:43:20.092 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.cas.api_2.0.0 [154]
+2018-06-01 10:43:20.101 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.cas.impl_1.0.0 [155]
+2018-06-01 10:43:20.101 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.facebook.connect.api_2.0.0 [156]
+2018-06-01 10:43:20.109 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.facebook.connect.impl_1.0.0 [157]
+2018-06-01 10:43:20.109 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.google.api_2.0.0 [158]
+2018-06-01 10:43:20.120 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.google.impl_1.0.0 [159]
+2018-06-01 10:43:20.120 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.ntlm.api_2.0.0 [160]
+2018-06-01 10:43:20.128 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.ntlm.impl_1.0.0 [161]
+2018-06-01 10:43:20.129 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.api_2.0.0 [162]
+2018-06-01 10:43:20.132 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.connect.api_1.0.0 [163]
+2018-06-01 10:43:20.151 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.connect.impl_1.0.0 [164]
+2018-06-01 10:43:20.164 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.openid.impl_1.0.0 [165]
+2018-06-01 10:43:20.164 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.opensso.api_2.0.0 [166]
+2018-06-01 10:43:20.178 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.opensso.impl_1.0.0 [167]
+2018-06-01 10:43:20.179 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.token.api_2.0.0 [168]
+2018-06-01 10:43:20.193 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.sso.token.impl_2.0.0 [169]
+2018-06-01 10:43:20.193 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.api_2.0.0 [170]
+2018-06-01 10:43:20.209 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.service_2.0.0 [171]
+2018-06-01 10:43:20.234 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.security.wedeploy.auth.web_2.0.0 [172]
+2018-06-01 10:43:20.235 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.api_3.0.0 [173]
+2018-06-01 10:43:20.240 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.cas.web_2.0.0 [174]
+2018-06-01 10:43:20.245 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.facebook.connect.web_2.0.0 [175]
+2018-06-01 10:43:20.250 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.google.web_2.0.0 [176]
+2018-06-01 10:43:20.265 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.ldap.web_2.0.0 [177]
+2018-06-01 10:43:20.269 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.ntlm.web_2.0.0 [178]
+2018-06-01 10:43:20.273 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.openid.connect.web_1.0.0 [179]
+2018-06-01 10:43:20.278 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.openid.web_2.0.0 [180]
+2018-06-01 10:43:20.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.authentication.opensso.web_2.0.0 [181]
+2018-06-01 10:43:20.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.lang_2.0.0 [182]
+2018-06-01 10:43:20.305 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.settings.web_2.0.0 [183]
+2018-06-01 10:43:20.306 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.spring.extender.api_3.0.0 [184]
+2018-06-01 10:43:20.309 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.spring.extender.impl_1.0.0 [185]
+2018-06-01 10:43:20.314 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.cmis_3.0.0 [186]
+2018-06-01 10:43:20.315 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.db_3.0.0 [187]
+2018-06-01 10:43:20.332 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.file.system_3.0.0 [188]
+2018-06-01 10:43:20.339 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.ignore.duplicates.wrapper_2.0.0 [189]
+2018-06-01 10:43:20.345 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.jcr_3.0.0 [190]
+2018-06-01 10:43:20.354 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.s3_3.0.0 [191]
+2018-06-01 10:43:20.358 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.store.safe.file.name.wrapper_2.0.0 [192]
+2018-06-01 10:43:20.679 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.freemarker_4.0.0 [193]
+2018-06-01 10:43:20.680 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.api_1.0.0 [194]
+2018-06-01 10:43:20.683 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.context.contributor_2.0.0 [195]
+2018-06-01 10:43:20.809 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.soy.impl_1.0.0 [196]
+2018-06-01 10:43:20.850 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.velocity_3.0.0 [197]
+2018-06-01 10:43:20.854 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.template.xsl_3.0.0 [198]
+2018-06-01 10:43:20.855 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.upgrade.api_2.0.0 [199]
+2018-06-01 10:43:20.858 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.upgrade.impl_2.0.0 [200]
+2018-06-01 10:43:20.867 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.upload_1.0.0 [201]
+2018-06-01 10:43:20.868 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.url.builder.api_1.0.0 [202]
+2018-06-01 10:43:20.870 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.url.builder.impl_1.0.0 [203]
+2018-06-01 10:43:20.870 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.validation.api_1.0.0 [204]
+2018-06-01 10:43:20.873 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.verify.extender_4.0.0 [205]
+2018-06-01 10:43:20.875 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.weblogic.support_3.0.0 [206]
+2018-06-01 10:43:20.876 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.api_1.0.0 [207]
+2018-06-01 10:43:20.877 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.api_3.0.0 [208]
+2018-06-01 10:43:20.878 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.definition.api_3.0.0 [209]
+2018-06-01 10:43:20.922 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.definition.impl_3.0.0 [210]
+2018-06-01 10:43:20.922 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.api_3.0.0 [211]
+2018-06-01 10:43:20.924 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.form.impl_1.0.0 [212]
+2018-06-01 10:43:20.984 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.impl_3.0.0 [213]
+2018-06-01 10:43:21.008 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.integration.impl_2.0.0 [214]
+2018-06-01 10:43:21.016 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.runtime.scripting.impl_2.0.0 [215]
+2018-06-01 10:43:21.029 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.kaleo.service_3.0.0 [216]
+2018-06-01 10:43:21.030 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.lang_3.0.0 [217]
+2018-06-01 10:43:21.050 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.task.web_2.0.0 [218]
+2018-06-01 10:43:21.052 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.uad_1.0.0 [219]
+2018-06-01 10:43:21.084 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portal.workflow.web_1.0.0 [220]
+2018-06-01 10:43:21.084 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED javax.validation.api_1.1.0.Final [221]
+2018-06-01 10:43:21.085 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED stax2-api_3.1.4 [222]
+2018-06-01 10:43:21.086 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.api_3.0.0 [223]
+2018-06-01 10:43:21.087 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.editor.configuration_2.0.0 [224]
+2018-06-01 10:43:21.089 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.item.selector.web_2.0.0 [225]
+2018-06-01 10:43:21.092 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.blogs.web_2.0.0 [227]
+2018-06-01 10:43:21.093 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.content.transformer.api_2.0.0 [228]
+2018-06-01 10:43:21.096 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.content.transformer.impl_1.0.0 [229]
+2018-06-01 10:43:21.097 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.demo.data.creator.api_2.0.0 [230]
+2018-06-01 10:43:21.098 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.demo.data.creator.impl_2.0.0 [231]
+2018-06-01 10:43:21.100 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.item.selector.web_2.0.0 [232]
+2018-06-01 10:43:21.102 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library_2.0.0 [233]
+2018-06-01 10:43:21.105 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.thumbnails_2.0.0 [234]
+2018-06-01 10:43:21.108 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.document.library.web_2.0.0 [235]
+2018-06-01 10:43:21.110 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.api_2.0.0 [236]
+2018-06-01 10:43:21.111 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.content.transformer.backwards.compatibility_2.0.0 [237]
+2018-06-01 10:43:21.113 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.content.transformer_2.0.0 [238]
+2018-06-01 10:43:21.144 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.impl_2.0.0 [239]
+2018-06-01 10:43:21.144 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.item.selector.api_2.0.0 [240]
+2018-06-01 10:43:21.150 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.item.selector.impl_2.0.0 [241]
+2018-06-01 10:43:21.159 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.service_2.0.0 [243]
+2018-06-01 10:43:21.160 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.taglib_2.0.0 [244]
+2018-06-01 10:43:21.162 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.image.web_2.0.0 [245]
+2018-06-01 10:43:21.164 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.item.selector.upload.web_2.0.0 [246]
+2018-06-01 10:43:21.165 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.journal.editor.configuration_2.0.0 [247]
+2018-06-01 10:43:21.171 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.journal.web_2.0.0 [248]
+2018-06-01 10:43:21.172 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.upload_1.0.0 [249]
+2018-06-01 10:43:21.217 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.adaptive.media.web_2.0.0 [250]
+2018-06-01 10:43:21.218 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.aggregate.rating.apio.api_1.0.0 [251]
+2018-06-01 10:43:21.219 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.aggregate.rating.apio.impl_1.0.0 [252]
+2018-06-01 10:43:21.220 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.alloy.mvc_3.0.0 [253]
+2018-06-01 10:43:21.228 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.amazon.rankings.web_2.0.0 [254]
+2018-06-01 10:43:21.229 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.analytics.api_1.0.0 [255]
+2018-06-01 10:43:21.231 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.analytics.client.osgi_1.0.0 [256]
+2018-06-01 10:43:21.383 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.analytics.data.binding.impl_1.0.0 [257]
+2018-06-01 10:43:21.384 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.announcements.api_2.0.0 [258]
+2018-06-01 10:43:21.386 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.announcements.editor.configuration_1.0.0 [259]
+2018-06-01 10:43:21.389 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.announcements.uad_1.0.0 [260]
+2018-06-01 10:43:21.415 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.announcements.web_3.0.0 [261]
+2018-06-01 10:43:21.425 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.application.list.api_3.0.0 [274]
+2018-06-01 10:43:21.428 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.application.list.my.account.permissions_2.0.0 [275]
+2018-06-01 10:43:21.430 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.application.list.taglib_3.0.0 [276]
+2018-06-01 10:43:21.432 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.application.list.user.personal.site.permissions_3.0.0 [277]
+2018-06-01 10:43:21.432 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.api_1.0.0 [278]
+2018-06-01 10:43:21.438 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.browser.web_2.0.0 [279]
+2018-06-01 10:43:21.453 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.admin.web_2.0.0 [280]
+2018-06-01 10:43:21.453 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.navigation.api_2.0.0 [281]
+2018-06-01 10:43:21.465 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.navigation.web_3.0.0 [282]
+2018-06-01 10:43:21.471 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.selector.web_1.0.0 [283]
+2018-06-01 10:43:21.488 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.categories.service_2.0.0 [284]
+2018-06-01 10:43:21.488 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.category.property.api_1.0.0 [285]
+2018-06-01 10:43:21.491 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.category.property.service_1.0.0 [286]
+2018-06-01 10:43:21.492 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.api_1.0.0 [287]
+2018-06-01 10:43:21.494 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.impl_1.0.0 [288]
+2018-06-01 10:43:21.494 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.page.api_1.0.0 [289]
+2018-06-01 10:43:21.495 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.page.item.selector.api_1.0.0 [290]
+2018-06-01 10:43:21.497 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.page.item.selector.web_1.0.0 [291]
+2018-06-01 10:43:21.498 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.page.service_1.0.0 [292]
+2018-06-01 10:43:21.504 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.display.web_2.0.0 [293]
+2018-06-01 10:43:21.506 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.query.processor.custom.user.attributes_3.0.0 [294]
+2018-06-01 10:43:21.506 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.rel.api_1.0.0 [295]
+2018-06-01 10:43:21.507 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.entry.rel.service_1.0.0 [296]
+2018-06-01 10:43:21.509 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.link.service_1.0.0 [297]
+2018-06-01 10:43:21.510 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.api_1.0.0 [298]
+2018-06-01 10:43:21.511 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.layout.prototype_2.0.0 [299]
+2018-06-01 10:43:21.914 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.publisher.web_2.0.0 [300]
+2018-06-01 10:43:21.934 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.service_2.0.0 [301]
+2018-06-01 10:43:21.934 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tag.stats.api_1.0.0 [302]
+2018-06-01 10:43:21.937 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tag.stats.service_1.0.0 [303]
+2018-06-01 10:43:21.939 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.taglib_3.0.0 [304]
+2018-06-01 10:43:21.941 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.admin.web_2.0.0 [305]
+2018-06-01 10:43:21.942 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.api_2.0.0 [306]
+2018-06-01 10:43:21.946 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.compiler.web_3.0.0 [307]
+2018-06-01 10:43:21.946 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.navigation.api_2.0.0 [308]
+2018-06-01 10:43:21.961 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.navigation.web_4.0.0 [309]
+2018-06-01 10:43:21.969 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.selector.web_1.0.0 [310]
+2018-06-01 10:43:21.974 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.tags.service_3.0.0 [311]
+2018-06-01 10:43:21.977 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.asset.web_3.0.0 [312]
+2018-06-01 10:43:21.977 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blog.apio.api_1.0.0 [313]
+2018-06-01 10:43:21.979 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blog.apio.impl_1.0.0 [314]
+2018-06-01 10:43:21.980 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.api_4.0.0 [315]
+2018-06-01 10:43:21.985 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.editor.configuration_2.0.0 [316]
+2018-06-01 10:43:21.985 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.item.selector.api_2.0.0 [317]
+2018-06-01 10:43:21.988 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.item.selector.web_3.0.0 [318]
+2018-06-01 10:43:21.992 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.layout.prototype_3.0.0 [319]
+2018-06-01 10:43:21.998 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.reading.time_1.0.0 [320]
+2018-06-01 10:43:21.999 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.recent.bloggers.api_2.0.0 [321]
+2018-06-01 10:43:22.006 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.recent.bloggers.web_3.0.0 [322]
+2018-06-01 10:43:22.026 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.service_2.0.0 [323]
+2018-06-01 10:43:22.028 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.uad_1.0.0 [324]
+2018-06-01 10:43:22.122 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.blogs.web_3.0.0 [325]
+2018-06-01 10:43:22.123 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.api_3.0.0 [326]
+2018-06-01 10:43:22.154 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.service_2.0.0 [327]
+2018-06-01 10:43:22.156 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.uad_1.0.0 [328]
+2018-06-01 10:43:22.201 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.bookmarks.web_2.0.0 [329]
+2018-06-01 10:43:22.202 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.calendar.api_3.0.0 [330]
+2018-06-01 10:43:22.264 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.calendar.service_3.0.0 [331]
+2018-06-01 10:43:22.278 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.calendar.web_2.0.0 [332]
+2018-06-01 10:43:22.345 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.captcha.api_2.0.0 [333]
+2018-06-01 10:43:22.354 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.captcha.impl_1.0.0 [334]
+2018-06-01 10:43:22.356 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.captcha.taglib_2.0.0 [335]
+2018-06-01 10:43:22.356 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.changeset.api_1.0.0 [336]
+2018-06-01 10:43:22.357 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.changeset.service_1.0.0 [337]
+2018-06-01 10:43:22.357 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.chat.api_2.0.0 [338]
+2018-06-01 10:43:22.373 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.chat.service_3.0.0 [339]
+2018-06-01 10:43:22.379 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.chat.web_2.0.0 [340]
+2018-06-01 10:43:22.380 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.analytics_1.0.0 [341]
+2018-06-01 10:43:22.381 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.api_3.0.0 [342]
+2018-06-01 10:43:22.384 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.editor.configuration_2.0.0 [343]
+2018-06-01 10:43:22.389 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.page.comments.web_2.0.0 [344]
+2018-06-01 10:43:22.390 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.ratings.definition_3.0.0 [345]
+2018-06-01 10:43:22.394 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.sanitizer_3.0.0 [346]
+2018-06-01 10:43:22.398 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.taglib_1.0.0 [347]
+2018-06-01 10:43:22.409 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.comment.web_3.0.0 [348]
+2018-06-01 10:43:22.409 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.configuration.admin.api_1.0.0 [349]
+2018-06-01 10:43:22.518 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.configuration.admin.web_2.0.0 [350]
+2018-06-01 10:43:22.519 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.contacts.api_3.0.0 [351]
+2018-06-01 10:43:22.521 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.contacts.service_3.0.0 [352]
+2018-06-01 10:43:22.523 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.contacts.uad_1.0.0 [353]
+2018-06-01 10:43:22.540 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.contacts.web_2.0.0 [354]
+2018-06-01 10:43:22.546 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.currency.converter.web_2.0.0 [355]
+2018-06-01 10:43:22.548 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dictionary.web_2.0.0 [356]
+2018-06-01 10:43:22.564 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.directory.web_2.0.0 [357]
+2018-06-01 10:43:22.566 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.analytics_1.0.0 [358]
+2018-06-01 10:43:22.566 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.api_4.0.0 [359]
+2018-06-01 10:43:22.567 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.content.api_1.0.0 [360]
+2018-06-01 10:43:22.569 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.content.service_1.0.0 [361]
+2018-06-01 10:43:22.594 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.document.conversion_1.0.0 [362]
+2018-06-01 10:43:22.595 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.file.rank.api_1.0.0 [363]
+2018-06-01 10:43:22.601 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.file.rank.service_1.0.0 [364]
+2018-06-01 10:43:22.607 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.google.docs_3.0.0 [365]
+2018-06-01 10:43:22.617 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.item.selector.web_2.0.0 [366]
+2018-06-01 10:43:22.621 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.layout.set.prototype_3.0.0 [367]
+2018-06-01 10:43:22.622 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.authorization.api_2.0.0 [368]
+2018-06-01 10:43:22.622 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.cmis.api_2.0.0 [369]
+2018-06-01 10:43:22.641 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.cmis.impl_3.0.0 [370]
+2018-06-01 10:43:22.641 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.external.api_2.0.0 [371]
+2018-06-01 10:43:22.656 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.repository.search_4.0.0 [372]
+2018-06-01 10:43:22.794 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.service_3.0.0 [373]
+2018-06-01 10:43:22.795 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.sync.api_1.0.0 [374]
+2018-06-01 10:43:22.798 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.sync.service_1.0.0 [375]
+2018-06-01 10:43:22.805 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.uad_1.0.0 [376]
+2018-06-01 10:43:22.918 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.document.library.web_3.0.0 [377]
+2018-06-01 10:43:22.919 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.api_3.0.0 [378]
+2018-06-01 10:43:22.959 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.service_2.0.0 [379]
+2018-06-01 10:43:22.987 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.lists.web_3.0.0 [380]
+2018-06-01 10:43:22.995 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.api_4.0.1 [381]
+2018-06-01 10:43:23.018 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.impl_2.0.0 [382]
+2018-06-01 10:43:23.023 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.instance_1.0.0 [383]
+2018-06-01 10:43:23.041 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.data.provider.web_2.0.0 [384]
+2018-06-01 10:43:23.045 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.expression_3.0.0 [385]
+2018-06-01 10:43:23.048 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.analytics_1.0.0 [386]
+2018-06-01 10:43:23.078 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.builder_1.0.0 [387]
+2018-06-01 10:43:23.101 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.evaluator.impl_1.0.0 [388]
+2018-06-01 10:43:23.109 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.field.type_3.0.0 [389]
+2018-06-01 10:43:23.116 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.renderer_3.0.0 [390]
+2018-06-01 10:43:23.119 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.taglib_1.0.0 [391]
+2018-06-01 10:43:23.120 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.values.factory_3.0.0 [392]
+2018-06-01 10:43:23.127 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.values.query_3.0.0 [393]
+2018-06-01 10:43:23.175 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.form.web_1.0.0 [394]
+2018-06-01 10:43:23.185 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.io_3.0.0 [395]
+2018-06-01 10:43:23.186 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.lang_3.0.0 [396]
+2018-06-01 10:43:23.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.service_3.0.0 [397]
+2018-06-01 10:43:23.286 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.taglib_3.0.0 [398]
+2018-06-01 10:43:23.297 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.captcha_3.0.0 [399]
+2018-06-01 10:43:23.311 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.checkbox_3.0.0 [400]
+2018-06-01 10:43:23.318 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.checkbox.multiple_2.0.0 [401]
+2018-06-01 10:43:23.328 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.date_3.0.0 [402]
+2018-06-01 10:43:23.337 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.document.library_1.0.0 [403]
+2018-06-01 10:43:23.342 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.editor_3.0.0 [404]
+2018-06-01 10:43:23.348 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.fieldset_1.0.0 [405]
+2018-06-01 10:43:23.354 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.grid_1.0.0 [406]
+2018-06-01 10:43:23.360 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.key.value_3.0.0 [407]
+2018-06-01 10:43:23.369 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.numeric_1.0.0 [408]
+2018-06-01 10:43:23.373 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.options_3.0.0 [409]
+2018-06-01 10:43:23.381 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.paragraph_3.0.0 [410]
+2018-06-01 10:43:23.386 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.password_2.0.0 [411]
+2018-06-01 10:43:23.396 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.radio_3.0.0 [412]
+2018-06-01 10:43:23.402 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.select_3.0.0 [413]
+2018-06-01 10:43:23.406 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.text_3.0.0 [414]
+2018-06-01 10:43:23.411 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.type.validation_3.0.0 [415]
+2018-06-01 10:43:23.421 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.validator_3.0.0 [416]
+2018-06-01 10:43:23.445 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.dynamic.data.mapping.web_2.0.0 [417]
+2018-06-01 10:43:23.447 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.expando.taglib_2.0.0 [418]
+2018-06-01 10:43:23.450 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.expando.web_2.0.0 [419]
+2018-06-01 10:43:23.450 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.api_3.0.0 [420]
+2018-06-01 10:43:23.450 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.api_1.0.0 [421]
+2018-06-01 10:43:23.453 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.service_1.0.0 [422]
+2018-06-01 10:43:23.454 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.taglib_1.0.0 [423]
+2018-06-01 10:43:23.463 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.changeset.web_1.0.0 [424]
+2018-06-01 10:43:23.485 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.resources.importer_3.0.0 [425]
+2018-06-01 10:43:23.617 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.service_5.0.0 [426]
+2018-06-01 10:43:23.694 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.exportimport.web_2.0.0 [427]
+2018-06-01 10:43:23.695 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.flags.api_3.0.0 [428]
+2018-06-01 10:43:23.701 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.flags.service_3.0.0 [429]
+2018-06-01 10:43:23.702 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.flags.taglib_3.0.0 [430]
+2018-06-01 10:43:23.706 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.flags.web_3.0.0 [431]
+2018-06-01 10:43:23.711 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.flash.web_2.0.0 [432]
+2018-06-01 10:43:23.712 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.folder.apio.api_1.0.0 [433]
+2018-06-01 10:43:23.716 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.folder.apio.impl_1.0.0 [434]
+2018-06-01 10:43:23.717 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.api_1.0.0 [437]
+2018-06-01 10:43:23.721 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.display.web_1.0.0 [438]
+2018-06-01 10:43:23.735 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.editable_1.0.0 [439]
+2018-06-01 10:43:23.737 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.nullable_1.0.0 [440]
+2018-06-01 10:43:23.739 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.entry.processor.portlet_1.0.0 [441]
+2018-06-01 10:43:23.742 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.impl_1.0.0 [442]
+2018-06-01 10:43:23.742 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.item.selector.api_1.0.0 [443]
+2018-06-01 10:43:23.745 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.item.selector.web_1.0.0 [444]
+2018-06-01 10:43:23.753 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.service_1.0.0 [445]
+2018-06-01 10:43:23.755 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.taglib_1.0.0 [446]
+2018-06-01 10:43:23.790 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.fragment.web_1.0.0 [447]
+2018-06-01 10:43:23.792 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.friendly.url.api_1.0.0 [448]
+2018-06-01 10:43:23.807 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.friendly.url.service_1.0.0 [449]
+2018-06-01 10:43:23.809 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.compatibility.ie_2.0.0 [450]
+2018-06-01 10:43:23.810 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.common_3.0.0 [451]
+2018-06-01 10:43:23.814 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.rtl.servlet_2.0.0 [452]
+2018-06-01 10:43:23.815 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.css.web_2.0.0 [453]
+2018-06-01 10:43:23.836 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.alloyeditor.web_2.0.0 [454]
+2018-06-01 10:43:23.837 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.api_1.0.0 [455]
+2018-06-01 10:43:23.859 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.ckeditor.web_2.0.0 [456]
+2018-06-01 10:43:23.860 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.lang_3.0.0 [457]
+2018-06-01 10:43:23.864 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.simple.web_2.0.0 [458]
+2018-06-01 10:43:23.867 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.taglib_1.0.0 [459]
+2018-06-01 10:43:23.874 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.editor.tinymce.web_2.0.0 [460]
+2018-06-01 10:43:23.875 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.api_2.0.0 [461]
+2018-06-01 10:43:23.876 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.brightness_2.0.0 [462]
+2018-06-01 10:43:23.881 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.contrast_2.0.0 [463]
+2018-06-01 10:43:23.884 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.crop_2.0.0 [464]
+2018-06-01 10:43:23.888 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.effects_2.0.0 [465]
+2018-06-01 10:43:23.892 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.resize_2.0.0 [466]
+2018-06-01 10:43:23.896 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.rotate_2.0.0 [467]
+2018-06-01 10:43:23.900 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.capability.saturation_2.0.0 [468]
+2018-06-01 10:43:23.906 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.integration.document.library_2.0.0 [469]
+2018-06-01 10:43:23.930 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.image.editor.web_2.0.0 [470]
+2018-06-01 10:43:23.960 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.bundle.config.extender_2.0.0 [472]
+2018-06-01 10:43:23.960 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.loader.modules.extender.api_2.0.0 [473]
+2018-06-01 10:43:23.985 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.loader.modules.extender_3.0.0 [474]
+2018-06-01 10:43:23.986 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.metal.web_2.0.0 [475]
+2018-06-01 10:43:23.996 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.minifier_1.0.0 [476]
+2018-06-01 10:43:23.997 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.node.shims_2.0.0 [477]
+2018-06-01 10:43:23.997 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.polyfill.babel.web_2.0.0 [478]
+2018-06-01 10:43:24.000 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.spa.web_2.0.0 [479]
+2018-06-01 10:43:24.005 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.top.head.extender_1.0.0 [480]
+2018-06-01 10:43:24.021 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.js.web_2.0.0 [481]
+2018-06-01 10:43:24.041 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.chart_1.0.0 [482]
+2018-06-01 10:43:24.053 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.chart.sample.web_1.0.0 [483]
+2018-06-01 10:43:24.056 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.clay_1.0.0 [484]
+2018-06-01 10:43:24.063 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.clay.sample.web_1.0.0 [485]
+2018-06-01 10:43:24.072 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.form.navigator_2.0.0 [486]
+2018-06-01 10:43:24.078 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib_3.0.0 [487]
+2018-06-01 10:43:24.081 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.soy_2.0.0 [488]
+2018-06-01 10:43:24.082 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.taglib.util.freemarker.contributor_2.0.0 [489]
+2018-06-01 10:43:24.135 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.contributor.extender_3.0.0 [490]
+2018-06-01 10:43:24.137 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.favicon.servlet_2.0.0 [491]
+2018-06-01 10:43:24.138 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.styled_3.0.0 [492]
+2018-06-01 10:43:24.142 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.frontend.theme.unstyled_3.0.0 [493]
+2018-06-01 10:43:24.144 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.gogo.shell.web_2.0.0 [494]
+2018-06-01 10:43:24.148 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.google.maps.web_2.0.0 [495]
+2018-06-01 10:43:24.152 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.hello.soy.navigation.web_2.0.0 [496]
+2018-06-01 10:43:24.159 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.hello.soy.web_2.0.0 [497]
+2018-06-01 10:43:24.164 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.hello.velocity.web_3.0.0 [498]
+2018-06-01 10:43:24.168 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.hello.world.web_3.0.0 [499]
+2018-06-01 10:43:24.168 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.html.preview.api_1.0.0 [500]
+2018-06-01 10:43:24.173 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.html.preview.processor.image_1.0.0 [501]
+2018-06-01 10:43:24.178 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.html.preview.service_1.0.0 [502]
+2018-06-01 10:43:24.188 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.iframe.web_2.0.0 [503]
+2018-06-01 10:43:24.199 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.image.uploader.web_2.0.0 [504]
+2018-06-01 10:43:24.265 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.imageio.plugins_2.0.0 [505]
+2018-06-01 10:43:24.266 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.api_3.0.0 [506]
+2018-06-01 10:43:24.270 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.service_4.0.0 [507]
+2018-06-01 10:43:24.279 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.invitation.invite.members.web_2.0.0 [508]
+2018-06-01 10:43:24.280 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder.api_2.0.0 [509]
+2018-06-01 10:43:24.281 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder_4.0.0 [510]
+2018-06-01 10:43:24.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ip.geocoder.sample.web_3.0.0 [511]
+2018-06-01 10:43:24.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.api_3.0.0 [512]
+2018-06-01 10:43:24.283 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.criteria.api_3.0.0 [513]
+2018-06-01 10:43:24.288 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.criteria.impl_1.0.0 [514]
+2018-06-01 10:43:24.290 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.editor.configuration_3.0.0 [515]
+2018-06-01 10:43:24.293 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.impl_1.0.0 [516]
+2018-06-01 10:43:24.295 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.taglib_2.0.0 [517]
+2018-06-01 10:43:24.297 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.upload.web_3.0.0 [518]
+2018-06-01 10:43:24.298 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.url.web_3.0.0 [519]
+2018-06-01 10:43:24.313 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.item.selector.web_4.0.0 [520]
+2018-06-01 10:43:24.314 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.analytics_1.0.0 [521]
+2018-06-01 10:43:24.317 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.api_3.0.0 [522]
+2018-06-01 10:43:24.318 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.api_1.0.0 [523]
+2018-06-01 10:43:24.323 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.comments_2.0.0 [524]
+2018-06-01 10:43:24.326 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.conversions_3.0.0 [525]
+2018-06-01 10:43:24.327 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.locales_2.0.0 [526]
+2018-06-01 10:43:24.328 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.print_3.0.0 [527]
+2018-06-01 10:43:24.330 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.ratings_3.0.0 [528]
+2018-06-01 10:43:24.331 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.asset.addon.entry.related.assets_3.0.0 [529]
+2018-06-01 10:43:24.338 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.search.web_2.0.0 [530]
+2018-06-01 10:43:24.361 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.content.web_3.0.0 [531]
+2018-06-01 10:43:24.362 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.editor.configuration_2.0.0 [532]
+2018-06-01 10:43:24.363 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.item.selector.api_2.0.0 [533]
+2018-06-01 10:43:24.366 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.item.selector.web_2.0.0 [534]
+2018-06-01 10:43:24.366 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.lang_3.0.0 [535]
+2018-06-01 10:43:24.367 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.ratings.definition_3.0.0 [536]
+2018-06-01 10:43:24.472 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.service_4.0.0 [537]
+2018-06-01 10:43:24.474 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.taglib_2.0.0 [538]
+2018-06-01 10:43:24.475 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.terms.of.use_3.0.0 [539]
+2018-06-01 10:43:24.543 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.journal.web_2.0.0 [540]
+2018-06-01 10:43:24.545 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.api_5.0.0 [541]
+2018-06-01 10:43:24.548 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.editor.configuration_2.0.0 [542]
+2018-06-01 10:43:24.549 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.item.selector.api_2.0.0 [543]
+2018-06-01 10:43:24.553 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.item.selector.web_2.0.0 [544]
+2018-06-01 10:43:24.553 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.markdown.converter.api_1.0.0 [545]
+2018-06-01 10:43:24.557 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.markdown.converter.impl_1.0.0 [546]
+2018-06-01 10:43:24.606 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.service_2.0.0 [547]
+2018-06-01 10:43:24.683 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.knowledge.base.web_2.0.0 [548]
+2018-06-01 10:43:24.683 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.admin.api_1.0.0 [549]
+2018-06-01 10:43:24.817 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.admin.web_2.0.0 [550]
+2018-06-01 10:43:24.821 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.api_1.0.0 [551]
+2018-06-01 10:43:24.821 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.apio.api_1.0.0 [552]
+2018-06-01 10:43:24.823 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.apio.impl_1.0.0 [553]
+2018-06-01 10:43:24.843 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.impl_3.0.0 [554]
+2018-06-01 10:43:24.843 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.item.selector.api_2.0.0 [555]
+2018-06-01 10:43:24.846 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.item.selector.web_2.0.0 [556]
+2018-06-01 10:43:24.847 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.page.template.api_1.0.0 [557]
+2018-06-01 10:43:24.851 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.page.template.service_1.0.0 [558]
+2018-06-01 10:43:24.851 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.prototype.api_2.0.0 [559]
+2018-06-01 10:43:24.855 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.prototype.impl_2.0.0 [560]
+2018-06-01 10:43:24.855 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.api_2.0.0 [561]
+2018-06-01 10:43:24.860 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.impl_3.0.0 [562]
+2018-06-01 10:43:24.869 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.set.prototype.web_2.0.0 [563]
+2018-06-01 10:43:24.871 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.taglib_3.0.0 [564]
+2018-06-01 10:43:24.877 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.asset.display_1.0.0 [565]
+2018-06-01 10:43:24.882 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.content_1.0.0 [566]
+2018-06-01 10:43:24.885 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.control.panel_3.0.0 [567]
+2018-06-01 10:43:24.889 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.full.page.application_3.0.0 [568]
+2018-06-01 10:43:24.894 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.link.to.page_1.0.0 [569]
+2018-06-01 10:43:24.895 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.type.controller.node_3.0.0 [570]
+2018-06-01 10:43:24.902 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.layout.uad_1.0.0 [571]
+2018-06-01 10:43:24.908 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.license.manager.web_3.0.0 [572]
+2018-06-01 10:43:24.911 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.loan.calculator.web_2.0.0 [573]
+2018-06-01 10:43:24.915 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.facebook.connect.web_3.0.0 [574]
+2018-06-01 10:43:24.917 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.google.web_3.0.0 [575]
+2018-06-01 10:43:24.922 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.openid.connect.web_1.0.0 [576]
+2018-06-01 10:43:24.925 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.login.authentication.openid.web_3.0.0 [577]
+2018-06-01 10:43:24.955 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.login.web_3.0.0 [578]
+2018-06-01 10:43:24.956 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.api_2.0.0 [579]
+2018-06-01 10:43:24.973 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.service_3.0.0 [580]
+2018-06-01 10:43:24.979 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mail.reader.web_2.0.0 [581]
+2018-06-01 10:43:24.982 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.map.api_3.0.0 [582]
+2018-06-01 10:43:24.983 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.map.common_3.0.0 [583]
+2018-06-01 10:43:24.985 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.map.google.maps_2.0.0 [584]
+2018-06-01 10:43:24.988 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.map.openstreetmap_3.0.0 [585]
+2018-06-01 10:43:24.990 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.map.taglib_2.0.0 [586]
+2018-06-01 10:43:24.990 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.marketplace.api_5.0.0 [587]
+2018-06-01 10:43:24.996 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.marketplace.app.manager.web_2.0.0 [588]
+2018-06-01 10:43:24.999 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.marketplace.deployer_3.0.0 [589]
+2018-06-01 10:43:25.008 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.marketplace.service_4.0.0 [590]
+2018-06-01 10:43:25.014 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.marketplace.store.web_4.0.0 [591]
+2018-06-01 10:43:25.015 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.media.object.apio.api_1.0.0 [592]
+2018-06-01 10:43:25.019 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.media.object.apio.impl_1.0.0 [593]
+2018-06-01 10:43:25.019 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mentions.api_3.0.0 [594]
+2018-06-01 10:43:25.030 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mentions.service_3.0.0 [595]
+2018-06-01 10:43:25.044 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mentions.web_3.0.0 [596]
+2018-06-01 10:43:25.045 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.meris.api_1.0.0 [597]
+2018-06-01 10:43:25.048 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.api_4.0.0 [598]
+2018-06-01 10:43:25.052 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.comment_3.0.0 [599]
+2018-06-01 10:43:25.054 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.editor.configuration_2.0.0 [600]
+2018-06-01 10:43:25.059 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.layout.set.prototype_2.0.0 [601]
+2018-06-01 10:43:25.061 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.parser.bbcode_3.0.0 [602]
+2018-06-01 10:43:25.116 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.service_2.0.0 [603]
+2018-06-01 10:43:25.120 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.uad_1.0.0 [604]
+2018-06-01 10:43:25.242 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.message.boards.web_2.0.0 [605]
+2018-06-01 10:43:25.243 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.microblogs.api_3.0.0 [606]
+2018-06-01 10:43:25.251 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.microblogs.service_3.0.0 [607]
+2018-06-01 10:43:25.273 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.microblogs.web_3.0.0 [608]
+2018-06-01 10:43:25.280 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.microsoft.translator_2.0.0 [609]
+2018-06-01 10:43:25.280 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.api_3.0.0 [610]
+2018-06-01 10:43:25.297 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.service_2.0.0 [611]
+2018-06-01 10:43:25.334 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.mobile.device.rules.web_2.0.0 [612]
+2018-06-01 10:43:25.345 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.monitoring.web_2.0.0 [613]
+2018-06-01 10:43:25.354 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.my.subscriptions.web_2.0.0 [614]
+2018-06-01 10:43:25.362 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.nested.portlets.web_3.0.0 [615]
+2018-06-01 10:43:25.365 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.network.utilities.web_2.0.0 [616]
+2018-06-01 10:43:25.368 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.notifications.uad_1.0.0 [617]
+2018-06-01 10:43:25.377 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.notifications.web_2.0.0 [618]
+2018-06-01 10:43:25.378 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.organizations.api_1.0.0 [619]
+2018-06-01 10:43:25.379 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.organizations.item.selector.api_1.0.0 [620]
+2018-06-01 10:43:25.383 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.organizations.item.selector.web_1.0.0 [621]
+2018-06-01 10:43:25.398 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.organizations.service_1.0.0 [622]
+2018-06-01 10:43:25.401 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.password.generator.web_2.0.0 [623]
+2018-06-01 10:43:25.401 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.api_3.0.0 [624]
+2018-06-01 10:43:25.405 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.impl_2.0.0 [625]
+2018-06-01 10:43:25.407 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.uad_1.0.0 [626]
+2018-06-01 10:43:25.412 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.password.policies.admin.web_2.0.0 [627]
+2018-06-01 10:43:25.413 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.person.apio.api_1.0.0 [628]
+2018-06-01 10:43:25.416 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.person.apio.impl_1.0.0 [629]
+2018-06-01 10:43:25.417 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.petra.doulos_4.0.0 [630]
+2018-06-01 10:43:25.420 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.petra.io.delta_2.0.0 [631]
+2018-06-01 10:43:25.749 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.petra.json.web.service.client_8.0.0 [632]
+2018-06-01 10:43:25.751 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.petra.mail.template_1.0.0 [633]
+2018-06-01 10:43:25.751 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.petra.model.adapter_2.0.0 [634]
+2018-06-01 10:43:25.759 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.plugins.admin.web_2.0.0 [635]
+2018-06-01 10:43:25.759 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.polls.api_5.0.0 [636]
+2018-06-01 10:43:25.780 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.polls.service_4.0.0 [637]
+2018-06-01 10:43:25.808 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.polls.web_3.0.0 [638]
+2018-06-01 10:43:25.835 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.css.web_3.0.0 [639]
+2018-06-01 10:43:25.842 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.close_3.0.0 [640]
+2018-06-01 10:43:25.845 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit.defaults_3.0.0 [641]
+2018-06-01 10:43:25.850 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit.guest_3.0.0 [642]
+2018-06-01 10:43:25.853 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.edit_3.0.0 [643]
+2018-06-01 10:43:25.856 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.help_3.0.0 [644]
+2018-06-01 10:43:25.859 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.locator.impl_1.0.0 [645]
+2018-06-01 10:43:25.863 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.maximize_3.0.0 [646]
+2018-06-01 10:43:25.866 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.minimize_3.0.0 [647]
+2018-06-01 10:43:25.869 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.print_3.0.0 [648]
+2018-06-01 10:43:25.889 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.icon.refresh_3.0.0 [649]
+2018-06-01 10:43:25.900 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.sharing.web_3.0.0 [650]
+2018-06-01 10:43:25.905 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.toolbar.contributor.locator.impl_1.0.0 [651]
+2018-06-01 10:43:25.922 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.configuration.web_2.0.0 [652]
+2018-06-01 10:43:25.923 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.display.template.api_1.0.0 [653]
+2018-06-01 10:43:25.927 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.display.template.impl_1.0.0 [654]
+2018-06-01 10:43:25.935 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.portlet.display.template.web_3.0.0 [655]
+2018-06-01 10:43:25.945 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.api_4.0.0 [656]
+2018-06-01 10:43:25.949 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.theme.contributor_3.0.0 [657]
+2018-06-01 10:43:25.955 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.menu.web_3.0.0 [658]
+2018-06-01 10:43:25.963 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.control.panel_3.0.0 [659]
+2018-06-01 10:43:25.963 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.api_1.0.0 [660]
+2018-06-01 10:43:25.967 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.theme.contributor_3.0.0 [661]
+2018-06-01 10:43:25.977 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.product.menu.web_3.0.0 [662]
+2018-06-01 10:43:25.977 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.api_2.0.0 [663]
+2018-06-01 10:43:25.984 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.device_3.0.0 [664]
+2018-06-01 10:43:25.985 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.theme.contributor_3.0.0 [665]
+2018-06-01 10:43:25.990 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.simulation.web_4.0.0 [666]
+2018-06-01 10:43:26.004 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.site.administration_3.0.0 [667]
+2018-06-01 10:43:26.007 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.taglib_3.0.0 [668]
+2018-06-01 10:43:26.009 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.user_3.0.0 [669]
+2018-06-01 10:43:26.013 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.product.navigation.user.personal.bar.web_3.0.0 [670]
+2018-06-01 10:43:26.014 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.api_2.0.0 [671]
+2018-06-01 10:43:26.016 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.android_2.0.0 [672]
+2018-06-01 10:43:26.025 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.apple_2.0.0 [673]
+2018-06-01 10:43:26.031 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.firebase_2.0.0 [674]
+2018-06-01 10:43:26.050 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.microsoft_2.0.0 [675]
+2018-06-01 10:43:26.058 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.sender.sms_2.0.0 [676]
+2018-06-01 10:43:26.067 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.service_2.0.0 [677]
+2018-06-01 10:43:26.075 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.push.notifications.web_2.0.0 [678]
+2018-06-01 10:43:26.083 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.quick.note.web_3.0.0 [679]
+2018-06-01 10:43:26.085 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ratings.analytics_1.0.0 [680]
+2018-06-01 10:43:26.085 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ratings.api_3.0.0 [681]
+2018-06-01 10:43:26.088 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ratings.page.ratings.web_3.0.0 [682]
+2018-06-01 10:43:26.093 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.ratings.service_2.0.0 [683]
+2018-06-01 10:43:26.093 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.reading.time.api_1.0.0 [684]
+2018-06-01 10:43:26.098 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.reading.time.service_1.0.0 [686]
+2018-06-01 10:43:26.100 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.reading.time.taglib_1.0.0 [687]
+2018-06-01 10:43:26.105 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.reading.time.web_1.0.0 [688]
+2018-06-01 10:43:26.114 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.recent.documents.web_3.0.0 [689]
+2018-06-01 10:43:26.115 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.api_3.0.0 [690]
+2018-06-01 10:43:26.122 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.impl_2.0.0 [691]
+2018-06-01 10:43:26.137 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.admin.web_2.0.0 [692]
+2018-06-01 10:43:26.137 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.item.selector.api_1.0.0 [693]
+2018-06-01 10:43:26.140 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.item.selector.web_1.0.0 [694]
+2018-06-01 10:43:26.145 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.selector.web_2.0.0 [695]
+2018-06-01 10:43:26.147 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.roles.uad_1.0.0 [696]
+2018-06-01 10:43:26.147 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.rss.api_2.0.0 [697]
+2018-06-01 10:43:26.161 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.rss.impl_1.0.0 [698]
+2018-06-01 10:43:26.163 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.rss.taglib_1.0.0 [699]
+2018-06-01 10:43:26.178 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.rss.web_4.0.0 [700]
+2018-06-01 10:43:26.179 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.screens.api_4.0.0 [701]
+2018-06-01 10:43:26.179 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.screens.service_2.0.0 [702]
+2018-06-01 10:43:26.205 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.server.admin.web_2.0.0 [703]
+2018-06-01 10:43:26.261 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.admin.web_2.0.0 [704]
+2018-06-01 10:43:26.264 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.api_3.0.0 [705]
+2018-06-01 10:43:26.265 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.apio.api_1.0.0 [706]
+2018-06-01 10:43:26.266 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.apio.impl_1.0.0 [707]
+2018-06-01 10:43:26.275 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.browser.web_3.0.0 [708]
+2018-06-01 10:43:26.292 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.impl_1.0.0 [709]
+2018-06-01 10:43:26.293 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.item.selector.api_2.0.0 [710]
+2018-06-01 10:43:26.300 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.item.selector.web_3.0.0 [711]
+2018-06-01 10:43:26.318 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.memberships.web_2.0.0 [712]
+2018-06-01 10:43:26.323 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.my.sites.web_3.0.0 [713]
+2018-06-01 10:43:26.324 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.admin.api_1.0.0 [714]
+2018-06-01 10:43:26.338 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.admin.web_1.0.0 [715]
+2018-06-01 10:43:26.345 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.api_1.0.0 [716]
+2018-06-01 10:43:26.356 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.breadcrumb.web_4.0.0 [717]
+2018-06-01 10:43:26.365 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.directory.web_3.0.0 [718]
+2018-06-01 10:43:26.365 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.item.selector.api_1.0.0 [719]
+2018-06-01 10:43:26.371 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.item.selector.web_1.0.0 [720]
+2018-06-01 10:43:26.372 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.lang_1.0.0 [721]
+2018-06-01 10:43:26.373 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.language.api_2.0.0 [722]
+2018-06-01 10:43:26.383 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.language.web_4.0.0 [723]
+2018-06-01 10:43:26.384 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.api_1.0.0 [724]
+2018-06-01 10:43:26.388 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.layout_1.0.0 [725]
+2018-06-01 10:43:26.389 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.node_1.0.0 [726]
+2018-06-01 10:43:26.391 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.item.url_1.0.0 [727]
+2018-06-01 10:43:26.406 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.menu.web_3.0.0 [728]
+2018-06-01 10:43:26.410 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.service_1.0.0 [729]
+2018-06-01 10:43:26.420 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.site.map.web_3.0.0 [730]
+2018-06-01 10:43:26.423 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.navigation.taglib_3.0.0 [731]
+2018-06-01 10:43:26.426 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.service_1.0.0 [732]
+2018-06-01 10:43:26.428 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.taglib_1.0.0 [733]
+2018-06-01 10:43:26.429 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.teams.uad_1.0.0 [734]
+2018-06-01 10:43:26.440 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.site.teams.web_2.0.0 [735]
+2018-06-01 10:43:26.441 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.activities.api_2.0.0 [736]
+2018-06-01 10:43:26.442 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.activities.taglib_1.0.0 [737]
+2018-06-01 10:43:26.449 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.activities.web_3.0.0 [738]
+2018-06-01 10:43:26.449 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.activity.api_2.0.0 [739]
+2018-06-01 10:43:26.461 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.activity.web_3.0.0 [740]
+2018-06-01 10:43:26.462 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmark.facebook_1.0.0 [741]
+2018-06-01 10:43:26.463 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmark.linkedin_1.0.0 [742]
+2018-06-01 10:43:26.465 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmark.plusone_1.0.0 [743]
+2018-06-01 10:43:26.466 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmark.twitter_1.0.0 [744]
+2018-06-01 10:43:26.467 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmarks.analytics_1.0.0 [745]
+2018-06-01 10:43:26.468 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmarks.api_1.0.0 [746]
+2018-06-01 10:43:26.474 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.bookmarks.taglib_1.0.0 [747]
+2018-06-01 10:43:26.483 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.group.statistics.web_3.0.0 [748]
+2018-06-01 10:43:26.484 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.networking.api_3.0.0 [749]
+2018-06-01 10:43:26.487 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.networking.service_4.0.0 [750]
+2018-06-01 10:43:26.520 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.networking.web_2.0.0 [751]
+2018-06-01 10:43:26.526 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.requests.web_2.0.0 [752]
+2018-06-01 10:43:26.526 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.user.statistics.api_2.0.0 [753]
+2018-06-01 10:43:26.534 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.social.user.statistics.web_4.0.0 [754]
+2018-06-01 10:43:26.535 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.api_3.0.0 [755]
+2018-06-01 10:43:26.559 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.bar.web_2.0.0 [756]
+2018-06-01 10:43:26.567 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.configuration.web_2.0.0 [757]
+2018-06-01 10:43:26.570 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.impl_1.0.0 [758]
+2018-06-01 10:43:26.570 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.lang_3.0.0 [759]
+2018-06-01 10:43:26.572 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.portlet.data.handler_4.0.0 [760]
+2018-06-01 10:43:26.599 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.processes.web_2.0.0 [761]
+2018-06-01 10:43:26.604 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.security_3.0.0 [762]
+2018-06-01 10:43:26.606 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.staging.taglib_4.0.0 [763]
+2018-06-01 10:43:26.606 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.subscription.api_1.0.0 [764]
+2018-06-01 10:43:26.616 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.subscription.service_1.0.0 [765]
+2018-06-01 10:43:26.628 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.subscription.web_1.0.0 [766]
+2018-06-01 10:43:26.632 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.sync.api_4.0.0 [767]
+2018-06-01 10:43:26.639 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.sync.security_3.0.0 [768]
+2018-06-01 10:43:26.658 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.sync.service_2.0.0 [769]
+2018-06-01 10:43:26.667 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.sync.web_2.0.0 [770]
+2018-06-01 10:43:26.667 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.text.localizer.address.api_1.0.0 [771]
+2018-06-01 10:43:26.669 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.text.localizer.taglib_1.0.0 [772]
+2018-06-01 10:43:26.673 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.translator.web_2.0.0 [773]
+2018-06-01 10:43:26.674 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.trash.api_1.0.0 [774]
+2018-06-01 10:43:26.698 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.trash.service_2.0.0 [775]
+2018-06-01 10:43:26.699 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.trash.taglib_3.0.0 [776]
+2018-06-01 10:43:26.711 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.trash.web_2.0.0 [777]
+2018-06-01 10:43:26.711 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.twitter.api_2.0.0 [778]
+2018-06-01 10:43:26.723 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.twitter.service_3.0.0 [779]
+2018-06-01 10:43:26.727 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.twitter.web_2.0.0 [780]
+2018-06-01 10:43:26.730 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.unit.converter.web_2.0.0 [781]
+2018-06-01 10:43:26.731 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.upload.api_2.0.0 [782]
+2018-06-01 10:43:26.747 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.upload.web_2.0.0 [783]
+2018-06-01 10:43:26.748 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.associated.data.api_1.0.0 [784]
+2018-06-01 10:43:26.800 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.associated.data.web_1.0.0 [785]
+2018-06-01 10:43:26.800 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.api_3.0.0 [786]
+2018-06-01 10:43:26.809 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.impl_2.0.0 [787]
+2018-06-01 10:43:26.811 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.item.selector.api_1.0.0 [788]
+2018-06-01 10:43:26.816 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.item.selector.web_1.0.0 [789]
+2018-06-01 10:43:26.818 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.uad_1.0.0 [790]
+2018-06-01 10:43:26.843 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.user.groups.admin.web_2.0.0 [791]
+2018-06-01 10:43:26.844 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.users.admin.api_3.0.0 [792]
+2018-06-01 10:43:26.863 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.users.admin.impl_2.0.0 [793]
+2018-06-01 10:43:26.864 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.users.admin.item.selector.api_1.0.0 [794]
+2018-06-01 10:43:26.867 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.users.admin.item.selector.web_1.0.0 [795]
+2018-06-01 10:43:26.991 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.users.admin.web_3.0.0 [796]
+2018-06-01 10:43:27.001 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.weather.web_2.0.0 [797]
+2018-06-01 10:43:27.016 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.web.form.web_2.0.0 [798]
+2018-06-01 10:43:27.016 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.web.page.element.apio.api_1.0.0 [799]
+2018-06-01 10:43:27.018 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.web.page.element.apio.impl_1.0.0 [800]
+2018-06-01 10:43:27.026 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.web.proxy.web_2.0.0 [801]
+2018-06-01 10:43:27.027 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.websocket.whiteboard_2.0.0 [802]
+2018-06-01 10:43:27.028 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.api_3.0.0 [803]
+2018-06-01 10:43:27.038 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.editor.configuration_2.0.0 [804]
+2018-06-01 10:43:27.040 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.editor.link.browse.web_1.0.0 [805]
+2018-06-01 10:43:27.047 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.creole_3.0.0 [806]
+2018-06-01 10:43:27.052 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.html_3.0.0 [807]
+2018-06-01 10:43:27.054 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.input.editor.common_4.0.0 [808]
+2018-06-01 10:43:27.054 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.lang_2.0.0 [809]
+2018-06-01 10:43:27.059 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.mediawiki_3.0.0 [810]
+2018-06-01 10:43:27.061 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.engine.text_3.0.0 [811]
+2018-06-01 10:43:27.067 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.layout.prototype_2.0.0 [812]
+2018-06-01 10:43:27.073 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.navigation.web_3.0.0 [813]
+2018-06-01 10:43:27.145 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.service_2.0.0 [814]
+2018-06-01 10:43:27.149 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.uad_1.0.0 [815]
+2018-06-01 10:43:27.347 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wiki.web_4.0.0 [816]
+2018-06-01 10:43:27.355 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.wysiwyg.web_2.0.0 [817]
+2018-06-01 10:43:27.365 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.xsl.content.web_3.0.0 [818]
+2018-06-01 10:43:27.368 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.xstream.configurator.api_3.0.0 [819]
+2018-06-01 10:43:27.372 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.youtube.web_2.0.0 [820]
+2018-06-01 10:43:27.373 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.maxmind.geoip.api_1.2.14 [821]
+2018-06-01 10:43:27.373 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED org.tukaani.xz_1.5.0 [822]
+2018-06-01 10:43:27.376 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED admin-theme_1.0.40 [823]
+2018-06-01 10:43:27.378 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED classic-theme_2.0.0 [824]
+2018-06-01 10:43:27.381 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED fjord-theme_1.0.29 [825]
+2018-06-01 10:43:27.382 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED frontend-columns-layouttpl_1.0.0 [826]
+2018-06-01 10:43:27.429 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED opensocial-portlet_7.1.0.42 [827]
+2018-06-01 10:43:27.433 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED porygon-theme_1.0.26 [828]
+2018-06-01 10:43:27.435 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED powwow-portlet_7.1.0.20 [829]
+2018-06-01 10:43:27.436 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED social-bookmarks-hook_7.1.0.8 [830]
+2018-06-01 10:43:27.437 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED tasks-portlet_7.1.0.17 [831]
+2018-06-01 10:43:27.440 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED westeros-bank-theme_1.0.42 [832]
+2018-06-01 10:43:27.441 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.api_1.0.0 [833]
+2018-06-01 10:43:27.460 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.application_1.0.0 [834]
+2018-06-01 10:43:27.487 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.error_1.0.0 [835]
+2018-06-01 10:43:27.490 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.error.problem.json_1.0.0 [836]
+2018-06-01 10:43:27.516 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.jaxrs.json_1.0.0 [837]
+2018-06-01 10:43:27.520 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.hal_1.0.0 [838]
+2018-06-01 10:43:27.535 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.json.ld_1.0.0 [839]
+2018-06-01 10:43:27.540 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.message.json.plain_1.0.0 [840]
+2018-06-01 10:43:27.549 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.response.control_1.0.0 [841]
+2018-06-01 10:43:27.550 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.wiring.osgi.api_1.0.0 [842]
+2018-06-01 10:43:27.897 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.wiring.osgi.impl_1.0.0 [843]
+2018-06-01 10:43:27.897 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.apio.architect.writer.api_1.0.0 [844]
+2018-06-01 10:43:27.898 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.forms.apio.api_1.0.0 [860]
+2018-06-01 10:43:27.917 INFO  [Start Level: Equinox Container: 404072a8-a165-0018-1bcb-b67e37907071][BundleStartStopLogger:35] STARTED com.liferay.forms.apio.impl_1.0.0 [861]
+2018-06-01 10:43:28.038 INFO  [main][BundleStartStopLogger:35] STARTED org.apache.felix.fileinstall_3.5.4.LIFERAY-PATCHED-2 [40]
+2018-06-01 10:43:44.885 WARN  [main][EmbeddedElasticsearchConnection:321] Liferay is configured to use embedded Elasticsearch as its search engine. Do NOT use embedded Elasticsearch in production. Embedded Elasticsearch is useful for development and demonstration purposes. Remote Elasticsearch connections can be configured in the Control Panel.
+2018-06-01 10:43:52.305 WARN  [main][MainServlet:261] The default JVM time zone "America/Recife" is not UTC or GMT. Please review the JVM property "user.timezone".
+2018-06-01 10:43:52.318 INFO  [main][StartupHelper:72] There are no patches installed
+2018-06-01 10:43:52.497 INFO  [main][BaseDB:520] Database does not support case sensitive queries
+2018-06-01 10:43:54.132 INFO  [main][PluginPackageUtil:998] Reading plugin package for the root context
+2018-06-01 10:43:54.745 INFO  [main][AutoDeployDir:195] Auto deploy scanner started for /Users/paulo/Documents/eclipse-workspace/bundles/liferay-portal/deploy
+2018-06-01 10:45:24.072 INFO  [main][HotDeployImpl:226] Deploying admin-theme from queue
+2018-06-01 10:45:24.075 INFO  [main][PluginPackageUtil:1001] Reading plugin package for admin-theme
+2018-06-01 10:45:24.100 INFO  [main][ThemeHotDeployListener:93] Registering themes for admin-theme
+2018-06-01 10:45:25.942 INFO  [main][ThemeHotDeployListener:108] 1 theme for admin-theme is available for use
+2018-06-01 10:45:26.637 INFO  [main][HotDeployImpl:226] Deploying classic-theme from queue
+2018-06-01 10:45:26.638 INFO  [main][PluginPackageUtil:1001] Reading plugin package for classic-theme
+2018-06-01 10:45:26.645 INFO  [main][ThemeHotDeployListener:93] Registering themes for classic-theme
+2018-06-01 10:45:27.606 INFO  [main][ThemeHotDeployListener:108] 1 theme for classic-theme is available for use
+2018-06-01 10:45:28.151 INFO  [main][HotDeployImpl:226] Deploying fjord-theme from queue
+2018-06-01 10:45:28.151 INFO  [main][PluginPackageUtil:1001] Reading plugin package for fjord-theme
+2018-06-01 10:45:28.159 INFO  [main][ThemeHotDeployListener:93] Registering themes for fjord-theme
+2018-06-01 10:45:29.095 INFO  [main][ThemeHotDeployListener:108] 1 theme for fjord-theme is available for use
+2018-06-01 10:45:29.636 INFO  [main][HotDeployImpl:226] Deploying frontend-columns-layouttpl from queue
+2018-06-01 10:45:29.637 INFO  [main][PluginPackageUtil:1001] Reading plugin package for frontend-columns-layouttpl
+2018-06-01 10:45:29.645 INFO  [main][LayoutTemplateHotDeployListener:89] Registering layout templates for frontend-columns-layouttpl
+2018-06-01 10:45:29.667 INFO  [main][LayoutTemplateHotDeployListener:109] 5 layout templates for frontend-columns-layouttpl are available for use
+2018-06-01 10:45:33.488 INFO  [main][HotDeployImpl:226] Deploying opensocial-portlet from queue
+2018-06-01 10:45:33.489 INFO  [main][PluginPackageUtil:1001] Reading plugin package for opensocial-portlet
+2018-06-01 10:45:35.655 INFO  [main][HookHotDeployListener:457] Registering hook for opensocial-portlet
+2018-06-01 10:45:35.685 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ar.properties
+2018-06-01 10:45:35.685 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_bg.properties
+2018-06-01 10:45:35.690 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_cs.properties
+2018-06-01 10:45:35.691 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_da.properties
+2018-06-01 10:45:35.694 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_el.properties
+2018-06-01 10:45:35.707 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_et.properties
+2018-06-01 10:45:35.707 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_eu.properties
+2018-06-01 10:45:35.708 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_fa.properties
+2018-06-01 10:45:35.716 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_gl.properties
+2018-06-01 10:45:35.736 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_hr.properties
+2018-06-01 10:45:35.740 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_in.properties
+2018-06-01 10:45:35.740 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_it.properties
+2018-06-01 10:45:35.746 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ko.properties
+2018-06-01 10:45:35.747 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lo.properties
+2018-06-01 10:45:35.748 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lt.properties
+2018-06-01 10:45:35.749 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_nb.properties
+2018-06-01 10:45:35.764 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_pl.properties
+2018-06-01 10:45:35.782 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ro.properties
+2018-06-01 10:45:35.783 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ru.properties
+2018-06-01 10:45:35.783 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sk.properties
+2018-06-01 10:45:35.784 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sl.properties
+2018-06-01 10:45:35.813 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sv.properties
+2018-06-01 10:45:35.814 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_th.properties
+2018-06-01 10:45:35.814 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_tr.properties
+2018-06-01 10:45:35.815 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_uk.properties
+2018-06-01 10:45:35.815 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_vi.properties
+2018-06-01 10:45:35.833 INFO  [main][HookHotDeployListener:533] Hook for opensocial-portlet is available for use
+2018-06-01 10:45:35.835 INFO  [main][PortletHotDeployListener:186] Registering portlets for opensocial-portlet
+2018-06-01 10:45:36.739 INFO  [main][PortletHotDeployListener:303] 4 portlets for opensocial-portlet are available for use
+2018-06-01 10:45:38.041 INFO  [main][HotDeployImpl:226] Deploying porygon-theme from queue
+2018-06-01 10:45:38.042 INFO  [main][PluginPackageUtil:1001] Reading plugin package for porygon-theme
+2018-06-01 10:45:38.050 INFO  [main][ThemeHotDeployListener:93] Registering themes for porygon-theme
+2018-06-01 10:45:38.981 INFO  [main][ThemeHotDeployListener:108] 1 theme for porygon-theme is available for use
+2018-06-01 10:45:39.660 INFO  [main][HotDeployImpl:226] Deploying powwow-portlet from queue
+2018-06-01 10:45:39.661 INFO  [main][PluginPackageUtil:1001] Reading plugin package for powwow-portlet
+2018-06-01 10:45:39.959 INFO  [main][HookHotDeployListener:457] Registering hook for powwow-portlet
+2018-06-01 10:45:39.966 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ar.properties
+2018-06-01 10:45:39.967 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_bg.properties
+2018-06-01 10:45:39.970 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_cs.properties
+2018-06-01 10:45:39.971 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_da.properties
+2018-06-01 10:45:39.974 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_el.properties
+2018-06-01 10:45:39.980 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_et.properties
+2018-06-01 10:45:39.981 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_eu.properties
+2018-06-01 10:45:39.981 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_fa.properties
+2018-06-01 10:45:39.988 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_gl.properties
+2018-06-01 10:45:39.991 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_hr.properties
+2018-06-01 10:45:39.995 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_in.properties
+2018-06-01 10:45:39.995 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_it.properties
+2018-06-01 10:45:40.001 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ko.properties
+2018-06-01 10:45:40.001 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lo.properties
+2018-06-01 10:45:40.002 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lt.properties
+2018-06-01 10:45:40.002 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_nb.properties
+2018-06-01 10:45:40.010 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_pl.properties
+2018-06-01 10:45:40.017 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ro.properties
+2018-06-01 10:45:40.018 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ru.properties
+2018-06-01 10:45:40.018 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sk.properties
+2018-06-01 10:45:40.019 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sl.properties
+2018-06-01 10:45:40.025 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sv.properties
+2018-06-01 10:45:40.025 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_th.properties
+2018-06-01 10:45:40.026 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_tr.properties
+2018-06-01 10:45:40.026 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_uk.properties
+2018-06-01 10:45:40.027 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_vi.properties
+2018-06-01 10:45:40.033 INFO  [main][HookHotDeployListener:533] Hook for powwow-portlet is available for use
+2018-06-01 10:45:40.035 INFO  [main][PortletHotDeployListener:186] Registering portlets for powwow-portlet
+2018-06-01 10:45:40.362 INFO  [main][PortletHotDeployListener:303] 2 portlets for powwow-portlet are available for use
+2018-06-01 10:45:40.984 INFO  [main][HotDeployImpl:226] Deploying social-bookmarks-hook from queue
+2018-06-01 10:45:40.984 INFO  [main][PluginPackageUtil:1001] Reading plugin package for social-bookmarks-hook
+2018-06-01 10:45:40.992 INFO  [main][HookHotDeployListener:457] Registering hook for social-bookmarks-hook
+2018-06-01 10:45:41.001 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ar.properties
+2018-06-01 10:45:41.001 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_bg.properties
+2018-06-01 10:45:41.006 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_cs.properties
+2018-06-01 10:45:41.006 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_da.properties
+2018-06-01 10:45:41.010 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_el.properties
+2018-06-01 10:45:41.018 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_et.properties
+2018-06-01 10:45:41.019 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_eu.properties
+2018-06-01 10:45:41.020 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_fa.properties
+2018-06-01 10:45:41.027 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_gl.properties
+2018-06-01 10:45:41.030 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_hr.properties
+2018-06-01 10:45:41.034 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_in.properties
+2018-06-01 10:45:41.035 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_it.properties
+2018-06-01 10:45:41.044 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ko.properties
+2018-06-01 10:45:41.045 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lo.properties
+2018-06-01 10:45:41.045 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lt.properties
+2018-06-01 10:45:41.046 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_nb.properties
+2018-06-01 10:45:41.052 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_pl.properties
+2018-06-01 10:45:41.058 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ro.properties
+2018-06-01 10:45:41.059 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ru.properties
+2018-06-01 10:45:41.059 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sk.properties
+2018-06-01 10:45:41.059 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sl.properties
+2018-06-01 10:45:41.067 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sv.properties
+2018-06-01 10:45:41.068 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_th.properties
+2018-06-01 10:45:41.068 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_tr.properties
+2018-06-01 10:45:41.069 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_uk.properties
+2018-06-01 10:45:41.069 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_vi.properties
+2018-06-01 10:45:41.085 INFO  [main][HookHotDeployListener:533] Hook for social-bookmarks-hook is available for use
+2018-06-01 10:45:41.934 INFO  [main][HotDeployImpl:226] Deploying tasks-portlet from queue
+2018-06-01 10:45:41.935 INFO  [main][PluginPackageUtil:1001] Reading plugin package for tasks-portlet
+2018-06-01 10:45:42.141 INFO  [main][HookHotDeployListener:457] Registering hook for tasks-portlet
+2018-06-01 10:45:42.146 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ar.properties
+2018-06-01 10:45:42.147 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_bg.properties
+2018-06-01 10:45:42.150 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_cs.properties
+2018-06-01 10:45:42.150 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_da.properties
+2018-06-01 10:45:42.153 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_el.properties
+2018-06-01 10:45:42.158 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_et.properties
+2018-06-01 10:45:42.158 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_eu.properties
+2018-06-01 10:45:42.159 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_fa.properties
+2018-06-01 10:45:42.182 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_gl.properties
+2018-06-01 10:45:42.185 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_hr.properties
+2018-06-01 10:45:42.189 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_in.properties
+2018-06-01 10:45:42.190 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_it.properties
+2018-06-01 10:45:42.196 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ko.properties
+2018-06-01 10:45:42.197 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lo.properties
+2018-06-01 10:45:42.197 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_lt.properties
+2018-06-01 10:45:42.198 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_nb.properties
+2018-06-01 10:45:42.203 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_pl.properties
+2018-06-01 10:45:42.209 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ro.properties
+2018-06-01 10:45:42.209 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_ru.properties
+2018-06-01 10:45:42.210 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sk.properties
+2018-06-01 10:45:42.210 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sl.properties
+2018-06-01 10:45:42.216 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_sv.properties
+2018-06-01 10:45:42.216 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_th.properties
+2018-06-01 10:45:42.216 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_tr.properties
+2018-06-01 10:45:42.217 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_uk.properties
+2018-06-01 10:45:42.217 INFO  [main][HookHotDeployListener:1172] Ignoring content/Language_vi.properties
+2018-06-01 10:45:42.224 INFO  [main][HookHotDeployListener:533] Hook for tasks-portlet is available for use
+2018-06-01 10:45:42.226 INFO  [main][PortletHotDeployListener:186] Registering portlets for tasks-portlet
+2018-06-01 10:45:42.602 INFO  [main][PortletHotDeployListener:303] 2 portlets for tasks-portlet are available for use
+2018-06-01 10:45:43.231 INFO  [main][HotDeployImpl:226] Deploying westeros-bank-theme from queue
+2018-06-01 10:45:43.232 INFO  [main][PluginPackageUtil:1001] Reading plugin package for westeros-bank-theme
+2018-06-01 10:45:43.239 INFO  [main][ThemeHotDeployListener:93] Registering themes for westeros-bank-theme
+2018-06-01 10:45:44.146 INFO  [main][ThemeHotDeployListener:108] 1 theme for westeros-bank-theme is available for use
+2018-06-01 10:45:44.337 INFO  [main][SystemCheckOSGiCommands:58] Running system check. You can run this with command "system:check" in gogo shell
+2018-06-01 10:45:44.338 INFO  [main][SystemCheckOSGiCommands:74] Available checkers :[Declarative Service Soft Circular Dependency Checker, Declarative Service Unsatisfied Component Checker, Spring Extender Unavailable Component Checker]
+2018-06-01 10:45:44.339 INFO  [main][SystemCheckOSGiCommands:87] Running "Declarative Service Soft Circular Dependency Checker". You can run this by itself with command "ds:softCircularDependency" in gogo shell.
+2018-06-01 10:45:45.303 INFO  [main][SystemCheckOSGiCommands:94] Declarative Service Soft Circular Dependency Checker check result: No issue is found.
+2018-06-01 10:45:45.304 INFO  [main][SystemCheckOSGiCommands:87] Running "Declarative Service Unsatisfied Component Checker". You can run this by itself with command "ds:unsatisfied" in gogo shell.
+2018-06-01 10:45:45.704 INFO  [main][SystemCheckOSGiCommands:94] Declarative Service Unsatisfied Component Checker check result: No issue is found.
+2018-06-01 10:45:45.704 INFO  [main][SystemCheckOSGiCommands:87] Running "Spring Extender Unavailable Component Checker". You can run this by itself with command "dm na" in gogo shell.
+2018-06-01 10:45:45.709 INFO  [main][SystemCheckOSGiCommands:94] Spring Extender Unavailable Component Checker check result: No issue is found.
+2018-06-01 10:52:27.960 WARN  [http-nio-8080-exec-8][URLConfigurationSource:122] No URLs will be polled as dynamic configuration sources.
+2018-06-01 10:52:27.962 INFO  [http-nio-8080-exec-8][URLConfigurationSource:123] To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2018-06-01 10:52:27.969 INFO  [http-nio-8080-exec-8][DynamicPropertyFactory:266] DynamicPropertyFactory is initialized with configuration sources: com.netflix.config.ConcurrentCompositeConfiguration@4ce2a0ed
+2018-06-01 13:50:57.302 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for westeros-bank-theme
+2018-06-01 13:50:57.307 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for westeros-bank-theme was unregistered
+2018-06-01 13:50:57.315 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for westeros-bank-theme
+2018-06-01 13:50:58.724 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for fjord-theme
+2018-06-01 13:50:58.725 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for fjord-theme was unregistered
+2018-06-01 13:50:58.726 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for fjord-theme
+2018-06-01 13:50:59.077 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for porygon-theme
+2018-06-01 13:50:59.077 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for porygon-theme was unregistered
+2018-06-01 13:50:59.078 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for porygon-theme
+2018-06-01 13:50:59.520 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for tasks-portlet
+2018-06-01 13:50:59.547 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for tasks-portlet were unregistered
+2018-06-01 13:50:59.591 INFO  [Thread-42][HookHotDeployListener:581] Hook for tasks-portlet was unregistered
+2018-06-01 13:50:59.625 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for tasks-portlet
+2018-06-01 13:50:59.909 INFO  [Thread-42][HookHotDeployListener:581] Hook for social-bookmarks-hook was unregistered
+2018-06-01 13:50:59.910 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for social-bookmarks-hook
+2018-06-01 13:51:00.423 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for opensocial-portlet
+2018-06-01 13:51:00.459 INFO  [Thread-42][PortletHotDeployListener:365] 4 portlets for opensocial-portlet were unregistered
+2018-06-01 13:51:00.498 INFO  [Thread-42][HookHotDeployListener:581] Hook for opensocial-portlet was unregistered
+2018-06-01 13:51:00.812 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for opensocial-portlet
+2018-06-01 13:51:02.159 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for classic-theme
+2018-06-01 13:51:02.159 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for classic-theme was unregistered
+2018-06-01 13:51:02.160 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for classic-theme
+2018-06-01 13:51:02.190 INFO  [Thread-42][ThemeHotDeployListener:136] Unregistering themes for admin-theme
+2018-06-01 13:51:02.190 INFO  [Thread-42][ThemeHotDeployListener:170] 1 theme for admin-theme was unregistered
+2018-06-01 13:51:02.192 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for admin-theme
+2018-06-01 13:51:02.279 INFO  [Thread-42][PortletHotDeployListener:331] Unregistering portlets for powwow-portlet
+2018-06-01 13:51:02.566 INFO  [Thread-42][PortletHotDeployListener:365] 2 portlets for powwow-portlet were unregistered
+2018-06-01 13:51:02.598 INFO  [Thread-42][HookHotDeployListener:581] Hook for powwow-portlet was unregistered
+2018-06-01 13:51:02.636 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for powwow-portlet
+2018-06-01 13:51:02.960 INFO  [Thread-42][LayoutTemplateHotDeployListener:137] Unregistering layout templates for frontend-columns-layouttpl
+2018-06-01 13:51:02.962 INFO  [Thread-42][LayoutTemplateHotDeployListener:159] 5 layout templates for frontend-columns-layouttpl were unregistered
+2018-06-01 13:51:02.963 INFO  [Thread-42][PluginPackageUtil:1001] Reading plugin package for frontend-columns-layouttpl
