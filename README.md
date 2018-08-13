@@ -3,7 +3,8 @@ Liferay Portal is an open source enterprise web platform for building business s
 
 To get started, check out the project's community homepage at community.liferay.com!
 
-Official repository: https://github.com/liferay/liferay-portal
+## Official Repository
+https://github.com/liferay/liferay-portal
 
 ## Liferay Portal Community Edition License
 This library, Liferay Portal Community Edition, is free software ("Licensed Software"); you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version.
