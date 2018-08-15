@@ -7,7 +7,7 @@
         "db"
     ],
     "volumes": {
-        "osgi": "/liferay/osgi",
+        "osgi": "/opt/liferay/osgi",
         "data": "/opt/liferay/data/"
     },
     "healthCheck": {
