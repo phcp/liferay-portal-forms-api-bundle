@@ -9,12 +9,5 @@
     "volumes": {
         "osgi": "/opt/liferay/osgi",
         "data": "/opt/liferay/data/"
-    },
-    "healthCheck": {
-        "url": "localhost:8080",
-        "startPeriod": 180,
-        "timeout": 999999,
-        "interval": 30,
-        "retries": 3
     }
 }
